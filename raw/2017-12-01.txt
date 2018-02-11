@@ -1,0 +1,54 @@
+2017-12-01,DAY,MILITARY,GOLD,Gold,Blue
+2017-12-01,DAY,MILITARY,GOLD,Gold,Blue
+2017-12-01,DAY,MILITARY,GOLD,Gold,Blue
+2017-12-01,DAY,MILITARY,GOLD,Gold,Blue
+2017-12-01,NIGHT,ECONOMY,BLUE,Gold,Blue
+2017-12-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-12-01,DUSK,MILITARY,GOLD,Gold,Blue
+2017-12-01,DUSK,MILITARY,GOLD,Gold,Blue
+2017-12-01,DUSK,MILITARY,GOLD,Gold,Blue
+2017-12-01,DAY,MILITARY,BLUE,By Fire,Team Break
+2017-12-01,NIGHT,MILITARY,BLUE,By Fire,Team Break
+2017-12-01,DAY,SNAIL,GOLD,Welcome to the Ballroom,Filthy Foes
+2017-12-01,DUSK,ECONOMY,GOLD,Welcome to the Ballroom,Filthy Foes
+2017-12-01,DAY,MILITARY,GOLD,You're the Captain,Kill Monkey Kill
+2017-12-01,DAY,MILITARY,BLUE,You're the Captain,Kill Monkey Kill
+2017-12-01,NIGHT,MILITARY,BLUE,You're the Captain,Kill Monkey Kill
+2017-12-01,DAY,MILITARY,GOLD,Filthy Foes,You're the Captain
+2017-12-01,NIGHT,MILITARY,BLUE,Filthy Foes,You're the Captain
+2017-12-01,DUSK,ECONOMY,GOLD,Filthy Foes,You're the Captain
+2017-12-01,DAY,MILITARY,GOLD,Kill Monkey Kill,By Fire
+2017-12-01,NIGHT,MILITARY,BLUE,Kill Monkey Kill,By Fire
+2017-12-01,DUSK,MILITARY,BLUE,Kill Monkey Kill,By Fire
+2017-12-01,DAY,MILITARY,BLUE,Team Break,Welcome to the Ballroom
+2017-12-01,NIGHT,MILITARY,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,DUSK,SNAIL,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,DAY,MILITARY,BLUE,Kill Monkey Kill,Filthy Foes
+2017-12-01,NIGHT,MILITARY,BLUE,Kill Monkey Kill,Filthy Foes
+2017-12-01,DAY,SNAIL,BLUE,You're the Captain,Team Break
+2017-12-01,NIGHT,MILITARY,GOLD,You're the Captain,Team Break
+2017-12-01,DUSK,MILITARY,BLUE,You're the Captain,Team Break
+2017-12-01,DAY,MILITARY,GOLD,By Fire,Welcome to the Ballroom
+2017-12-01,NIGHT,ECONOMY,BLUE,By Fire,Welcome to the Ballroom
+2017-12-01,DUSK,MILITARY,BLUE,By Fire,Welcome to the Ballroom
+2017-12-01,DAY,MILITARY,BLUE,Welcome to the Ballroom,You're the Captain
+2017-12-01,NIGHT,ECONOMY,GOLD,Welcome to the Ballroom,You're the Captain
+2017-12-01,DUSK,ECONOMY,BLUE,Welcome to the Ballroom,You're the Captain
+2017-12-01,DAY,MILITARY,BLUE,Team Break,Kill Monkey Kill
+2017-12-01,NIGHT,SNAIL,GOLD,Team Break,Kill Monkey Kill
+2017-12-01,DUSK,MILITARY,GOLD,Team Break,Kill Monkey Kill
+2017-12-01,DAY,SNAIL,BLUE,Filthy Foes,By Fire
+2017-12-01,NIGHT,MILITARY,BLUE,Filthy Foes,By Fire
+2017-12-01,DAY,MILITARY,GOLD,Kill Monkey Kill,Welcome to the Ballroom
+2017-12-01,NIGHT,MILITARY,BLUE,Kill Monkey Kill,Welcome to the Ballroom
+2017-12-01,DUSK,ECONOMY,BLUE,Kill Monkey Kill,Welcome to the Ballroom
+2017-12-01,DAY,SNAIL,BLUE,By Fire,You're the Captain
+2017-12-01,NIGHT,ECONOMY,GOLD,By Fire,You're the Captain
+2017-12-01,DUSK,MILITARY,GOLD,By Fire,You're the Captain
+2017-12-01,DAY,MILITARY,BLUE,Filthy Foes,Team Break
+2017-12-01,NIGHT,SNAIL,BLUE,Filthy Foes,Team Break
+2017-12-01,DAY,MILITARY,BLUE,Team Break,Welcome to the Ballroom
+2017-12-01,NIGHT,ECONOMY,BLUE,Team Break,Welcome to the Ballroom
+2017-12-01,DUSK,MILITARY,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,NIGHT,MILITARY,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,DAY,MILITARY,GOLD,Team Break,Welcome to the Ballroom

@@ -1,0 +1,96 @@
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,DUSK,MILITARY,BLUE,Gold,Blue
+2017-02-03,DUSK,MILITARY,BLUE,Gold,Blue
+2017-02-03,DUSK,MILITARY,BLUE,Gold,Blue
+2017-02-03,DUSK,MILITARY,BLUE,Gold,Blue
+2017-02-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-02-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,SNAIL,GOLD,Gold,Blue
+2017-02-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-02-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-02-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-02-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-02-03,DUSK,MILITARY,BLUE,Gold,Blue
+2017-02-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-02-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,SNAIL,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,Just Say Wen
+2017-02-03,DAY,ECONOMY,GOLD,DeepHiveMind,Just Say Wen
+2017-02-03,DAY,ECONOMY,BLUE,Full Berry University,The Rent is Too Damn Hive
+2017-02-03,DAY,SNAIL,GOLD,Full Berry University,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,Full Berry University,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,It's Lit Famine
+2017-02-03,NIGHT,SNAIL,BLUE,billywitchdoctor.com,It's Lit Famine
+2017-02-03,NIGHT,MILITARY,GOLD,billywitchdoctor.com,It's Lit Famine
+2017-02-03,DAY,SNAIL,BLUE,Just Say Wen,Buzzy McBuzzface
+2017-02-03,NIGHT,MILITARY,BLUE,Just Say Wen,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,DeepHiveMind
+2017-02-03,DUSK,ECONOMY,GOLD,It's Lit Famine,DeepHiveMind
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Full Berry University
+2017-02-03,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Berry University
+2017-02-03,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Berry University
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,The Rent is Too Damn Hive
+2017-02-03,NIGHT,SNAIL,BLUE,Buzzy McBuzzface,The Rent is Too Damn Hive
+2017-02-03,NIGHT,MILITARY,GOLD,Buzzy McBuzzface,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,It's Lit Famine
+2017-02-03,DAY,MILITARY,GOLD,Just Say Wen,It's Lit Famine
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,It's Lit Famine
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,Full Berry University
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,Full Berry University
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,BLUE,It's Lit Famine,Buzzy McBuzzface
+2017-02-03,NIGHT,MILITARY,BLUE,It's Lit Famine,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,The Rent is Too Damn Hive
+2017-02-03,NIGHT,SNAIL,GOLD,billywitchdoctor.com,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,Full Berry University,Just Say Wen
+2017-02-03,DAY,ECONOMY,GOLD,Full Berry University,Just Say Wen
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,ECONOMY,BLUE,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,MILITARY,BLUE,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,DAY,MILITARY,BLUE,It's Lit Famine,Full Berry University
+2017-02-03,NIGHT,MILITARY,BLUE,It's Lit Famine,Full Berry University
+2017-02-03,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,DeepHiveMind
+2017-02-03,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,DeepHiveMind
+2017-02-03,DAY,MILITARY,GOLD,Full Berry University,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,Full Berry University,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-02-03,NIGHT,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,DeepHiveMind
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,DeepHiveMind
+2017-02-03,DAY,MILITARY,BLUE,billywitchdoctor.com,Just Say Wen
+2017-02-03,NIGHT,MILITARY,GOLD,billywitchdoctor.com,Just Say Wen
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Just Say Wen
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,The Rent is Too Damn Hive
+2017-02-03,NIGHT,MILITARY,BLUE,It's Lit Famine,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,DeepHiveMind,billywitchdoctor.com
+2017-02-03,DAY,MILITARY,BLUE,Full Berry University,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,SNAIL,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,SNAIL,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-02-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-02-03,DUSK,MILITARY,BLUE,Gold,Blue
+2017-02-03,DUSK,MILITARY,GOLD,Gold,Blue
+2017-02-03,DUSK,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,BLUE,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue
+2017-02-03,DAY,MILITARY,GOLD,Gold,Blue

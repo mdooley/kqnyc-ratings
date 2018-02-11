@@ -1,0 +1,92 @@
+2016-06-03,DAY,SNAIL,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,GOLD,Gold,Blue
+2016-06-03,DAY,MILITARY,GOLD,Gold,Blue
+2016-06-03,DAY,MILITARY,GOLD,Gold,Blue
+2016-06-03,DAY,MILITARY,GOLD,Gold,Blue
+2016-06-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-06-03,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-06-03,DAY,ECONOMY,BLUE,Gold,Blue
+2016-06-03,DAY,SNAIL,GOLD,Gold,Blue
+2016-06-03,DAY,ECONOMY,GOLD,Meaningful Momo,Beesiscut
+2016-06-03,NIGHT,MILITARY,GOLD,Meaningful Momo,Beesiscut
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Twin Needle
+2016-06-03,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,Full Snail University,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,Full Snail University,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Fauxmunists,Garbage Snail Kidz
+2016-06-03,NIGHT,MILITARY,GOLD,Fauxmunists,Garbage Snail Kidz
+2016-06-03,DAY,ECONOMY,GOLD,Beesiscut,CuQueens
+2016-06-03,NIGHT,ECONOMY,GOLD,Beesiscut,CuQueens
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-06-03,NIGHT,SNAIL,GOLD,Full Snail University,Twin Needle
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Fauxmunists
+2016-06-03,NIGHT,MILITARY,BLUE,Meaningful Momo,Fauxmunists
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Fauxmunists
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Beesiscut
+2016-06-03,NIGHT,ECONOMY,GOLD,Full Snail University,Beesiscut
+2016-06-03,DAY,MILITARY,BLUE,Berry Your Dead,Fauxmunists
+2016-06-03,NIGHT,ECONOMY,GOLD,Berry Your Dead,Fauxmunists
+2016-06-03,DAY,ECONOMY,BLUE,Berry Your Dead,Fauxmunists
+2016-06-03,DAY,ECONOMY,BLUE,CuQueens,Garbage Snail Kidz
+2016-06-03,NIGHT,ECONOMY,BLUE,CuQueens,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,billywitchdoctor.com
+2016-06-03,NIGHT,ECONOMY,GOLD,Meaningful Momo,billywitchdoctor.com
+2016-06-03,DAY,ECONOMY,BLUE,Beesiscut,Garbage Snail Kidz
+2016-06-03,NIGHT,ECONOMY,BLUE,Beesiscut,Garbage Snail Kidz
+2016-06-03,DAY,ECONOMY,GOLD,CuQueens,Twin Needle
+2016-06-03,NIGHT,ECONOMY,BLUE,CuQueens,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,CuQueens,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,billywitchdoctor.com,Fauxmunists
+2016-06-03,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Fauxmunists
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Fauxmunists
+2016-06-03,DAY,MILITARY,BLUE,Meaningful Momo,Full Snail University
+2016-06-03,NIGHT,MILITARY,GOLD,Meaningful Momo,Full Snail University
+2016-06-03,DAY,MILITARY,BLUE,Meaningful Momo,Full Snail University
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Garbage Snail Kidz
+2016-06-03,NIGHT,SNAIL,GOLD,Meaningful Momo,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Fauxmunists,Twin Needle
+2016-06-03,NIGHT,MILITARY,GOLD,Fauxmunists,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,CuQueens,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,CuQueens,Berry Your Dead
+2016-06-03,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-06-03,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-06-03,DAY,ECONOMY,GOLD,billywitchdoctor.com,CuQueens
+2016-06-03,NIGHT,MILITARY,GOLD,billywitchdoctor.com,CuQueens
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-06-03,NIGHT,SNAIL,BLUE,Full Snail University,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,Meaningful Momo,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Twin Needle,Beesiscut
+2016-06-03,NIGHT,MILITARY,GOLD,Twin Needle,Beesiscut
+2016-06-03,DAY,ECONOMY,BLUE,Full Snail University,Meaningful Momo
+2016-06-03,NIGHT,MILITARY,GOLD,Full Snail University,Meaningful Momo
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Meaningful Momo
+2016-06-03,NIGHT,SNAIL,BLUE,Full Snail University,Meaningful Momo
+2016-06-03,DAY,MILITARY,BLUE,Full Snail University,Meaningful Momo
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,DAY,ECONOMY,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-06-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-06-03,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,BLUE,Gold,Blue
+2016-06-03,DAY,MILITARY,GOLD,Gold,Blue

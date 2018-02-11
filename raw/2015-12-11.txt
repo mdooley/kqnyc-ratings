@@ -1,0 +1,81 @@
+2015-12-11,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-11,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-11,NIGHT,MILITARY,BLUE,Gold,Blue
+2015-12-11,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-11,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-11,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-11,DUSK,ECONOMY,GOLD,Gold,Blue
+2015-12-11,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-11,DAY,MILITARY,BLUE,Meaningful Choices,billywitchdoctor.com
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,billywitchdoctor.com
+2015-12-11,NIGHT,MILITARY,GOLD,Meaningful Choices,billywitchdoctor.com
+2015-12-11,DAY,SNAIL,BLUE,Beauty and the Bees,B(3) Players
+2015-12-11,DUSK,ECONOMY,BLUE,Beauty and the Bees,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Beediocre,Waxon Five
+2015-12-11,DUSK,ECONOMY,GOLD,Beediocre,Waxon Five
+2015-12-11,DAY,ECONOMY,GOLD,Twin Needle,Full Snail University
+2015-12-11,DUSK,ECONOMY,GOLD,Twin Needle,Full Snail University
+2015-12-11,DAY,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2015-12-11,DUSK,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2015-12-11,DAY,ECONOMY,GOLD,Beauty and the Bees,Waxon Five
+2015-12-11,DUSK,MILITARY,BLUE,Beauty and the Bees,Waxon Five
+2015-12-11,NIGHT,MILITARY,BLUE,Beauty and the Bees,Waxon Five
+2015-12-11,DAY,MILITARY,BLUE,Beediocre,B(3) Players
+2015-12-11,DUSK,MILITARY,GOLD,Beediocre,B(3) Players
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Twin Needle
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,Twin Needle
+2015-12-11,DAY,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2015-12-11,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Waxon Five
+2015-12-11,DAY,ECONOMY,BLUE,Twin Needle,B(3) Players
+2015-12-11,DUSK,MILITARY,BLUE,Twin Needle,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Full Snail University,Beauty and the Bees
+2015-12-11,DUSK,MILITARY,BLUE,Full Snail University,Beauty and the Bees
+2015-12-11,NIGHT,MILITARY,GOLD,Full Snail University,Beauty and the Bees
+2015-12-11,DAY,SNAIL,GOLD,Meaningful Choices,Beediocre
+2015-12-11,DUSK,SNAIL,GOLD,Meaningful Choices,Beediocre
+2015-12-11,DAY,MILITARY,BLUE,Waxon Five,Full Snail University
+2015-12-11,DUSK,MILITARY,BLUE,Waxon Five,Full Snail University
+2015-12-11,DAY,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2015-12-11,DUSK,MILITARY,BLUE,Beauty and the Bees,Twin Needle
+2015-12-11,NIGHT,MILITARY,BLUE,Beauty and the Bees,Twin Needle
+2015-12-11,DAY,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2015-12-11,DUSK,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2015-12-11,DAY,MILITARY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,DUSK,ECONOMY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,B(3) Players,Waxon Five
+2015-12-11,DUSK,MILITARY,GOLD,B(3) Players,Waxon Five
+2015-12-11,DAY,ECONOMY,BLUE,Beediocre,Twin Needle
+2015-12-11,DUSK,ECONOMY,GOLD,Beediocre,Twin Needle
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,Twin Needle
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Full Snail University
+2015-12-11,DUSK,MILITARY,BLUE,Meaningful Choices,Full Snail University
+2015-12-11,NIGHT,ECONOMY,GOLD,Meaningful Choices,Full Snail University
+2015-12-11,DAY,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2015-12-11,DUSK,ECONOMY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2015-12-11,NIGHT,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2015-12-11,DAY,MILITARY,GOLD,Beediocre,Full Snail University
+2015-12-11,DUSK,MILITARY,GOLD,Beediocre,Full Snail University
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Beauty and the Bees
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,Beauty and the Bees
+2015-12-11,DAY,ECONOMY,GOLD,Twin Needle,Waxon Five
+2015-12-11,DUSK,ECONOMY,GOLD,Twin Needle,Waxon Five
+2015-12-11,DAY,ECONOMY,GOLD,B(3) Players,billywitchdoctor.com
+2015-12-11,DUSK,ECONOMY,GOLD,B(3) Players,billywitchdoctor.com
+2015-12-11,NIGHT,MILITARY,GOLD,Meaningful Choices,Beediocre
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,B(3) Players
+2015-12-11,DAY,ECONOMY,GOLD,B(3) Players,Meaningful Choices
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Beediocre
+2015-12-11,DAY,MILITARY,BLUE,Beediocre,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,B(3) Players
+2015-12-11,DUSK,MILITARY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,NIGHT,ECONOMY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,B(3) Players
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,B(3) Players
+2015-12-11,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-11,DUSK,SNAIL,BLUE,Gold,Blue
+2015-12-11,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-11,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-11,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-11,DUSK,MILITARY,GOLD,Gold,Blue

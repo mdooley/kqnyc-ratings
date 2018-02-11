@@ -1,0 +1,2976 @@
+2015-12-11,DAY,MILITARY,BLUE,Meaningful Choices,billywitchdoctor.com
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,billywitchdoctor.com
+2015-12-11,NIGHT,MILITARY,GOLD,Meaningful Choices,billywitchdoctor.com
+2015-12-11,DAY,SNAIL,BLUE,Beauty and the Bees,B(3) Players
+2015-12-11,DUSK,ECONOMY,BLUE,Beauty and the Bees,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Beediocre,Waxon Five
+2015-12-11,DUSK,ECONOMY,GOLD,Beediocre,Waxon Five
+2015-12-11,DAY,ECONOMY,GOLD,Twin Needle,Full Snail University
+2015-12-11,DUSK,ECONOMY,GOLD,Twin Needle,Full Snail University
+2015-12-11,DAY,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2015-12-11,DUSK,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2015-12-11,DAY,ECONOMY,GOLD,Beauty and the Bees,Waxon Five
+2015-12-11,DUSK,MILITARY,BLUE,Beauty and the Bees,Waxon Five
+2015-12-11,NIGHT,MILITARY,BLUE,Beauty and the Bees,Waxon Five
+2015-12-11,DAY,MILITARY,BLUE,Beediocre,B(3) Players
+2015-12-11,DUSK,MILITARY,GOLD,Beediocre,B(3) Players
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Twin Needle
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,Twin Needle
+2015-12-11,DAY,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2015-12-11,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Waxon Five
+2015-12-11,DAY,ECONOMY,BLUE,Twin Needle,B(3) Players
+2015-12-11,DUSK,MILITARY,BLUE,Twin Needle,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Full Snail University,Beauty and the Bees
+2015-12-11,DUSK,MILITARY,BLUE,Full Snail University,Beauty and the Bees
+2015-12-11,NIGHT,MILITARY,GOLD,Full Snail University,Beauty and the Bees
+2015-12-11,DAY,SNAIL,GOLD,Meaningful Choices,Beediocre
+2015-12-11,DUSK,SNAIL,GOLD,Meaningful Choices,Beediocre
+2015-12-11,DAY,MILITARY,BLUE,Waxon Five,Full Snail University
+2015-12-11,DUSK,MILITARY,BLUE,Waxon Five,Full Snail University
+2015-12-11,DAY,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2015-12-11,DUSK,MILITARY,BLUE,Beauty and the Bees,Twin Needle
+2015-12-11,NIGHT,MILITARY,BLUE,Beauty and the Bees,Twin Needle
+2015-12-11,DAY,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2015-12-11,DUSK,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2015-12-11,DAY,MILITARY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,DUSK,ECONOMY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,B(3) Players,Waxon Five
+2015-12-11,DUSK,MILITARY,GOLD,B(3) Players,Waxon Five
+2015-12-11,DAY,ECONOMY,BLUE,Beediocre,Twin Needle
+2015-12-11,DUSK,ECONOMY,GOLD,Beediocre,Twin Needle
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,Twin Needle
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Full Snail University
+2015-12-11,DUSK,MILITARY,BLUE,Meaningful Choices,Full Snail University
+2015-12-11,NIGHT,ECONOMY,GOLD,Meaningful Choices,Full Snail University
+2015-12-11,DAY,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2015-12-11,DUSK,ECONOMY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2015-12-11,NIGHT,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2015-12-11,DAY,MILITARY,GOLD,Beediocre,Full Snail University
+2015-12-11,DUSK,MILITARY,GOLD,Beediocre,Full Snail University
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Beauty and the Bees
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,Beauty and the Bees
+2015-12-11,DAY,ECONOMY,GOLD,Twin Needle,Waxon Five
+2015-12-11,DUSK,ECONOMY,GOLD,Twin Needle,Waxon Five
+2015-12-11,DAY,ECONOMY,GOLD,B(3) Players,billywitchdoctor.com
+2015-12-11,DUSK,ECONOMY,GOLD,B(3) Players,billywitchdoctor.com
+2015-12-11,NIGHT,MILITARY,GOLD,Meaningful Choices,Beediocre
+2015-12-11,NIGHT,ECONOMY,GOLD,Beediocre,B(3) Players
+2015-12-11,DAY,ECONOMY,GOLD,B(3) Players,Meaningful Choices
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,Beediocre
+2015-12-11,DAY,MILITARY,BLUE,Beediocre,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,B(3) Players
+2015-12-11,DUSK,MILITARY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,NIGHT,ECONOMY,BLUE,Meaningful Choices,B(3) Players
+2015-12-11,DAY,MILITARY,GOLD,Meaningful Choices,B(3) Players
+2015-12-11,DUSK,MILITARY,GOLD,Meaningful Choices,B(3) Players
+2015-12-18,DAY,ECONOMY,BLUE,Full Snail University,Beediocre
+2015-12-18,DUSK,ECONOMY,BLUE,Full Snail University,Beediocre
+2015-12-18,DAY,ECONOMY,GOLD,billywitchdoctor.com,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,BLUE,billywitchdoctor.com,Queen for the Holidays
+2015-12-18,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Queen for the Holidays
+2015-12-18,DAY,ECONOMY,GOLD,Twin Needle,Pharm Team
+2015-12-18,DUSK,ECONOMY,GOLD,Twin Needle,Pharm Team
+2015-12-18,DAY,MILITARY,BLUE,Beediocre,Beauty and the Bees
+2015-12-18,DUSK,ECONOMY,BLUE,Beediocre,Beauty and the Bees
+2015-12-18,DAY,ECONOMY,GOLD,Pharm Team,Full Snail University
+2015-12-18,DUSK,ECONOMY,GOLD,Pharm Team,Full Snail University
+2015-12-18,DAY,MILITARY,GOLD,Twin Needle,billywitchdoctor.com
+2015-12-18,DUSK,ECONOMY,GOLD,Twin Needle,billywitchdoctor.com
+2015-12-18,DAY,MILITARY,GOLD,Beauty and the Bees,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,BLUE,Beauty and the Bees,Queen for the Holidays
+2015-12-18,NIGHT,MILITARY,BLUE,Beauty and the Bees,Queen for the Holidays
+2015-12-18,DAY,MILITARY,GOLD,Beediocre,Pharm Team
+2015-12-18,DUSK,MILITARY,GOLD,Beediocre,Pharm Team
+2015-12-18,DAY,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2015-12-18,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2015-12-18,NIGHT,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2015-12-18,DAY,MILITARY,BLUE,Pharm Team,Beauty and the Bees
+2015-12-18,DUSK,MILITARY,BLUE,Pharm Team,Beauty and the Bees
+2015-12-18,DAY,MILITARY,BLUE,Twin Needle,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,GOLD,Twin Needle,Queen for the Holidays
+2015-12-18,NIGHT,MILITARY,BLUE,Twin Needle,Queen for the Holidays
+2015-12-18,DAY,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2015-12-18,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2015-12-18,DAY,MILITARY,GOLD,Beauty and the Bees,Twin Needle
+2015-12-18,DUSK,ECONOMY,BLUE,Beauty and the Bees,Twin Needle
+2015-12-18,NIGHT,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2015-12-18,DAY,MILITARY,BLUE,Pharm Team,billywitchdoctor.com
+2015-12-18,DUSK,MILITARY,BLUE,Pharm Team,billywitchdoctor.com
+2015-12-18,DAY,MILITARY,BLUE,Queen for the Holidays,Full Snail University
+2015-12-18,DUSK,MILITARY,GOLD,Queen for the Holidays,Full Snail University
+2015-12-18,NIGHT,MILITARY,GOLD,Queen for the Holidays,Full Snail University
+2015-12-18,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2015-12-18,DUSK,MILITARY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2015-12-18,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2015-12-18,DAY,ECONOMY,BLUE,Full Snail University,Twin Needle
+2015-12-18,DUSK,MILITARY,BLUE,Full Snail University,Twin Needle
+2015-12-18,DAY,ECONOMY,BLUE,Beediocre,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,BLUE,Beediocre,Queen for the Holidays
+2015-12-18,DAY,MILITARY,BLUE,Beauty and the Bees,Full Snail University
+2015-12-18,DUSK,ECONOMY,GOLD,Beauty and the Bees,Full Snail University
+2015-12-18,NIGHT,MILITARY,GOLD,Beauty and the Bees,Full Snail University
+2015-12-18,DAY,ECONOMY,GOLD,Twin Needle,Beediocre
+2015-12-18,DUSK,ECONOMY,GOLD,Twin Needle,Beediocre
+2015-12-18,DAY,MILITARY,BLUE,Pharm Team,Queen for the Holidays
+2015-12-18,DUSK,ECONOMY,BLUE,Pharm Team,Queen for the Holidays
+2015-12-18,DAY,MILITARY,GOLD,Queen for the Holidays,Beauty and the Bees
+2015-12-18,DUSK,MILITARY,GOLD,Queen for the Holidays,Beauty and the Bees
+2015-12-18,NIGHT,ECONOMY,GOLD,Queen for the Holidays,Beauty and the Bees
+2016-01-08,DAY,ECONOMY,BLUE,BeeBee-8,Left Beehind
+2016-01-08,DUSK,ECONOMY,BLUE,BeeBee-8,Left Beehind
+2016-01-08,DAY,ECONOMY,GOLD,Downton Abee,Bee Cups
+2016-01-08,DUSK,ECONOMY,BLUE,Downton Abee,Bee Cups
+2016-01-08,NIGHT,MILITARY,GOLD,Downton Abee,Bee Cups
+2016-01-08,DAY,MILITARY,GOLD,Split Bee Soup,MaQueen a Murderer
+2016-01-08,DUSK,ECONOMY,GOLD,Split Bee Soup,MaQueen a Murderer
+2016-01-08,DAY,MILITARY,GOLD,Left Beehind,BaeBees
+2016-01-08,DUSK,ECONOMY,GOLD,Left Beehind,BaeBees
+2016-01-08,DAY,ECONOMY,BLUE,MaQueen a Murderer,BeeBee-8
+2016-01-08,DUSK,MILITARY,BLUE,MaQueen a Murderer,BeeBee-8
+2016-01-08,DAY,MILITARY,GOLD,Split Bee Soup,Downton Abee
+2016-01-08,DUSK,MILITARY,BLUE,Split Bee Soup,Downton Abee
+2016-01-08,NIGHT,MILITARY,BLUE,Split Bee Soup,Downton Abee
+2016-01-08,DAY,MILITARY,BLUE,BaeBees,Bee Cups
+2016-01-08,DUSK,MILITARY,GOLD,BaeBees,Bee Cups
+2016-01-08,NIGHT,MILITARY,BLUE,BaeBees,Bee Cups
+2016-01-08,DAY,ECONOMY,GOLD,Left Beehind,MaQueen a Murderer
+2016-01-08,DUSK,MILITARY,GOLD,Left Beehind,MaQueen a Murderer
+2016-01-08,DAY,MILITARY,GOLD,BeeBee-8,Downton Abee
+2016-01-08,DUSK,MILITARY,GOLD,BeeBee-8,Downton Abee
+2016-01-08,DAY,ECONOMY,BLUE,MaQueen a Murderer,BaeBees
+2016-01-08,DUSK,MILITARY,GOLD,MaQueen a Murderer,BaeBees
+2016-01-08,NIGHT,MILITARY,BLUE,MaQueen a Murderer,BaeBees
+2016-01-08,DAY,MILITARY,GOLD,Split Bee Soup,Bee Cups
+2016-01-08,DUSK,ECONOMY,GOLD,Split Bee Soup,Bee Cups
+2016-01-08,DAY,ECONOMY,GOLD,Downton Abee,Left Beehind
+2016-01-08,DUSK,MILITARY,GOLD,Downton Abee,Left Beehind
+2016-01-08,DAY,ECONOMY,GOLD,BaeBees,Split Bee Soup
+2016-01-08,DUSK,MILITARY,BLUE,BaeBees,Split Bee Soup
+2016-01-08,NIGHT,SNAIL,BLUE,BaeBees,Split Bee Soup
+2016-01-08,DAY,MILITARY,BLUE,MaQueen a Murderer,Downton Abee
+2016-01-08,DUSK,MILITARY,BLUE,MaQueen a Murderer,Downton Abee
+2016-01-08,DAY,MILITARY,GOLD,Bee Cups,BeeBee-8
+2016-01-08,DUSK,MILITARY,GOLD,Bee Cups,BeeBee-8
+2016-01-08,DAY,ECONOMY,GOLD,Downton Abee,BaeBees
+2016-01-08,DUSK,MILITARY,GOLD,Downton Abee,BaeBees
+2016-01-08,DAY,MILITARY,BLUE,BeeBee-8,Split Bee Soup
+2016-01-08,DUSK,MILITARY,BLUE,BeeBee-8,Split Bee Soup
+2016-01-08,DAY,MILITARY,GOLD,Left Beehind,Bee Cups
+2016-01-08,DUSK,MILITARY,BLUE,Left Beehind,Bee Cups
+2016-01-08,NIGHT,MILITARY,GOLD,Left Beehind,Bee Cups
+2016-01-08,DAY,MILITARY,BLUE,BaeBees,BeeBee-8
+2016-01-08,DUSK,MILITARY,BLUE,BaeBees,BeeBee-8
+2016-01-08,DAY,ECONOMY,GOLD,Split Bee Soup,Left Beehind
+2016-01-08,DUSK,MILITARY,BLUE,Split Bee Soup,Left Beehind
+2016-01-08,NIGHT,MILITARY,GOLD,Split Bee Soup,Left Beehind
+2016-01-08,DAY,ECONOMY,BLUE,MaQueen a Murderer,Bee Cups
+2016-01-08,DUSK,MILITARY,BLUE,MaQueen a Murderer,Bee Cups
+2016-01-08,DAY,ECONOMY,BLUE,Downton Abee,Split Bee Soup
+2016-01-08,DUSK,MILITARY,GOLD,Downton Abee,Split Bee Soup
+2016-01-08,NIGHT,MILITARY,BLUE,Downton Abee,Split Bee Soup
+2016-01-08,DAY,MILITARY,BLUE,Downton Abee,Split Bee Soup
+2016-01-22,DAY,ECONOMY,GOLD,billywitchdoctor.com,NY J Dives
+2016-01-22,DUSK,MILITARY,BLUE,billywitchdoctor.com,NY J Dives
+2016-01-22,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,NY J Dives
+2016-01-22,DAY,MILITARY,GOLD,billywitchdoctor.com,NY J Dives
+2016-01-22,DUSK,MILITARY,BLUE,billywitchdoctor.com,NY J Dives
+2016-01-22,DAY,MILITARY,GOLD,Beediocre,Full Snail University
+2016-01-22,DUSK,ECONOMY,BLUE,Beediocre,Full Snail University
+2016-01-22,NIGHT,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-01-22,DAY,MILITARY,BLUE,Beediocre,Full Snail University
+2016-01-22,DUSK,MILITARY,BLUE,Beediocre,Full Snail University
+2016-01-22,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,NIGHT,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,ECONOMY,GOLD,Beediocre,NY J Dives
+2016-01-22,DUSK,ECONOMY,BLUE,Beediocre,NY J Dives
+2016-01-22,NIGHT,MILITARY,GOLD,Beediocre,NY J Dives
+2016-01-22,DAY,ECONOMY,GOLD,Beediocre,NY J Dives
+2016-01-22,DAY,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DAY,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,DAY,ECONOMY,GOLD,Full Snail University,NY J Dives
+2016-01-22,DUSK,MILITARY,GOLD,Full Snail University,NY J Dives
+2016-01-22,NIGHT,MILITARY,BLUE,Full Snail University,NY J Dives
+2016-01-22,DAY,ECONOMY,BLUE,Full Snail University,NY J Dives
+2016-01-22,DUSK,MILITARY,GOLD,Full Snail University,NY J Dives
+2016-01-22,DAY,MILITARY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DAY,ECONOMY,GOLD,NY J Dives,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,BLUE,NY J Dives,billywitchdoctor.com
+2016-01-22,NIGHT,ECONOMY,BLUE,NY J Dives,billywitchdoctor.com
+2016-01-22,DAY,MILITARY,BLUE,Beediocre,NY J Dives
+2016-01-22,DUSK,ECONOMY,BLUE,Beediocre,NY J Dives
+2016-01-22,DAY,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,NIGHT,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,NIGHT,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2016-02-05,DAY,ECONOMY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2016-02-05,DUSK,MILITARY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2016-02-05,NIGHT,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2016-02-05,DAY,ECONOMY,GOLD,Beediocre,TheBeesKnees
+2016-02-05,DUSK,ECONOMY,GOLD,Beediocre,TheBeesKnees
+2016-02-05,DAY,MILITARY,GOLD,Full Snail University,BD Orca
+2016-02-05,DUSK,MILITARY,GOLD,Full Snail University,BD Orca
+2016-02-05,DAY,MILITARY,GOLD,Beez Nutz,Waxon Five
+2016-02-05,DUSK,MILITARY,BLUE,Beez Nutz,Waxon Five
+2016-02-05,NIGHT,ECONOMY,BLUE,Beez Nutz,Waxon Five
+2016-02-05,DAY,MILITARY,BLUE,TheBeesKnees,Beauty and the Bees
+2016-02-05,DUSK,ECONOMY,BLUE,TheBeesKnees,Beauty and the Bees
+2016-02-05,DAY,ECONOMY,BLUE,BD Orca,billywitchdoctor.com
+2016-02-05,DUSK,MILITARY,BLUE,BD Orca,billywitchdoctor.com
+2016-02-05,DAY,MILITARY,GOLD,Waxon Five,Beediocre
+2016-02-05,DUSK,ECONOMY,BLUE,Waxon Five,Beediocre
+2016-02-05,NIGHT,ECONOMY,BLUE,Waxon Five,Beediocre
+2016-02-05,DAY,ECONOMY,BLUE,Beez Nutz,Full Snail University
+2016-02-05,DUSK,MILITARY,BLUE,Beez Nutz,Full Snail University
+2016-02-05,DAY,ECONOMY,GOLD,Beauty and the Bees,BD Orca
+2016-02-05,DUSK,ECONOMY,GOLD,Beauty and the Bees,BD Orca
+2016-02-05,DAY,MILITARY,BLUE,TheBeesKnees,Waxon Five
+2016-02-05,DUSK,MILITARY,BLUE,TheBeesKnees,Waxon Five
+2016-02-05,DAY,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-02-05,DUSK,MILITARY,GOLD,Beediocre,Full Snail University
+2016-02-05,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beez Nutz
+2016-02-05,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Beez Nutz
+2016-02-05,DAY,MILITARY,GOLD,Waxon Five,Beauty and the Bees
+2016-02-05,DUSK,ECONOMY,BLUE,Waxon Five,Beauty and the Bees
+2016-02-05,NIGHT,MILITARY,BLUE,Waxon Five,Beauty and the Bees
+2016-02-05,DAY,ECONOMY,GOLD,Beez Nutz,BD Orca
+2016-02-05,DUSK,ECONOMY,GOLD,Beez Nutz,BD Orca
+2016-02-05,DAY,SNAIL,GOLD,Full Snail University,TheBeesKnees
+2016-02-05,DUSK,SNAIL,GOLD,Full Snail University,TheBeesKnees
+2016-02-05,DAY,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-02-05,DUSK,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2016-02-05,NIGHT,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-02-05,DAY,MILITARY,GOLD,Beauty and the Bees,Beez Nutz
+2016-02-05,DUSK,ECONOMY,GOLD,Beauty and the Bees,Beez Nutz
+2016-02-05,DAY,MILITARY,BLUE,Waxon Five,Full Snail University
+2016-02-05,DUSK,ECONOMY,BLUE,Waxon Five,Full Snail University
+2016-02-05,DAY,ECONOMY,BLUE,BD Orca,Beediocre
+2016-02-05,DUSK,SNAIL,BLUE,BD Orca,Beediocre
+2016-02-05,DAY,MILITARY,BLUE,TheBeesKnees,billywitchdoctor.com
+2016-02-05,DUSK,MILITARY,BLUE,TheBeesKnees,billywitchdoctor.com
+2016-02-05,DAY,ECONOMY,BLUE,Full Snail University,Beauty and the Bees
+2016-02-05,DUSK,ECONOMY,GOLD,Full Snail University,Beauty and the Bees
+2016-02-05,NIGHT,ECONOMY,GOLD,Full Snail University,Beauty and the Bees
+2016-02-05,DAY,ECONOMY,GOLD,Beediocre,Beez Nutz
+2016-02-05,DUSK,ECONOMY,GOLD,Beediocre,Beez Nutz
+2016-02-05,DAY,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2016-02-05,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Waxon Five
+2016-02-05,DAY,ECONOMY,BLUE,TheBeesKnees,BD Orca
+2016-02-05,DUSK,ECONOMY,BLUE,TheBeesKnees,BD Orca
+2016-02-05,DAY,MILITARY,BLUE,Beauty and the Bees,Beediocre
+2016-02-05,DUSK,ECONOMY,BLUE,Beauty and the Bees,Beediocre
+2016-02-05,DAY,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-02-05,DUSK,ECONOMY,GOLD,Full Snail University,billywitchdoctor.com
+2016-02-05,NIGHT,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-02-05,DAY,MILITARY,GOLD,Beez Nutz,TheBeesKnees
+2016-02-05,DUSK,SNAIL,GOLD,Beez Nutz,TheBeesKnees
+2016-02-05,DAY,MILITARY,BLUE,Waxon Five,BD Orca
+2016-02-05,DUSK,ECONOMY,GOLD,Waxon Five,BD Orca
+2016-02-05,NIGHT,SNAIL,GOLD,Waxon Five,BD Orca
+2016-02-05,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-05,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-05,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-02-05,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-26,DAY,MILITARY,GOLD,billywitchdoctor.com,The Oregon Snails
+2016-02-26,DUSK,ECONOMY,BLUE,billywitchdoctor.com,The Oregon Snails
+2016-02-26,NIGHT,MILITARY,GOLD,billywitchdoctor.com,The Oregon Snails
+2016-02-26,DAY,MILITARY,GOLD,Beauty and the Bees,Twin Needle
+2016-02-26,NIGHT,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,Full Snail University
+2016-02-26,DUSK,MILITARY,BLUE,Jackson Hive,Full Snail University
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,The Bumblebots
+2016-02-26,DUSK,ECONOMY,GOLD,Beediocre,The Bumblebots
+2016-02-26,DAY,ECONOMY,BLUE,Twin Needle,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,BLUE,Twin Needle,billywitchdoctor.com
+2016-02-26,DAY,MILITARY,BLUE,Full Snail University,The Oregon Snails
+2016-02-26,DUSK,ECONOMY,GOLD,Full Snail University,The Oregon Snails
+2016-02-26,NIGHT,MILITARY,BLUE,Full Snail University,The Oregon Snails
+2016-02-26,DAY,ECONOMY,BLUE,The Bumblebots,Beauty and the Bees
+2016-02-26,DUSK,MILITARY,BLUE,The Bumblebots,Beauty and the Bees
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,Jackson Hive
+2016-02-26,DUSK,MILITARY,GOLD,Beediocre,Jackson Hive
+2016-02-26,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-02-26,DUSK,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2016-02-26,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Full Snail University
+2016-02-26,DAY,ECONOMY,BLUE,Twin Needle,The Bumblebots
+2016-02-26,DUSK,ECONOMY,GOLD,Twin Needle,The Bumblebots
+2016-02-26,NIGHT,ECONOMY,BLUE,Twin Needle,The Bumblebots
+2016-02-26,DAY,ECONOMY,BLUE,The Oregon Snails,Beediocre
+2016-02-26,DUSK,MILITARY,GOLD,The Oregon Snails,Beediocre
+2016-02-26,NIGHT,ECONOMY,BLUE,The Oregon Snails,Beediocre
+2016-02-26,DAY,MILITARY,GOLD,Beauty and the Bees,Jackson Hive
+2016-02-26,DUSK,MILITARY,GOLD,Beauty and the Bees,Jackson Hive
+2016-02-26,DAY,MILITARY,BLUE,The Bumblebots,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,BLUE,The Bumblebots,billywitchdoctor.com
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-02-26,DUSK,ECONOMY,BLUE,Beediocre,Full Snail University
+2016-02-26,NIGHT,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,Twin Needle
+2016-02-26,DUSK,SNAIL,BLUE,Jackson Hive,Twin Needle
+2016-02-26,DAY,MILITARY,BLUE,Beauty and the Bees,The Oregon Snails
+2016-02-26,DUSK,MILITARY,BLUE,Beauty and the Bees,The Oregon Snails
+2016-02-26,DAY,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-26,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-26,DAY,ECONOMY,GOLD,The Bumblebots,Jackson Hive
+2016-02-26,DUSK,MILITARY,GOLD,The Bumblebots,Jackson Hive
+2016-02-26,DAY,MILITARY,GOLD,Full Snail University,Beauty and the Bees
+2016-02-26,DUSK,ECONOMY,BLUE,Full Snail University,Beauty and the Bees
+2016-02-26,NIGHT,MILITARY,BLUE,Full Snail University,Beauty and the Bees
+2016-02-26,DAY,MILITARY,BLUE,Twin Needle,The Oregon Snails
+2016-02-26,DUSK,MILITARY,GOLD,Twin Needle,The Oregon Snails
+2016-02-26,NIGHT,ECONOMY,BLUE,Twin Needle,The Oregon Snails
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,BLUE,Jackson Hive,billywitchdoctor.com
+2016-02-26,DAY,MILITARY,BLUE,Beauty and the Bees,Beediocre
+2016-02-26,DUSK,MILITARY,GOLD,Beauty and the Bees,Beediocre
+2016-02-26,NIGHT,SNAIL,GOLD,Beauty and the Bees,Beediocre
+2016-02-26,DAY,MILITARY,GOLD,The Oregon Snails,The Bumblebots
+2016-02-26,DUSK,ECONOMY,BLUE,The Oregon Snails,The Bumblebots
+2016-02-26,NIGHT,MILITARY,GOLD,The Oregon Snails,The Bumblebots
+2016-02-26,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-02-26,DUSK,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-02-26,DAY,MILITARY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2016-02-26,DUSK,MILITARY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2016-02-26,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,The Oregon Snails
+2016-02-26,DUSK,MILITARY,BLUE,Jackson Hive,The Oregon Snails
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,Twin Needle
+2016-02-26,DUSK,ECONOMY,GOLD,Beediocre,Twin Needle
+2016-02-26,DAY,SNAIL,BLUE,The Bumblebots,Full Snail University
+2016-02-26,DUSK,MILITARY,BLUE,The Bumblebots,Full Snail University
+2016-02-26,DAY,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2016-02-26,NIGHT,MILITARY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2016-02-26,DAY,MILITARY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2016-03-04,DAY,MILITARY,GOLD,Beauty and the Bees,CuQueens
+2016-03-04,DUSK,ECONOMY,GOLD,Beauty and the Bees,CuQueens
+2016-03-04,DAY,ECONOMY,GOLD,Beediocre,Bee Bee Guns
+2016-03-04,DUSK,ECONOMY,GOLD,Beediocre,Bee Bee Guns
+2016-03-04,DAY,SNAIL,BLUE,Full Snail University,Beeritogurl7
+2016-03-04,DUSK,MILITARY,GOLD,Full Snail University,Beeritogurl7
+2016-03-04,NIGHT,ECONOMY,BLUE,Full Snail University,Beeritogurl7
+2016-03-04,DAY,MILITARY,GOLD,Twin Needle,Waxon Five
+2016-03-04,DUSK,ECONOMY,GOLD,Twin Needle,Waxon Five
+2016-03-04,DAY,SNAIL,BLUE,CuQueens,billywitchdoctor.com
+2016-03-04,DUSK,ECONOMY,BLUE,CuQueens,billywitchdoctor.com
+2016-03-04,DAY,ECONOMY,GOLD,Beeritogurl7,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,GOLD,Beeritogurl7,Beauty and the Bees
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Beediocre
+2016-03-04,DUSK,MILITARY,GOLD,Waxon Five,Beediocre
+2016-03-04,NIGHT,ECONOMY,BLUE,Waxon Five,Beediocre
+2016-03-04,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-03-04,DUSK,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-03-04,DAY,MILITARY,GOLD,billywitchdoctor.com,Bee Bee Guns
+2016-03-04,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Bee Bee Guns
+2016-03-04,DAY,MILITARY,BLUE,CuQueens,Beeritogurl7
+2016-03-04,DUSK,ECONOMY,BLUE,CuQueens,Beeritogurl7
+2016-03-04,DAY,ECONOMY,BLUE,Beauty and the Bees,Twin Needle
+2016-03-04,DUSK,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2016-03-04,NIGHT,MILITARY,BLUE,Beauty and the Bees,Twin Needle
+2016-03-04,DAY,MILITARY,BLUE,Beediocre,Full Snail University
+2016-03-04,DUSK,MILITARY,BLUE,Beediocre,Full Snail University
+2016-03-04,DAY,MILITARY,GOLD,Beeritogurl7,billywitchdoctor.com
+2016-03-04,DUSK,ECONOMY,GOLD,Beeritogurl7,billywitchdoctor.com
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Bee Bee Guns
+2016-03-04,DUSK,MILITARY,BLUE,Waxon Five,Bee Bee Guns
+2016-03-04,DAY,ECONOMY,GOLD,Twin Needle,CuQueens
+2016-03-04,DUSK,MILITARY,GOLD,Twin Needle,CuQueens
+2016-03-04,DAY,MILITARY,GOLD,Beediocre,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,GOLD,Beediocre,Beauty and the Bees
+2016-03-04,DAY,MILITARY,BLUE,billywitchdoctor.com,Waxon Five
+2016-03-04,DUSK,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2016-03-04,NIGHT,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2016-03-04,DAY,MILITARY,GOLD,Beeritogurl7,Twin Needle
+2016-03-04,DUSK,SNAIL,GOLD,Beeritogurl7,Twin Needle
+2016-03-04,DAY,MILITARY,BLUE,Bee Bee Guns,Full Snail University
+2016-03-04,DUSK,SNAIL,BLUE,Bee Bee Guns,Full Snail University
+2016-03-04,DAY,ECONOMY,BLUE,CuQueens,Beediocre
+2016-03-04,DUSK,MILITARY,BLUE,CuQueens,Beediocre
+2016-03-04,DAY,MILITARY,BLUE,Twin Needle,billywitchdoctor.com
+2016-03-04,DUSK,MILITARY,GOLD,Twin Needle,billywitchdoctor.com
+2016-03-04,NIGHT,ECONOMY,BLUE,Twin Needle,billywitchdoctor.com
+2016-03-04,DAY,MILITARY,GOLD,Full Snail University,Waxon Five
+2016-03-04,DUSK,ECONOMY,GOLD,Full Snail University,Waxon Five
+2016-03-04,DAY,MILITARY,BLUE,Beediocre,Beeritogurl7
+2016-03-04,DUSK,ECONOMY,BLUE,Beediocre,Beeritogurl7
+2016-03-04,DAY,MILITARY,GOLD,Beauty and the Bees,Bee Bee Guns
+2016-03-04,DUSK,SNAIL,GOLD,Beauty and the Bees,Bee Bee Guns
+2016-03-04,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-04,DUSK,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-04,DAY,ECONOMY,GOLD,Twin Needle,Beediocre
+2016-03-04,DUSK,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-04,NIGHT,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,BLUE,Waxon Five,Beauty and the Bees
+2016-03-04,DAY,ECONOMY,GOLD,Bee Bee Guns,CuQueens
+2016-03-04,DUSK,ECONOMY,GOLD,Bee Bee Guns,CuQueens
+2016-03-04,DAY,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2016-03-04,DUSK,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-04,NIGHT,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-04,DAY,MILITARY,BLUE,Beauty and the Bees,Full Snail University
+2016-03-04,DUSK,SNAIL,GOLD,Beauty and the Bees,Full Snail University
+2016-03-04,NIGHT,MILITARY,BLUE,Beauty and the Bees,Full Snail University
+2016-03-04,DAY,SNAIL,BLUE,CuQueens,Waxon Five
+2016-03-04,DUSK,SNAIL,BLUE,CuQueens,Waxon Five
+2016-03-04,DAY,ECONOMY,BLUE,Bee Bee Guns,Beeritogurl7
+2016-03-04,DUSK,MILITARY,BLUE,Bee Bee Guns,Beeritogurl7
+2016-03-04,DAY,MILITARY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2016-03-04,DAY,SNAIL,GOLD,Full Snail University,CuQueens
+2016-03-04,DUSK,ECONOMY,GOLD,Full Snail University,CuQueens
+2016-03-04,DAY,ECONOMY,GOLD,Twin Needle,Bee Bee Guns
+2016-03-04,DUSK,MILITARY,BLUE,Twin Needle,Bee Bee Guns
+2016-03-04,NIGHT,MILITARY,GOLD,Twin Needle,Bee Bee Guns
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Beeritogurl7
+2016-03-04,DUSK,ECONOMY,BLUE,Waxon Five,Beeritogurl7
+2016-03-04,DAY,ECONOMY,BLUE,Beeritogurl7,Full Snail University
+2016-03-04,DUSK,MILITARY,BLUE,Beeritogurl7,Full Snail University
+2016-03-04,NIGHT,MILITARY,BLUE,Beeritogurl7,Full Snail University
+2016-03-11,DAY,ECONOMY,GOLD,Full Snail University,Beerian
+2016-03-11,NIGHT,ECONOMY,GOLD,Full Snail University,Beerian
+2016-03-11,DAY,ECONOMY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-11,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-11,DAY,MILITARY,GOLD,Twin Needle,Sushiboi14
+2016-03-11,NIGHT,ECONOMY,BLUE,Twin Needle,Sushiboi14
+2016-03-11,DUSK,MILITARY,BLUE,Twin Needle,Sushiboi14
+2016-03-11,DAY,MILITARY,GOLD,Beediocre,Queen of the Night
+2016-03-11,NIGHT,ECONOMY,GOLD,Beediocre,Queen of the Night
+2016-03-11,DAY,MILITARY,BLUE,Garbage Snail Kidz,Full Snail University
+2016-03-11,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Full Snail University
+2016-03-11,DAY,MILITARY,GOLD,Sushiboi14,Beerian
+2016-03-11,NIGHT,ECONOMY,GOLD,Sushiboi14,Beerian
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,billywitchdoctor.com
+2016-03-11,NIGHT,MILITARY,BLUE,Queen of the Night,billywitchdoctor.com
+2016-03-11,DAY,MILITARY,GOLD,Beediocre,Twin Needle
+2016-03-11,NIGHT,MILITARY,GOLD,Beediocre,Twin Needle
+2016-03-11,DAY,ECONOMY,BLUE,Sushiboi14,Full Snail University
+2016-03-11,NIGHT,ECONOMY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,DUSK,MILITARY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,DAY,MILITARY,BLUE,Garbage Snail Kidz,Queen of the Night
+2016-03-11,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Queen of the Night
+2016-03-11,DAY,ECONOMY,BLUE,Beerian,Beediocre
+2016-03-11,NIGHT,MILITARY,BLUE,Beerian,Beediocre
+2016-03-11,DAY,ECONOMY,BLUE,billywitchdoctor.com,Twin Needle
+2016-03-11,NIGHT,MILITARY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-11,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,Full Snail University
+2016-03-11,NIGHT,ECONOMY,GOLD,Queen of the Night,Full Snail University
+2016-03-11,DUSK,MILITARY,BLUE,Queen of the Night,Full Snail University
+2016-03-11,DAY,ECONOMY,GOLD,Beediocre,Sushiboi14
+2016-03-11,NIGHT,ECONOMY,BLUE,Beediocre,Sushiboi14
+2016-03-11,DUSK,ECONOMY,GOLD,Beediocre,Sushiboi14
+2016-03-11,DAY,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-03-11,NIGHT,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-03-11,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beerian
+2016-03-11,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Beerian
+2016-03-11,DAY,ECONOMY,GOLD,Full Snail University,Beediocre
+2016-03-11,NIGHT,MILITARY,GOLD,Full Snail University,Beediocre
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,Twin Needle
+2016-03-11,NIGHT,MILITARY,GOLD,Queen of the Night,Twin Needle
+2016-03-11,DUSK,MILITARY,GOLD,Queen of the Night,Twin Needle
+2016-03-11,DAY,ECONOMY,GOLD,Sushiboi14,billywitchdoctor.com
+2016-03-11,NIGHT,MILITARY,GOLD,Sushiboi14,billywitchdoctor.com
+2016-03-11,DAY,MILITARY,GOLD,Garbage Snail Kidz,Beerian
+2016-03-11,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Beerian
+2016-03-11,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Beerian
+2016-03-11,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-03-11,NIGHT,SNAIL,GOLD,Twin Needle,Full Snail University
+2016-03-11,DUSK,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-03-11,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-03-11,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-03-11,DUSK,MILITARY,BLUE,billywitchdoctor.com,Beediocre
+2016-03-11,DAY,MILITARY,BLUE,Beerian,Queen of the Night
+2016-03-11,NIGHT,ECONOMY,BLUE,Beerian,Queen of the Night
+2016-03-11,DAY,MILITARY,BLUE,Garbage Snail Kidz,Sushiboi14
+2016-03-11,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Sushiboi14
+2016-03-11,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-03-11,NIGHT,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2016-03-11,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-03-11,DAY,ECONOMY,GOLD,Twin Needle,Beerian
+2016-03-11,NIGHT,MILITARY,BLUE,Twin Needle,Beerian
+2016-03-11,DUSK,SNAIL,GOLD,Twin Needle,Beerian
+2016-03-11,DAY,ECONOMY,GOLD,Beediocre,Garbage Snail Kidz
+2016-03-11,NIGHT,MILITARY,GOLD,Beediocre,Garbage Snail Kidz
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,Sushiboi14
+2016-03-11,NIGHT,MILITARY,BLUE,Queen of the Night,Sushiboi14
+2016-03-11,DAY,MILITARY,GOLD,Full Snail University,Beediocre
+2016-03-11,NIGHT,ECONOMY,BLUE,Full Snail University,Beediocre
+2016-03-11,DUSK,MILITARY,BLUE,Full Snail University,Beediocre
+2016-03-11,DAY,MILITARY,BLUE,Beediocre,Sushiboi14
+2016-03-11,NIGHT,MILITARY,BLUE,Beediocre,Sushiboi14
+2016-03-11,DAY,ECONOMY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,NIGHT,ECONOMY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,NIGHT,MILITARY,BLUE,Sushiboi14,Beediocre
+2016-03-11,DUSK,MILITARY,BLUE,Sushiboi14,Beediocre
+2016-03-11,DAY,MILITARY,GOLD,Sushiboi14,Beediocre
+2016-03-11,NIGHT,ECONOMY,BLUE,Sushiboi14,Beediocre
+2016-03-25,DAY,MILITARY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-25,DUSK,MILITARY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-25,DAY,MILITARY,GOLD,Twin Needle,Colony Fission
+2016-03-25,DUSK,MILITARY,GOLD,Twin Needle,Colony Fission
+2016-03-25,DAY,ECONOMY,BLUE,Full Snail University,Damish and the Bees
+2016-03-25,DUSK,ECONOMY,BLUE,Full Snail University,Damish and the Bees
+2016-03-25,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-03-25,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-03-25,DAY,MILITARY,GOLD,Damish and the Bees,billywitchdoctor.com
+2016-03-25,DUSK,MILITARY,GOLD,Damish and the Bees,billywitchdoctor.com
+2016-03-25,DAY,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-03-25,DUSK,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-03-25,DAY,MILITARY,GOLD,Beediocre,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Beediocre,Colony Fission
+2016-03-25,NIGHT,ECONOMY,BLUE,Beediocre,Colony Fission
+2016-03-25,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Damish and the Bees
+2016-03-25,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Damish and the Bees
+2016-03-25,DAY,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-25,DUSK,MILITARY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Beediocre
+2016-03-25,DUSK,ECONOMY,GOLD,Damish and the Bees,Beediocre
+2016-03-25,NIGHT,MILITARY,GOLD,Damish and the Bees,Beediocre
+2016-03-25,DAY,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Twin Needle,Garbage Snail Kidz
+2016-03-25,DUSK,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-03-25,NIGHT,MILITARY,BLUE,Twin Needle,Garbage Snail Kidz
+2016-03-25,DAY,SNAIL,BLUE,Beediocre,Full Snail University
+2016-03-25,DUSK,MILITARY,GOLD,Beediocre,Full Snail University
+2016-03-25,NIGHT,MILITARY,BLUE,Beediocre,Full Snail University
+2016-03-25,DAY,MILITARY,GOLD,Damish and the Bees,Twin Needle
+2016-03-25,DUSK,ECONOMY,GOLD,Damish and the Bees,Twin Needle
+2016-03-25,DAY,ECONOMY,BLUE,Colony Fission,billywitchdoctor.com
+2016-03-25,DUSK,MILITARY,BLUE,Colony Fission,billywitchdoctor.com
+2016-03-25,DAY,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-25,DUSK,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-25,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,DUSK,ECONOMY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,DAY,MILITARY,GOLD,Garbage Snail Kidz,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Colony Fission
+2016-03-25,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-25,DUSK,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2016-03-25,NIGHT,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-25,DAY,MILITARY,BLUE,Full Snail University,Garbage Snail Kidz
+2016-03-25,DUSK,ECONOMY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-03-25,NIGHT,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,DUSK,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,DAY,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2016-03-25,DUSK,ECONOMY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,DAY,MILITARY,GOLD,Colony Fission,billywitchdoctor.com
+2016-03-25,DUSK,ECONOMY,GOLD,Colony Fission,billywitchdoctor.com
+2016-03-25,DAY,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,DUSK,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,NIGHT,ECONOMY,GOLD,Damish and the Bees,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-04-01,DAY,MILITARY,GOLD,Beediocre,Beez Kneez
+2016-04-01,DUSK,MILITARY,GOLD,Beediocre,Beez Kneez
+2016-04-01,DAY,MILITARY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-04-01,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-04-01,DAY,MILITARY,BLUE,Twin Needle,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Twin Needle,Legendberry
+2016-04-01,DAY,MILITARY,BLUE,Full Phoenix University,Beauty and the Frieze
+2016-04-01,DUSK,MILITARY,BLUE,Full Phoenix University,Beauty and the Frieze
+2016-04-01,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-04-01,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Beediocre
+2016-04-01,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Beediocre
+2016-04-01,DAY,ECONOMY,GOLD,Legendberry,Beez Kneez
+2016-04-01,DUSK,SNAIL,GOLD,Legendberry,Beez Kneez
+2016-04-01,DAY,MILITARY,GOLD,Beauty and the Frieze,billywitchdoctor.com
+2016-04-01,DUSK,MILITARY,GOLD,Beauty and the Frieze,billywitchdoctor.com
+2016-04-01,DAY,ECONOMY,GOLD,Full Phoenix University,Twin Needle
+2016-04-01,DUSK,MILITARY,BLUE,Full Phoenix University,Twin Needle
+2016-04-01,NIGHT,SNAIL,GOLD,Full Phoenix University,Twin Needle
+2016-04-01,DAY,ECONOMY,BLUE,Beediocre,Legendberry
+2016-04-01,DUSK,ECONOMY,GOLD,Beediocre,Legendberry
+2016-04-01,NIGHT,MILITARY,BLUE,Beediocre,Legendberry
+2016-04-01,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beauty and the Frieze
+2016-04-01,DUSK,SNAIL,BLUE,Garbage Snail Kidz,Beauty and the Frieze
+2016-04-01,DAY,ECONOMY,BLUE,Beez Kneez,Full Phoenix University
+2016-04-01,DUSK,ECONOMY,BLUE,Beez Kneez,Full Phoenix University
+2016-04-01,DAY,MILITARY,BLUE,billywitchdoctor.com,Twin Needle
+2016-04-01,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-04-01,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Twin Needle
+2016-04-01,DAY,MILITARY,GOLD,Beauty and the Frieze,Beediocre
+2016-04-01,DUSK,ECONOMY,GOLD,Beauty and the Frieze,Beediocre
+2016-04-01,DAY,MILITARY,GOLD,Full Phoenix University,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Full Phoenix University,Legendberry
+2016-04-01,NIGHT,ECONOMY,BLUE,Full Phoenix University,Legendberry
+2016-04-01,DAY,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-04-01,DUSK,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-04-01,DAY,MILITARY,GOLD,billywitchdoctor.com,Beez Kneez
+2016-04-01,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beez Kneez
+2016-04-01,DAY,MILITARY,BLUE,Beediocre,Full Phoenix University
+2016-04-01,DUSK,ECONOMY,BLUE,Beediocre,Full Phoenix University
+2016-04-01,DAY,MILITARY,BLUE,Beauty and the Frieze,Twin Needle
+2016-04-01,DUSK,MILITARY,GOLD,Beauty and the Frieze,Twin Needle
+2016-04-01,NIGHT,ECONOMY,GOLD,Beauty and the Frieze,Twin Needle
+2016-04-01,DAY,ECONOMY,BLUE,Legendberry,billywitchdoctor.com
+2016-04-01,DUSK,ECONOMY,GOLD,Legendberry,billywitchdoctor.com
+2016-04-01,NIGHT,ECONOMY,BLUE,Legendberry,billywitchdoctor.com
+2016-04-01,DAY,MILITARY,BLUE,Beez Kneez,Garbage Snail Kidz
+2016-04-01,DUSK,MILITARY,BLUE,Beez Kneez,Garbage Snail Kidz
+2016-04-01,DAY,SNAIL,GOLD,Twin Needle,Beediocre
+2016-04-01,DUSK,ECONOMY,GOLD,Twin Needle,Beediocre
+2016-04-01,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Phoenix University
+2016-04-01,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Full Phoenix University
+2016-04-01,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Phoenix University
+2016-04-01,DAY,SNAIL,BLUE,Beez Kneez,Beauty and the Frieze
+2016-04-01,DUSK,MILITARY,BLUE,Beez Kneez,Beauty and the Frieze
+2016-04-01,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Legendberry
+2016-04-01,DAY,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-04-01,DUSK,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-04-01,DAY,ECONOMY,GOLD,Twin Needle,Beez Kneez
+2016-04-01,DUSK,ECONOMY,GOLD,Twin Needle,Beez Kneez
+2016-04-01,DAY,MILITARY,GOLD,Full Phoenix University,Garbage Snail Kidz
+2016-04-01,DUSK,ECONOMY,GOLD,Full Phoenix University,Garbage Snail Kidz
+2016-04-01,DAY,MILITARY,BLUE,Beauty and the Frieze,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Beauty and the Frieze,Legendberry
+2016-04-01,DAY,ECONOMY,BLUE,Legendberry,Beauty and the Frieze
+2016-04-01,DUSK,ECONOMY,BLUE,Legendberry,Beauty and the Frieze
+2016-04-01,NIGHT,ECONOMY,BLUE,Legendberry,Beauty and the Frieze
+2016-04-22,DAY,MILITARY,GOLD,When Snails Cry,The Blue Team
+2016-04-22,DUSK,MILITARY,BLUE,When Snails Cry,The Blue Team
+2016-04-22,NIGHT,MILITARY,GOLD,When Snails Cry,The Blue Team
+2016-04-22,DAY,MILITARY,BLUE,The Bumble Book,Sting Stang Stung
+2016-04-22,DUSK,MILITARY,GOLD,The Bumble Book,Sting Stang Stung
+2016-04-22,NIGHT,MILITARY,GOLD,The Bumble Book,Sting Stang Stung
+2016-04-22,DAY,MILITARY,BLUE,Hive Hunters,Too Many Cooks
+2016-04-22,DUSK,MILITARY,GOLD,Hive Hunters,Too Many Cooks
+2016-04-22,NIGHT,MILITARY,BLUE,Hive Hunters,Too Many Cooks
+2016-04-22,DAY,SNAIL,GOLD,Purple Pain,Brian H.
+2016-04-22,DUSK,MILITARY,GOLD,Purple Pain,Brian H.
+2016-04-22,DAY,MILITARY,BLUE,The Blue Team,Unbeecided
+2016-04-22,DUSK,MILITARY,BLUE,The Blue Team,Unbeecided
+2016-04-22,DAY,ECONOMY,BLUE,Hive Hunters,Sting Stang Stung
+2016-04-22,DUSK,MILITARY,GOLD,Hive Hunters,Sting Stang Stung
+2016-04-22,NIGHT,ECONOMY,GOLD,Hive Hunters,Sting Stang Stung
+2016-04-22,DAY,MILITARY,BLUE,The Bumble Book,Too Many Cooks
+2016-04-22,DUSK,ECONOMY,GOLD,The Bumble Book,Too Many Cooks
+2016-04-22,NIGHT,ECONOMY,BLUE,The Bumble Book,Too Many Cooks
+2016-04-22,DAY,MILITARY,GOLD,When Snails Cry,Purple Pain
+2016-04-22,DUSK,MILITARY,BLUE,When Snails Cry,Purple Pain
+2016-04-22,NIGHT,MILITARY,BLUE,When Snails Cry,Purple Pain
+2016-04-22,DAY,ECONOMY,GOLD,The Bumble Book,Unbeecided
+2016-04-22,DUSK,ECONOMY,GOLD,The Bumble Book,Unbeecided
+2016-04-22,DAY,MILITARY,BLUE,When Snails Cry,Hive Hunters
+2016-04-22,DUSK,MILITARY,BLUE,When Snails Cry,Hive Hunters
+2016-04-22,DAY,MILITARY,BLUE,Brian H.,The Blue Team
+2016-04-22,DUSK,MILITARY,BLUE,Brian H.,The Blue Team
+2016-04-22,DAY,MILITARY,BLUE,Purple Pain,Too Many Cooks
+2016-04-22,DUSK,MILITARY,BLUE,Purple Pain,Too Many Cooks
+2016-04-22,DAY,MILITARY,GOLD,Too Many Cooks,When Snails Cry
+2016-04-22,DUSK,MILITARY,GOLD,Too Many Cooks,When Snails Cry
+2016-04-22,DAY,MILITARY,BLUE,Purple Pain,Unbeecided
+2016-04-22,DUSK,ECONOMY,BLUE,Purple Pain,Unbeecided
+2016-04-22,DAY,MILITARY,GOLD,Brian H.,Sting Stang Stung
+2016-04-22,DUSK,ECONOMY,BLUE,Brian H.,Sting Stang Stung
+2016-04-22,NIGHT,MILITARY,GOLD,Brian H.,Sting Stang Stung
+2016-04-22,DAY,MILITARY,BLUE,The Bumble Book,Hive Hunters
+2016-04-22,DUSK,MILITARY,GOLD,The Bumble Book,Hive Hunters
+2016-04-22,NIGHT,MILITARY,GOLD,The Bumble Book,Hive Hunters
+2016-04-22,DAY,ECONOMY,BLUE,Brian H.,Hive Hunters
+2016-04-22,DUSK,MILITARY,BLUE,Brian H.,Hive Hunters
+2016-04-22,DAY,MILITARY,BLUE,The Bumble Book,Purple Pain
+2016-04-22,DUSK,ECONOMY,GOLD,The Bumble Book,Purple Pain
+2016-04-22,NIGHT,ECONOMY,GOLD,The Bumble Book,Purple Pain
+2016-04-22,DAY,ECONOMY,GOLD,Too Many Cooks,Unbeecided
+2016-04-22,DUSK,MILITARY,GOLD,Too Many Cooks,Unbeecided
+2016-04-22,DAY,ECONOMY,BLUE,Sting Stang Stung,The Blue Team
+2016-04-22,DUSK,MILITARY,BLUE,Sting Stang Stung,The Blue Team
+2016-04-22,DAY,MILITARY,GOLD,Hive Hunters,Unbeecided
+2016-04-22,DUSK,MILITARY,BLUE,Hive Hunters,Unbeecided
+2016-04-22,NIGHT,MILITARY,BLUE,Hive Hunters,Unbeecided
+2016-04-22,DAY,MILITARY,GOLD,The Bumble Book,Brian H.
+2016-04-22,DUSK,ECONOMY,GOLD,The Bumble Book,Brian H.
+2016-04-22,DAY,MILITARY,BLUE,Too Many Cooks,The Blue Team
+2016-04-22,DUSK,MILITARY,GOLD,Too Many Cooks,The Blue Team
+2016-04-22,NIGHT,ECONOMY,GOLD,Too Many Cooks,The Blue Team
+2016-04-22,DAY,MILITARY,BLUE,Sting Stang Stung,When Snails Cry
+2016-04-22,DUSK,ECONOMY,GOLD,Sting Stang Stung,When Snails Cry
+2016-04-22,NIGHT,MILITARY,GOLD,Sting Stang Stung,When Snails Cry
+2016-04-22,DAY,MILITARY,GOLD,Too Many Cooks,The Bumble Book
+2016-04-22,DUSK,MILITARY,BLUE,Too Many Cooks,The Bumble Book
+2016-04-22,NIGHT,SNAIL,GOLD,Too Many Cooks,The Bumble Book
+2016-04-22,DAY,ECONOMY,BLUE,Too Many Cooks,The Bumble Book
+2016-04-22,DUSK,MILITARY,GOLD,Too Many Cooks,The Bumble Book
+2016-04-29,DAY,ECONOMY,GOLD,Twin Needle,BeeBee Guns
+2016-04-29,DUSK,MILITARY,GOLD,Twin Needle,BeeBee Guns
+2016-04-29,DAY,MILITARY,BLUE,Apaphobia,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,Apaphobia,lowtierdoctor.com
+2016-04-29,DAY,MILITARY,BLUE,TAMN,Beezus Christ Super Snail
+2016-04-29,DUSK,ECONOMY,BLUE,TAMN,Beezus Christ Super Snail
+2016-04-29,DAY,ECONOMY,GOLD,BeeBee Guns,Full Snail University
+2016-04-29,DUSK,MILITARY,BLUE,BeeBee Guns,Full Snail University
+2016-04-29,NIGHT,MILITARY,BLUE,BeeBee Guns,Full Snail University
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,Twin Needle
+2016-04-29,DUSK,MILITARY,GOLD,Beezus Christ Super Snail,Twin Needle
+2016-04-29,NIGHT,ECONOMY,GOLD,Beezus Christ Super Snail,Twin Needle
+2016-04-29,DAY,ECONOMY,BLUE,TAMN,Apaphobia
+2016-04-29,DUSK,MILITARY,BLUE,TAMN,Apaphobia
+2016-04-29,DAY,MILITARY,GOLD,Full Snail University,lowtierdoctor.com
+2016-04-29,DUSK,ECONOMY,BLUE,Full Snail University,lowtierdoctor.com
+2016-04-29,NIGHT,MILITARY,BLUE,Full Snail University,lowtierdoctor.com
+2016-04-29,DAY,ECONOMY,BLUE,BeeBee Guns,Beezus Christ Super Snail
+2016-04-29,DUSK,ECONOMY,GOLD,BeeBee Guns,Beezus Christ Super Snail
+2016-04-29,NIGHT,ECONOMY,BLUE,BeeBee Guns,Beezus Christ Super Snail
+2016-04-29,DAY,ECONOMY,BLUE,Twin Needle,Apaphobia
+2016-04-29,DUSK,ECONOMY,BLUE,Twin Needle,Apaphobia
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,Full Snail University
+2016-04-29,DUSK,MILITARY,BLUE,Beezus Christ Super Snail,Full Snail University
+2016-04-29,DAY,MILITARY,GOLD,TAMN,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,TAMN,lowtierdoctor.com
+2016-04-29,NIGHT,ECONOMY,BLUE,TAMN,lowtierdoctor.com
+2016-04-29,DAY,MILITARY,GOLD,Apaphobia,BeeBee Guns
+2016-04-29,DUSK,ECONOMY,GOLD,Apaphobia,BeeBee Guns
+2016-04-29,DAY,MILITARY,GOLD,Full Snail University,TAMN
+2016-04-29,DUSK,MILITARY,GOLD,Full Snail University,TAMN
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,Apaphobia
+2016-04-29,DUSK,ECONOMY,GOLD,Beezus Christ Super Snail,Apaphobia
+2016-04-29,NIGHT,ECONOMY,GOLD,Beezus Christ Super Snail,Apaphobia
+2016-04-29,DAY,MILITARY,GOLD,lowtierdoctor.com,Twin Needle
+2016-04-29,DUSK,ECONOMY,GOLD,lowtierdoctor.com,Twin Needle
+2016-04-29,DAY,MILITARY,BLUE,Apaphobia,Full Snail University
+2016-04-29,DUSK,ECONOMY,GOLD,Apaphobia,Full Snail University
+2016-04-29,NIGHT,MILITARY,BLUE,Apaphobia,Full Snail University
+2016-04-29,DAY,ECONOMY,BLUE,Twin Needle,TAMN
+2016-04-29,DUSK,ECONOMY,BLUE,Twin Needle,TAMN
+2016-04-29,DAY,ECONOMY,BLUE,BeeBee Guns,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,BeeBee Guns,lowtierdoctor.com
+2016-04-29,DAY,SNAIL,GOLD,Full Snail University,Twin Needle
+2016-04-29,DUSK,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-04-29,DAY,MILITARY,GOLD,TAMN,BeeBee Guns
+2016-04-29,DUSK,ECONOMY,BLUE,TAMN,BeeBee Guns
+2016-04-29,NIGHT,MILITARY,BLUE,TAMN,BeeBee Guns
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,Beezus Christ Super Snail,lowtierdoctor.com
+2016-04-29,DAY,MILITARY,BLUE,lowtierdoctor.com,Full Snail University
+2016-04-29,DUSK,ECONOMY,GOLD,lowtierdoctor.com,Full Snail University
+2016-04-29,NIGHT,ECONOMY,BLUE,lowtierdoctor.com,Full Snail University
+2016-04-29,DAY,MILITARY,BLUE,lowtierdoctor.com,Full Snail University
+2016-05-06,DAY,MILITARY,GOLD,Full Snail University,Yes Queens
+2016-05-06,DUSK,MILITARY,GOLD,Full Snail University,Yes Queens
+2016-05-06,DAY,MILITARY,GOLD,Snail Bait,Wanna-Bee Athletes
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Wanna-Bee Athletes
+2016-05-06,DAY,MILITARY,BLUE,You Only Live Thrice,Garbage Snail Kidz
+2016-05-06,DUSK,MILITARY,GOLD,You Only Live Thrice,Garbage Snail Kidz
+2016-05-06,NIGHT,ECONOMY,BLUE,You Only Live Thrice,Garbage Snail Kidz
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,GOLD,Bees by Dre,Sting Stang Stung
+2016-05-06,DAY,MILITARY,GOLD,Yes Queens,Blue on Gold on Blue
+2016-05-06,DUSK,MILITARY,GOLD,Yes Queens,Blue on Gold on Blue
+2016-05-06,DAY,MILITARY,BLUE,You Only Live Thrice,Wanna-Bee Athletes
+2016-05-06,DUSK,MILITARY,GOLD,You Only Live Thrice,Wanna-Bee Athletes
+2016-05-06,NIGHT,SNAIL,GOLD,You Only Live Thrice,Wanna-Bee Athletes
+2016-05-06,DAY,ECONOMY,GOLD,Snail Bait,Garbage Snail Kidz
+2016-05-06,DUSK,MILITARY,GOLD,Snail Bait,Garbage Snail Kidz
+2016-05-06,DAY,MILITARY,GOLD,Full Snail University,Bees by Dre
+2016-05-06,DUSK,ECONOMY,BLUE,Full Snail University,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,BLUE,Full Snail University,Bees by Dre
+2016-05-06,DAY,MILITARY,GOLD,Garbage Snail Kidz,Yes Queens
+2016-05-06,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Yes Queens
+2016-05-06,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Yes Queens
+2016-05-06,DAY,MILITARY,BLUE,Full Snail University,You Only Live Thrice
+2016-05-06,DUSK,MILITARY,GOLD,Full Snail University,You Only Live Thrice
+2016-05-06,NIGHT,MILITARY,GOLD,Full Snail University,You Only Live Thrice
+2016-05-06,DAY,ECONOMY,GOLD,Blue on Gold on Blue,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,BLUE,Blue on Gold on Blue,Sting Stang Stung
+2016-05-06,NIGHT,ECONOMY,BLUE,Blue on Gold on Blue,Sting Stang Stung
+2016-05-06,DAY,MILITARY,BLUE,Snail Bait,Bees by Dre
+2016-05-06,DUSK,MILITARY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,DAY,MILITARY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-06,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-06,DAY,MILITARY,GOLD,Blue on Gold on Blue,Wanna-Bee Athletes
+2016-05-06,DUSK,ECONOMY,BLUE,Blue on Gold on Blue,Wanna-Bee Athletes
+2016-05-06,NIGHT,MILITARY,GOLD,Blue on Gold on Blue,Wanna-Bee Athletes
+2016-05-06,DAY,MILITARY,BLUE,Snail Bait,Full Snail University
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Full Snail University
+2016-05-06,NIGHT,ECONOMY,GOLD,Snail Bait,Full Snail University
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,Yes Queens
+2016-05-06,DUSK,ECONOMY,GOLD,Bees by Dre,Yes Queens
+2016-05-06,DAY,ECONOMY,GOLD,Snail Bait,Yes Queens
+2016-05-06,DUSK,MILITARY,GOLD,Snail Bait,Yes Queens
+2016-05-06,DAY,MILITARY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,Wanna-Bee Athletes
+2016-05-06,DUSK,SNAIL,GOLD,Bees by Dre,Wanna-Bee Athletes
+2016-05-06,DAY,MILITARY,GOLD,You Only Live Thrice,Blue on Gold on Blue
+2016-05-06,DUSK,ECONOMY,BLUE,You Only Live Thrice,Blue on Gold on Blue
+2016-05-06,NIGHT,MILITARY,BLUE,You Only Live Thrice,Blue on Gold on Blue
+2016-05-06,DAY,MILITARY,GOLD,Snail Bait,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Sting Stang Stung
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,You Only Live Thrice
+2016-05-06,DUSK,ECONOMY,GOLD,Bees by Dre,You Only Live Thrice
+2016-05-06,DUSK,ECONOMY,GOLD,Full Snail University,Blue on Gold on Blue
+2016-05-06,DAY,ECONOMY,BLUE,Full Snail University,Blue on Gold on Blue
+2016-05-06,NIGHT,MILITARY,GOLD,Full Snail University,Blue on Gold on Blue
+2016-05-06,DAY,ECONOMY,BLUE,Wanna-Bee Athletes,Garbage Snail Kidz
+2016-05-06,DUSK,ECONOMY,BLUE,Wanna-Bee Athletes,Garbage Snail Kidz
+2016-05-06,DAY,MILITARY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,BLUE,Snail Bait,Bees by Dre
+2016-05-06,DAY,ECONOMY,BLUE,Snail Bait,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,GOLD,Snail Bait,Bees by Dre
+2016-05-20,DAY,MILITARY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-20,DUSK,MILITARY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-20,DAY,MILITARY,GOLD,Combunists,RekCity
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,RekCity
+2016-05-20,DAY,MILITARY,BLUE,Congraduations,We Are Logan
+2016-05-20,DUSK,SNAIL,GOLD,Congraduations,We Are Logan
+2016-05-20,NIGHT,MILITARY,BLUE,Congraduations,We Are Logan
+2016-05-20,DAY,ECONOMY,BLUE,Two Teams,Garbage Snail Kidz
+2016-05-20,DUSK,MILITARY,GOLD,Two Teams,Garbage Snail Kidz
+2016-05-20,NIGHT,ECONOMY,BLUE,Two Teams,Garbage Snail Kidz
+2016-05-20,DAY,ECONOMY,GOLD,Twin Needle,The Dairy Queens
+2016-05-20,DUSK,MILITARY,GOLD,Twin Needle,The Dairy Queens
+2016-05-20,DAY,MILITARY,GOLD,Sting Stang Stung,RekCity
+2016-05-20,DUSK,ECONOMY,GOLD,Sting Stang Stung,RekCity
+2016-05-20,DAY,ECONOMY,GOLD,Two Teams,The Dairy Queens
+2016-05-20,DUSK,ECONOMY,GOLD,Two Teams,The Dairy Queens
+2016-05-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Congraduations
+2016-05-20,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Congraduations
+2016-05-20,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Congraduations
+2016-05-20,DAY,ECONOMY,GOLD,Combunists,We Are Logan
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,We Are Logan
+2016-05-20,DAY,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-05-20,NIGHT,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-05-20,DAY,MILITARY,GOLD,Garbage Snail Kidz,Sting Stang Stung
+2016-05-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-20,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-20,DAY,MILITARY,BLUE,We Are Logan,Twin Needle
+2016-05-20,DUSK,SNAIL,GOLD,We Are Logan,Twin Needle
+2016-05-20,NIGHT,MILITARY,GOLD,We Are Logan,Twin Needle
+2016-05-20,DAY,MILITARY,GOLD,Congraduations,Two Teams
+2016-05-20,DUSK,MILITARY,GOLD,Congraduations,Two Teams
+2016-05-20,DAY,MILITARY,BLUE,The Dairy Queens,RekCity
+2016-05-20,DUSK,SNAIL,BLUE,The Dairy Queens,RekCity
+2016-05-20,DAY,MILITARY,BLUE,Full Snail University,Combunists
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,Combunists
+2016-05-20,NIGHT,MILITARY,GOLD,Full Snail University,Combunists
+2016-05-20,DAY,MILITARY,GOLD,RekCity,Two Teams
+2016-05-20,DUSK,MILITARY,GOLD,RekCity,Two Teams
+2016-05-20,DAY,MILITARY,GOLD,The Dairy Queens,Garbage Snail Kidz
+2016-05-20,DUSK,MILITARY,BLUE,The Dairy Queens,Garbage Snail Kidz
+2016-05-20,NIGHT,MILITARY,BLUE,The Dairy Queens,Garbage Snail Kidz
+2016-05-20,DAY,MILITARY,BLUE,Sting Stang Stung,Twin Needle
+2016-05-20,DUSK,MILITARY,GOLD,Sting Stang Stung,Twin Needle
+2016-05-20,NIGHT,MILITARY,BLUE,Sting Stang Stung,Twin Needle
+2016-05-20,DAY,MILITARY,GOLD,Full Snail University,We Are Logan
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,We Are Logan
+2016-05-20,DAY,MILITARY,BLUE,Combunists,Congraduations
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,Congraduations
+2016-05-20,NIGHT,MILITARY,BLUE,Combunists,Congraduations
+2016-05-20,DAY,MILITARY,GOLD,We Are Logan,RekCity
+2016-05-20,DUSK,MILITARY,BLUE,We Are Logan,RekCity
+2016-05-20,NIGHT,MILITARY,GOLD,We Are Logan,RekCity
+2016-05-20,DAY,ECONOMY,GOLD,Combunists,Garbage Snail Kidz
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,Garbage Snail Kidz
+2016-05-20,DAY,MILITARY,BLUE,Two Teams,Twin Needle
+2016-05-20,DUSK,ECONOMY,GOLD,Two Teams,Twin Needle
+2016-05-20,NIGHT,ECONOMY,BLUE,Two Teams,Twin Needle
+2016-05-20,DAY,ECONOMY,BLUE,The Dairy Queens,Sting Stang Stung
+2016-05-20,DUSK,ECONOMY,BLUE,The Dairy Queens,Sting Stang Stung
+2016-05-20,DAY,MILITARY,GOLD,Full Snail University,Congraduations
+2016-05-20,DUSK,MILITARY,GOLD,Full Snail University,Congraduations
+2016-05-20,DAY,SNAIL,BLUE,Full Snail University,We Are Logan
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,We Are Logan
+2016-05-20,NIGHT,MILITARY,BLUE,Full Snail University,We Are Logan
+2016-05-20,DAY,ECONOMY,GOLD,Full Snail University,We Are Logan
+2016-05-20,DUSK,SNAIL,BLUE,Full Snail University,We Are Logan
+2016-06-03,DAY,ECONOMY,GOLD,Meaningful Momo,Beesiscut
+2016-06-03,NIGHT,MILITARY,GOLD,Meaningful Momo,Beesiscut
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Twin Needle
+2016-06-03,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,Full Snail University,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,Full Snail University,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Fauxmunists,Garbage Snail Kidz
+2016-06-03,NIGHT,MILITARY,GOLD,Fauxmunists,Garbage Snail Kidz
+2016-06-03,DAY,ECONOMY,GOLD,Beesiscut,CuQueens
+2016-06-03,NIGHT,ECONOMY,GOLD,Beesiscut,CuQueens
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-06-03,NIGHT,SNAIL,GOLD,Full Snail University,Twin Needle
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Fauxmunists
+2016-06-03,NIGHT,MILITARY,BLUE,Meaningful Momo,Fauxmunists
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Fauxmunists
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Beesiscut
+2016-06-03,NIGHT,ECONOMY,GOLD,Full Snail University,Beesiscut
+2016-06-03,DAY,MILITARY,BLUE,Berry Your Dead,Fauxmunists
+2016-06-03,NIGHT,ECONOMY,GOLD,Berry Your Dead,Fauxmunists
+2016-06-03,DAY,ECONOMY,BLUE,Berry Your Dead,Fauxmunists
+2016-06-03,DAY,ECONOMY,BLUE,CuQueens,Garbage Snail Kidz
+2016-06-03,NIGHT,ECONOMY,BLUE,CuQueens,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,billywitchdoctor.com
+2016-06-03,NIGHT,ECONOMY,GOLD,Meaningful Momo,billywitchdoctor.com
+2016-06-03,DAY,ECONOMY,BLUE,Beesiscut,Garbage Snail Kidz
+2016-06-03,NIGHT,ECONOMY,BLUE,Beesiscut,Garbage Snail Kidz
+2016-06-03,DAY,ECONOMY,GOLD,CuQueens,Twin Needle
+2016-06-03,NIGHT,ECONOMY,BLUE,CuQueens,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,CuQueens,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,billywitchdoctor.com,Fauxmunists
+2016-06-03,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Fauxmunists
+2016-06-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Fauxmunists
+2016-06-03,DAY,MILITARY,BLUE,Meaningful Momo,Full Snail University
+2016-06-03,NIGHT,MILITARY,GOLD,Meaningful Momo,Full Snail University
+2016-06-03,DAY,MILITARY,BLUE,Meaningful Momo,Full Snail University
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Garbage Snail Kidz
+2016-06-03,NIGHT,SNAIL,GOLD,Meaningful Momo,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Fauxmunists,Twin Needle
+2016-06-03,NIGHT,MILITARY,GOLD,Fauxmunists,Twin Needle
+2016-06-03,DAY,ECONOMY,BLUE,CuQueens,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,CuQueens,Berry Your Dead
+2016-06-03,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-06-03,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-06-03,DAY,ECONOMY,GOLD,billywitchdoctor.com,CuQueens
+2016-06-03,NIGHT,MILITARY,GOLD,billywitchdoctor.com,CuQueens
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-06-03,NIGHT,SNAIL,BLUE,Full Snail University,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Berry Your Dead
+2016-06-03,NIGHT,ECONOMY,BLUE,Meaningful Momo,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Meaningful Momo,Berry Your Dead
+2016-06-03,DAY,MILITARY,GOLD,Twin Needle,Beesiscut
+2016-06-03,NIGHT,MILITARY,GOLD,Twin Needle,Beesiscut
+2016-06-03,DAY,ECONOMY,BLUE,Full Snail University,Meaningful Momo
+2016-06-03,NIGHT,MILITARY,GOLD,Full Snail University,Meaningful Momo
+2016-06-03,DAY,MILITARY,GOLD,Full Snail University,Meaningful Momo
+2016-06-03,NIGHT,SNAIL,BLUE,Full Snail University,Meaningful Momo
+2016-06-03,DAY,MILITARY,BLUE,Full Snail University,Meaningful Momo
+2016-06-17,DAY,MILITARY,GOLD,Honey Trap,Garbage Snail Kidz
+2016-06-17,DUSK,MILITARY,BLUE,Honey Trap,Garbage Snail Kidz
+2016-06-17,NIGHT,MILITARY,BLUE,Honey Trap,Garbage Snail Kidz
+2016-06-17,DAY,ECONOMY,GOLD,BEEZE Don't Move,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,GOLD,BEEZE Don't Move,King Kai's Queens
+2016-06-17,DAY,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-06-17,DUSK,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-06-17,DAY,SNAIL,BLUE,Garbage Snail Kidz,Full Snail University
+2016-06-17,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Full Snail University
+2016-06-17,DAY,ECONOMY,GOLD,Twin Needle,Honey Trap
+2016-06-17,DUSK,MILITARY,BLUE,Twin Needle,Honey Trap
+2016-06-17,NIGHT,MILITARY,GOLD,Twin Needle,Honey Trap
+2016-06-17,DAY,MILITARY,BLUE,Berry Your Dead,BEEZE Don't Move
+2016-06-17,DUSK,ECONOMY,BLUE,Berry Your Dead,BEEZE Don't Move
+2016-06-17,DAY,MILITARY,GOLD,Full Snail University,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,GOLD,Full Snail University,King Kai's Queens
+2016-06-17,DAY,MILITARY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-06-17,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-06-17,DAY,MILITARY,BLUE,Honey Trap,BEEZE Don't Move
+2016-06-17,DUSK,ECONOMY,BLUE,Honey Trap,BEEZE Don't Move
+2016-06-17,DAY,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-06-17,DUSK,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-06-17,DAY,ECONOMY,GOLD,Berry Your Dead,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,GOLD,Berry Your Dead,King Kai's Queens
+2016-06-17,DAY,MILITARY,GOLD,BEEZE Don't Move,Garbage Snail Kidz
+2016-06-17,DUSK,MILITARY,GOLD,BEEZE Don't Move,Garbage Snail Kidz
+2016-06-17,DAY,MILITARY,GOLD,Full Snail University,Berry Your Dead
+2016-06-17,DUSK,MILITARY,GOLD,Full Snail University,Berry Your Dead
+2016-06-17,DAY,ECONOMY,BLUE,Twin Needle,BEEZE Don't Move
+2016-06-17,DUSK,MILITARY,GOLD,Twin Needle,BEEZE Don't Move
+2016-06-17,NIGHT,MILITARY,BLUE,Twin Needle,BEEZE Don't Move
+2016-06-17,DAY,MILITARY,BLUE,King Kai's Queens,Honey Trap
+2016-06-17,DUSK,ECONOMY,GOLD,King Kai's Queens,Honey Trap
+2016-06-17,NIGHT,MILITARY,BLUE,King Kai's Queens,Honey Trap
+2016-06-17,DAY,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,DUSK,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,DAY,MILITARY,GOLD,Honey Trap,Berry Your Dead
+2016-06-17,DUSK,ECONOMY,GOLD,Honey Trap,Berry Your Dead
+2016-06-17,DAY,MILITARY,GOLD,Garbage Snail Kidz,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,King Kai's Queens
+2016-06-17,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,King Kai's Queens
+2016-06-17,DAY,MILITARY,GOLD,Full Snail University,Honey Trap
+2016-06-17,DUSK,ECONOMY,GOLD,Full Snail University,Honey Trap
+2016-06-17,DAY,MILITARY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-06-17,DUSK,ECONOMY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-06-17,DAY,MILITARY,GOLD,Twin Needle,King Kai's Queens
+2016-06-17,DUSK,MILITARY,GOLD,Twin Needle,King Kai's Queens
+2016-06-17,DAY,MILITARY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,DUSK,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,NIGHT,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-07-01,NIGHT,ECONOMY,GOLD,Justice Rains from Above,Full Snail University
+2016-07-01,DUSK,MILITARY,GOLD,Justice Rains from Above,Full Snail University
+2016-07-01,NIGHT,MILITARY,BLUE,Ralph Nader's Campaign Donors,Twin Needle
+2016-07-01,DUSK,ECONOMY,BLUE,Ralph Nader's Campaign Donors,Twin Needle
+2016-07-01,NIGHT,ECONOMY,GOLD,Berry Your Dead,Combunists
+2016-07-01,DUSK,ECONOMY,BLUE,Berry Your Dead,Combunists
+2016-07-01,DAY,ECONOMY,BLUE,Berry Your Dead,Combunists
+2016-07-01,NIGHT,MILITARY,GOLD,Full Snail University,Ghost of Beediocre
+2016-07-01,DUSK,MILITARY,GOLD,Full Snail University,Ghost of Beediocre
+2016-07-01,NIGHT,ECONOMY,GOLD,Combunists,Justice Rains from Above
+2016-07-01,DUSK,ECONOMY,BLUE,Combunists,Justice Rains from Above
+2016-07-01,DAY,ECONOMY,GOLD,Combunists,Justice Rains from Above
+2016-07-01,NIGHT,MILITARY,GOLD,Berry Your Dead,Ralph Nader's Campaign Donors
+2016-07-01,DUSK,ECONOMY,GOLD,Berry Your Dead,Ralph Nader's Campaign Donors
+2016-07-01,NIGHT,ECONOMY,GOLD,Ghost of Beediocre,Twin Needle
+2016-07-01,DUSK,MILITARY,BLUE,Ghost of Beediocre,Twin Needle
+2016-07-01,DAY,MILITARY,BLUE,Ghost of Beediocre,Twin Needle
+2016-07-01,NIGHT,MILITARY,BLUE,Full Snail University,Combunists
+2016-07-01,DUSK,ECONOMY,GOLD,Full Snail University,Combunists
+2016-07-01,DAY,MILITARY,GOLD,Full Snail University,Combunists
+2016-07-01,NIGHT,ECONOMY,GOLD,Justice Rains from Above,Ralph Nader's Campaign Donors
+2016-07-01,DUSK,ECONOMY,GOLD,Justice Rains from Above,Ralph Nader's Campaign Donors
+2016-07-01,NIGHT,ECONOMY,BLUE,Combunists,Ghost of Beediocre
+2016-07-01,DUSK,ECONOMY,GOLD,Combunists,Ghost of Beediocre
+2016-07-01,DAY,MILITARY,GOLD,Combunists,Ghost of Beediocre
+2016-07-01,NIGHT,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-07-01,DUSK,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-07-01,NIGHT,MILITARY,BLUE,Ralph Nader's Campaign Donors,Full Snail University
+2016-07-01,DUSK,ECONOMY,BLUE,Ralph Nader's Campaign Donors,Full Snail University
+2016-07-01,NIGHT,ECONOMY,GOLD,Ghost of Beediocre,Berry Your Dead
+2016-07-01,DUSK,MILITARY,BLUE,Ghost of Beediocre,Berry Your Dead
+2016-07-01,DAY,ECONOMY,BLUE,Ghost of Beediocre,Berry Your Dead
+2016-07-01,NIGHT,MILITARY,GOLD,Combunists,Ralph Nader's Campaign Donors
+2016-07-01,DUSK,MILITARY,GOLD,Combunists,Ralph Nader's Campaign Donors
+2016-07-01,NIGHT,ECONOMY,BLUE,Twin Needle,Justice Rains from Above
+2016-07-01,DUSK,ECONOMY,BLUE,Twin Needle,Justice Rains from Above
+2016-07-01,NIGHT,MILITARY,GOLD,Ralph Nader's Campaign Donors,Ghost of Beediocre
+2016-07-01,DUSK,MILITARY,BLUE,Ralph Nader's Campaign Donors,Ghost of Beediocre
+2016-07-01,DAY,MILITARY,BLUE,Ralph Nader's Campaign Donors,Ghost of Beediocre
+2016-07-01,NIGHT,ECONOMY,GOLD,Justice Rains from Above,Berry Your Dead
+2016-07-01,DUSK,MILITARY,GOLD,Justice Rains from Above,Berry Your Dead
+2016-07-01,NIGHT,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-07-01,DUSK,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-07-01,NIGHT,ECONOMY,GOLD,Ghost of Beediocre,Justice Rains from Above
+2016-07-01,DUSK,ECONOMY,BLUE,Ghost of Beediocre,Justice Rains from Above
+2016-07-01,DAY,MILITARY,BLUE,Ghost of Beediocre,Justice Rains from Above
+2016-07-01,NIGHT,MILITARY,GOLD,Berry Your Dead,Full Snail University
+2016-07-01,DUSK,ECONOMY,GOLD,Berry Your Dead,Full Snail University
+2016-07-01,NIGHT,ECONOMY,GOLD,Combunists,Twin Needle
+2016-07-01,DUSK,ECONOMY,GOLD,Combunists,Twin Needle
+2016-07-01,NIGHT,ECONOMY,BLUE,Combunists,Justice Rains from Above
+2016-07-01,DUSK,MILITARY,BLUE,Combunists,Justice Rains from Above
+2016-07-01,DAY,MILITARY,BLUE,Combunists,Justice Rains from Above
+2016-07-08,DAY,MILITARY,BLUE,Warren Beevon,Finally Fun
+2016-07-08,NIGHT,SNAIL,BLUE,Warren Beevon,Finally Fun
+2016-07-08,DAY,MILITARY,BLUE,Warren Beevon,Finally Fun
+2016-07-08,DAY,MILITARY,GOLD,Mamba No. Hive,Queen Sized
+2016-07-08,NIGHT,ECONOMY,BLUE,Mamba No. Hive,Queen Sized
+2016-07-08,DAY,ECONOMY,BLUE,Mamba No. Hive,Queen Sized
+2016-07-08,NIGHT,ECONOMY,GOLD,Mamba No. Hive,Queen Sized
+2016-07-08,DAY,MILITARY,GOLD,Mamba No. Hive,Queen Sized
+2016-07-08,DAY,MILITARY,GOLD,Queen Sized,Warren Beevon
+2016-07-08,NIGHT,ECONOMY,GOLD,Queen Sized,Warren Beevon
+2016-07-08,DAY,MILITARY,GOLD,Queen Sized,Warren Beevon
+2016-07-08,DAY,MILITARY,GOLD,Mamba No. Hive,Finally Fun
+2016-07-08,NIGHT,MILITARY,GOLD,Mamba No. Hive,Finally Fun
+2016-07-08,DAY,MILITARY,GOLD,Mamba No. Hive,Finally Fun
+2016-07-08,DAY,SNAIL,BLUE,Warren Beevon,Mamba No. Hive
+2016-07-08,NIGHT,SNAIL,BLUE,Warren Beevon,Mamba No. Hive
+2016-07-08,DAY,SNAIL,BLUE,Warren Beevon,Mamba No. Hive
+2016-07-08,DAY,ECONOMY,BLUE,Queen Sized,Finally Fun
+2016-07-08,NIGHT,MILITARY,BLUE,Queen Sized,Finally Fun
+2016-07-08,DAY,MILITARY,GOLD,Queen Sized,Finally Fun
+2016-07-08,NIGHT,MILITARY,BLUE,Queen Sized,Finally Fun
+2016-07-08,DAY,MILITARY,BLUE,Mamba No. Hive,Finally Fun
+2016-07-08,NIGHT,SNAIL,BLUE,Mamba No. Hive,Finally Fun
+2016-07-08,DAY,MILITARY,GOLD,Mamba No. Hive,Finally Fun
+2016-07-08,NIGHT,MILITARY,GOLD,Mamba No. Hive,Finally Fun
+2016-07-08,DAY,MILITARY,GOLD,Mamba No. Hive,Finally Fun
+2016-07-08,NIGHT,ECONOMY,BLUE,Mamba No. Hive,Finally Fun
+2016-07-08,DAY,ECONOMY,BLUE,Mamba No. Hive,Finally Fun
+2016-07-15,DAY,MILITARY,BLUE,Above Behind Snail,Don't Bee Evil
+2016-07-15,NIGHT,MILITARY,GOLD,Above Behind Snail,Don't Bee Evil
+2016-07-15,DAY,MILITARY,BLUE,Above Behind Snail,Don't Bee Evil
+2016-07-15,DAY,MILITARY,GOLD,Full Snail University,Berry Your Dead
+2016-07-15,NIGHT,ECONOMY,GOLD,Full Snail University,Berry Your Dead
+2016-07-15,DAY,MILITARY,GOLD,Twin Needle,Resurrection B
+2016-07-15,NIGHT,MILITARY,GOLD,Twin Needle,Resurrection B
+2016-07-15,DAY,MILITARY,BLUE,Berry Your Dead,Above Behind Snail
+2016-07-15,NIGHT,MILITARY,GOLD,Berry Your Dead,Above Behind Snail
+2016-07-15,DAY,MILITARY,BLUE,Berry Your Dead,Above Behind Snail
+2016-07-15,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-07-15,NIGHT,MILITARY,GOLD,Twin Needle,Full Snail University
+2016-07-15,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-07-15,DAY,MILITARY,BLUE,Resurrection B,Don't Bee Evil
+2016-07-15,NIGHT,ECONOMY,GOLD,Resurrection B,Don't Bee Evil
+2016-07-15,DAY,MILITARY,BLUE,Resurrection B,Don't Bee Evil
+2016-07-15,DAY,SNAIL,GOLD,Above Behind Snail,Resurrection B
+2016-07-15,NIGHT,MILITARY,GOLD,Above Behind Snail,Resurrection B
+2016-07-15,DAY,MILITARY,GOLD,Berry Your Dead,Twin Needle
+2016-07-15,NIGHT,SNAIL,BLUE,Berry Your Dead,Twin Needle
+2016-07-15,DAY,MILITARY,GOLD,Berry Your Dead,Twin Needle
+2016-07-15,DAY,MILITARY,BLUE,Don't Bee Evil,Full Snail University
+2016-07-15,NIGHT,ECONOMY,BLUE,Don't Bee Evil,Full Snail University
+2016-07-15,DAY,MILITARY,BLUE,Twin Needle,Above Behind Snail
+2016-07-15,NIGHT,MILITARY,GOLD,Twin Needle,Above Behind Snail
+2016-07-15,DAY,ECONOMY,GOLD,Twin Needle,Above Behind Snail
+2016-07-15,DAY,MILITARY,GOLD,Full Snail University,Resurrection B
+2016-07-15,NIGHT,ECONOMY,GOLD,Full Snail University,Resurrection B
+2016-07-15,DAY,MILITARY,GOLD,Don't Bee Evil,Berry Your Dead
+2016-07-15,NIGHT,MILITARY,BLUE,Don't Bee Evil,Berry Your Dead
+2016-07-15,DAY,MILITARY,GOLD,Don't Bee Evil,Berry Your Dead
+2016-07-15,DAY,SNAIL,BLUE,Above Behind Snail,Full Snail University
+2016-07-15,NIGHT,MILITARY,BLUE,Above Behind Snail,Full Snail University
+2016-07-15,DAY,ECONOMY,GOLD,Twin Needle,Don't Bee Evil
+2016-07-15,NIGHT,MILITARY,GOLD,Twin Needle,Don't Bee Evil
+2016-07-15,DAY,ECONOMY,GOLD,Resurrection B,Berry Your Dead
+2016-07-15,NIGHT,MILITARY,GOLD,Resurrection B,Berry Your Dead
+2016-07-15,DAY,MILITARY,BLUE,Don't Bee Evil,Twin Needle
+2016-07-15,NIGHT,ECONOMY,BLUE,Don't Bee Evil,Twin Needle
+2016-07-15,DAY,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-07-15,NIGHT,ECONOMY,BLUE,Full Snail University,Twin Needle
+2016-07-15,DAY,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-07-22,DAY,MILITARY,GOLD,Combunists,The Berry Bee Bensons
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Twin Needle,Garbage Snail Kidz
+2016-07-22,NIGHT,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-07-22,DAY,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,BLUE,Resurrection B,Berry Your Dead
+2016-07-22,NIGHT,ECONOMY,BLUE,Resurrection B,Berry Your Dead
+2016-07-22,DAY,SNAIL,BLUE,The Berry Bee Bensons,Full Witch University
+2016-07-22,NIGHT,SNAIL,BLUE,The Berry Bee Bensons,Full Witch University
+2016-07-22,DAY,MILITARY,BLUE,Berry Your Dead,Combunists
+2016-07-22,NIGHT,SNAIL,BLUE,Berry Your Dead,Combunists
+2016-07-22,DAY,MILITARY,GOLD,Resurrection B,Twin Needle
+2016-07-22,NIGHT,MILITARY,GOLD,Resurrection B,Twin Needle
+2016-07-22,DAY,MILITARY,BLUE,Full Witch University,Garbage Snail Kidz
+2016-07-22,NIGHT,ECONOMY,BLUE,Full Witch University,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,BLUE,The Berry Bee Bensons,Berry Your Dead
+2016-07-22,NIGHT,SNAIL,BLUE,The Berry Bee Bensons,Berry Your Dead
+2016-07-22,DAY,MILITARY,GOLD,Combunists,Twin Needle
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,Twin Needle
+2016-07-22,DAY,MILITARY,GOLD,Berry Your Dead,Full Witch University
+2016-07-22,NIGHT,MILITARY,GOLD,Berry Your Dead,Full Witch University
+2016-07-22,DAY,ECONOMY,GOLD,Resurrection B,Garbage Snail Kidz
+2016-07-22,NIGHT,MILITARY,GOLD,Resurrection B,Garbage Snail Kidz
+2016-07-22,DAY,ECONOMY,GOLD,Twin Needle,The Berry Bee Bensons
+2016-07-22,NIGHT,SNAIL,BLUE,Twin Needle,The Berry Bee Bensons
+2016-07-22,DAY,ECONOMY,GOLD,Twin Needle,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Full Witch University,Resurrection B
+2016-07-22,NIGHT,ECONOMY,GOLD,Full Witch University,Resurrection B
+2016-07-22,DAY,ECONOMY,GOLD,Full Witch University,Resurrection B
+2016-07-22,DAY,MILITARY,GOLD,Berry Your Dead,Twin Needle
+2016-07-22,NIGHT,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-07-22,DAY,MILITARY,GOLD,Berry Your Dead,Twin Needle
+2016-07-22,DAY,MILITARY,GOLD,Garbage Snail Kidz,Combunists
+2016-07-22,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Combunists
+2016-07-22,DAY,MILITARY,BLUE,Garbage Snail Kidz,Combunists
+2016-07-22,DAY,MILITARY,GOLD,Twin Needle,Full Witch University
+2016-07-22,NIGHT,ECONOMY,BLUE,Twin Needle,Full Witch University
+2016-07-22,DAY,MILITARY,GOLD,Twin Needle,Full Witch University
+2016-07-22,DAY,MILITARY,BLUE,Combunists,Resurrection B
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,Resurrection B
+2016-07-22,DAY,ECONOMY,GOLD,Combunists,Resurrection B
+2016-07-22,DAY,MILITARY,GOLD,The Berry Bee Bensons,Garbage Snail Kidz
+2016-07-22,NIGHT,MILITARY,BLUE,The Berry Bee Bensons,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,GOLD,The Berry Bee Bensons,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,GOLD,Full Witch University,Combunists
+2016-07-22,NIGHT,ECONOMY,BLUE,Full Witch University,Combunists
+2016-07-22,DAY,MILITARY,BLUE,Full Witch University,Combunists
+2016-07-22,DAY,SNAIL,BLUE,Resurrection B,The Berry Bee Bensons
+2016-07-22,NIGHT,ECONOMY,GOLD,Resurrection B,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Resurrection B,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Berry Your Dead,Garbage Snail Kidz
+2016-07-22,NIGHT,ECONOMY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,BLUE,Berry Your Dead,Garbage Snail Kidz
+2016-07-22,DAY,ECONOMY,GOLD,Combunists,Berry Your Dead
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,Berry Your Dead
+2016-07-22,DAY,ECONOMY,GOLD,Combunists,Berry Your Dead
+2016-07-29,DAY,MILITARY,GOLD,Full Snail University,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,Full Snail University,You Always Have to Pay
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Don't Bee Evil
+2016-07-29,NIGHT,MILITARY,BLUE,Combunists,Don't Bee Evil
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Don't Bee Evil
+2016-07-29,DAY,MILITARY,GOLD,happybillybirthday.com,Twin Needle
+2016-07-29,NIGHT,SNAIL,GOLD,happybillybirthday.com,Twin Needle
+2016-07-29,DAY,MILITARY,GOLD,Brian You're Dead,Resurrection B
+2016-07-29,NIGHT,ECONOMY,GOLD,Brian You're Dead,Resurrection B
+2016-07-29,DAY,MILITARY,BLUE,Don't Bee Evil,Full Snail University
+2016-07-29,NIGHT,SNAIL,BLUE,Don't Bee Evil,Full Snail University
+2016-07-29,DAY,MILITARY,BLUE,Twin Needle,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,BLUE,Twin Needle,You Always Have to Pay
+2016-07-29,DAY,MILITARY,BLUE,Resurrection B,Combunists
+2016-07-29,NIGHT,ECONOMY,GOLD,Resurrection B,Combunists
+2016-07-29,DAY,SNAIL,BLUE,Resurrection B,Combunists
+2016-07-29,DAY,SNAIL,GOLD,Brian You're Dead,happybillybirthday.com
+2016-07-29,NIGHT,ECONOMY,GOLD,Brian You're Dead,happybillybirthday.com
+2016-07-29,DAY,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-07-29,DAY,ECONOMY,BLUE,Don't Bee Evil,Resurrection B
+2016-07-29,NIGHT,ECONOMY,BLUE,Don't Bee Evil,Resurrection B
+2016-07-29,DAY,SNAIL,BLUE,You Always Have to Pay,Brian You're Dead
+2016-07-29,NIGHT,ECONOMY,BLUE,You Always Have to Pay,Brian You're Dead
+2016-07-29,DAY,MILITARY,BLUE,Combunists,happybillybirthday.com
+2016-07-29,NIGHT,ECONOMY,GOLD,Combunists,happybillybirthday.com
+2016-07-29,DAY,MILITARY,BLUE,Combunists,happybillybirthday.com
+2016-07-29,DAY,MILITARY,GOLD,Resurrection B,Full Snail University
+2016-07-29,NIGHT,ECONOMY,BLUE,Resurrection B,Full Snail University
+2016-07-29,DAY,SNAIL,BLUE,Resurrection B,Full Snail University
+2016-07-29,DAY,MILITARY,GOLD,Brian You're Dead,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Brian You're Dead,Twin Needle
+2016-07-29,DAY,MILITARY,GOLD,happybillybirthday.com,Don't Bee Evil
+2016-07-29,NIGHT,MILITARY,GOLD,happybillybirthday.com,Don't Bee Evil
+2016-07-29,DAY,SNAIL,GOLD,Combunists,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,Combunists,You Always Have to Pay
+2016-07-29,DAY,MILITARY,BLUE,Full Snail University,Brian You're Dead
+2016-07-29,NIGHT,ECONOMY,BLUE,Full Snail University,Brian You're Dead
+2016-07-29,DAY,MILITARY,BLUE,Resurrection B,happybillybirthday.com
+2016-07-29,NIGHT,SNAIL,BLUE,Resurrection B,happybillybirthday.com
+2016-07-29,DAY,MILITARY,BLUE,Twin Needle,Combunists
+2016-07-29,NIGHT,ECONOMY,BLUE,Twin Needle,Combunists
+2016-07-29,DAY,MILITARY,GOLD,Don't Bee Evil,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,Don't Bee Evil,You Always Have to Pay
+2016-07-29,DAY,MILITARY,BLUE,happybillybirthday.com,Full Snail University
+2016-07-29,NIGHT,MILITARY,GOLD,happybillybirthday.com,Full Snail University
+2016-07-29,DAY,MILITARY,BLUE,happybillybirthday.com,Full Snail University
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,NIGHT,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,DAY,ECONOMY,BLUE,You Always Have to Pay,Resurrection B
+2016-07-29,NIGHT,ECONOMY,BLUE,You Always Have to Pay,Resurrection B
+2016-07-29,DAY,MILITARY,GOLD,Don't Bee Evil,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Don't Bee Evil,Twin Needle
+2016-07-29,DAY,MILITARY,GOLD,Full Snail University,Combunists
+2016-07-29,NIGHT,MILITARY,BLUE,Full Snail University,Combunists
+2016-07-29,DAY,SNAIL,BLUE,Full Snail University,Combunists
+2016-07-29,DAY,ECONOMY,GOLD,happybillybirthday.com,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,happybillybirthday.com,You Always Have to Pay
+2016-07-29,DAY,MILITARY,GOLD,Brian You're Dead,Don't Bee Evil
+2016-07-29,NIGHT,MILITARY,GOLD,Brian You're Dead,Don't Bee Evil
+2016-07-29,DAY,MILITARY,GOLD,Resurrection B,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Resurrection B,Twin Needle
+2016-07-29,DAY,SNAIL,BLUE,Combunists,Brian You're Dead
+2016-07-29,NIGHT,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,NIGHT,SNAIL,BLUE,Combunists,Brian You're Dead
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-08-05,DAY,MILITARY,GOLD,BDU,Butterfingers
+2016-08-05,NIGHT,ECONOMY,GOLD,BDU,Butterfingers
+2016-08-05,DAY,MILITARY,GOLD,BDU,Butterfingers
+2016-08-05,DAY,MILITARY,GOLD,Combunists,Let's Bee Evil
+2016-08-05,NIGHT,ECONOMY,BLUE,Combunists,Let's Bee Evil
+2016-08-05,DAY,ECONOMY,BLUE,Combunists,Let's Bee Evil
+2016-08-05,NIGHT,MILITARY,GOLD,Combunists,Let's Bee Evil
+2016-08-05,DAY,MILITARY,BLUE,Combunists,Let's Bee Evil
+2016-08-05,DAY,MILITARY,BLUE,Twin Needle,||||||||||||
+2016-08-05,NIGHT,ECONOMY,BLUE,Twin Needle,||||||||||||
+2016-08-05,DAY,MILITARY,BLUE,Twin Needle,||||||||||||
+2016-08-05,DAY,MILITARY,BLUE,Let's Bee Evil,BDU
+2016-08-05,NIGHT,MILITARY,BLUE,Let's Bee Evil,BDU
+2016-08-05,DAY,MILITARY,BLUE,Let's Bee Evil,BDU
+2016-08-05,DAY,MILITARY,BLUE,||||||||||||,Butterfingers
+2016-08-05,NIGHT,MILITARY,GOLD,||||||||||||,Butterfingers
+2016-08-05,DAY,MILITARY,GOLD,||||||||||||,Butterfingers
+2016-08-05,NIGHT,ECONOMY,GOLD,||||||||||||,Butterfingers
+2016-08-05,DAY,MILITARY,BLUE,Twin Needle,Combunists
+2016-08-05,NIGHT,ECONOMY,BLUE,Twin Needle,Combunists
+2016-08-05,DAY,MILITARY,BLUE,Twin Needle,Combunists
+2016-08-05,DAY,SNAIL,BLUE,BDU,||||||||||||
+2016-08-05,NIGHT,MILITARY,BLUE,BDU,||||||||||||
+2016-08-05,DAY,MILITARY,BLUE,BDU,||||||||||||
+2016-08-05,DAY,MILITARY,BLUE,Let's Bee Evil,Twin Needle
+2016-08-05,NIGHT,MILITARY,GOLD,Let's Bee Evil,Twin Needle
+2016-08-05,DAY,MILITARY,BLUE,Let's Bee Evil,Twin Needle
+2016-08-05,NIGHT,ECONOMY,GOLD,Let's Bee Evil,Twin Needle
+2016-08-05,DAY,MILITARY,BLUE,Let's Bee Evil,Twin Needle
+2016-08-05,DAY,MILITARY,BLUE,Butterfingers,Combunists
+2016-08-05,NIGHT,MILITARY,BLUE,Butterfingers,Combunists
+2016-08-05,DAY,MILITARY,BLUE,Butterfingers,Combunists
+2016-08-05,DAY,MILITARY,GOLD,Twin Needle,BDU
+2016-08-05,NIGHT,MILITARY,GOLD,Twin Needle,BDU
+2016-08-05,DAY,MILITARY,BLUE,Twin Needle,BDU
+2016-08-05,NIGHT,ECONOMY,BLUE,Twin Needle,BDU
+2016-08-05,DAY,MILITARY,BLUE,Twin Needle,BDU
+2016-08-05,DAY,SNAIL,GOLD,Combunists,||||||||||||
+2016-08-05,NIGHT,ECONOMY,BLUE,Combunists,||||||||||||
+2016-08-05,DAY,MILITARY,GOLD,Combunists,||||||||||||
+2016-08-05,NIGHT,ECONOMY,BLUE,Combunists,||||||||||||
+2016-08-05,DAY,MILITARY,GOLD,Combunists,||||||||||||
+2016-08-05,DAY,ECONOMY,BLUE,Butterfingers,Let's Bee Evil
+2016-08-05,NIGHT,MILITARY,BLUE,Butterfingers,Let's Bee Evil
+2016-08-05,DAY,MILITARY,BLUE,Butterfingers,Let's Bee Evil
+2016-08-05,DAY,MILITARY,BLUE,BDU,Combunists
+2016-08-05,NIGHT,ECONOMY,BLUE,BDU,Combunists
+2016-08-05,DAY,MILITARY,GOLD,BDU,Combunists
+2016-08-05,NIGHT,ECONOMY,BLUE,BDU,Combunists
+2016-08-05,DAY,MILITARY,GOLD,Twin Needle,Butterfingers
+2016-08-05,NIGHT,ECONOMY,BLUE,Twin Needle,Butterfingers
+2016-08-05,DAY,ECONOMY,GOLD,Twin Needle,Butterfingers
+2016-08-05,NIGHT,ECONOMY,GOLD,Twin Needle,Butterfingers
+2016-08-05,DAY,MILITARY,BLUE,||||||||||||,Let's Bee Evil
+2016-08-05,NIGHT,MILITARY,GOLD,||||||||||||,Let's Bee Evil
+2016-08-05,DAY,SNAIL,GOLD,||||||||||||,Let's Bee Evil
+2016-08-05,NIGHT,SNAIL,BLUE,||||||||||||,Let's Bee Evil
+2016-08-05,DAY,MILITARY,GOLD,||||||||||||,Let's Bee Evil
+2016-08-05,DAY,SNAIL,GOLD,Combunists,||||||||||||
+2016-08-05,NIGHT,ECONOMY,BLUE,Combunists,||||||||||||
+2016-08-05,DAY,SNAIL,GOLD,Combunists,||||||||||||
+2016-08-05,NIGHT,MILITARY,BLUE,Combunists,||||||||||||
+2016-08-05,DAY,MILITARY,BLUE,Combunists,||||||||||||
+2016-08-05,NIGHT,ECONOMY,BLUE,Combunists,||||||||||||
+2016-08-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Dreams Do Comb True
+2016-08-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Dreams Do Comb True
+2016-08-20,DAY,MILITARY,BLUE,Beepocalypse Now,Slow J Simpson
+2016-08-20,DUSK,ECONOMY,BLUE,Beepocalypse Now,Slow J Simpson
+2016-08-20,DAY,MILITARY,GOLD,Beerlung,Moon Jelly
+2016-08-20,DUSK,MILITARY,GOLD,Beerlung,Moon Jelly
+2016-08-20,DAY,ECONOMY,BLUE,Berry Your Dead,Twin Needle
+2016-08-20,DUSK,ECONOMY,GOLD,Berry Your Dead,Twin Needle
+2016-08-20,NIGHT,ECONOMY,BLUE,Berry Your Dead,Twin Needle
+2016-08-20,DAY,MILITARY,GOLD,Dreams Do Comb True,Beepocalypse Now
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Beepocalypse Now
+2016-08-20,DAY,MILITARY,GOLD,Moon Jelly,Garbage Snail Kidz
+2016-08-20,DUSK,MILITARY,GOLD,Moon Jelly,Garbage Snail Kidz
+2016-08-20,DAY,MILITARY,GOLD,Slow J Simpson,Berry Your Dead
+2016-08-20,DUSK,ECONOMY,GOLD,Slow J Simpson,Berry Your Dead
+2016-08-20,DAY,SNAIL,GOLD,Beerlung,Twin Needle
+2016-08-20,DUSK,MILITARY,BLUE,Beerlung,Twin Needle
+2016-08-20,NIGHT,MILITARY,GOLD,Beerlung,Twin Needle
+2016-08-20,DAY,MILITARY,GOLD,Dreams Do Comb True,Moon Jelly
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Moon Jelly
+2016-08-20,DAY,ECONOMY,BLUE,Beepocalypse Now,Berry Your Dead
+2016-08-20,DUSK,SNAIL,GOLD,Beepocalypse Now,Berry Your Dead
+2016-08-20,NIGHT,ECONOMY,BLUE,Beepocalypse Now,Berry Your Dead
+2016-08-20,DAY,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-08-20,DUSK,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-08-20,DAY,SNAIL,BLUE,Slow J Simpson,Beerlung
+2016-08-20,DUSK,MILITARY,GOLD,Slow J Simpson,Beerlung
+2016-08-20,NIGHT,MILITARY,GOLD,Slow J Simpson,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Dreams Do Comb True,Berry Your Dead
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Berry Your Dead
+2016-08-20,NIGHT,MILITARY,GOLD,Dreams Do Comb True,Berry Your Dead
+2016-08-20,DAY,MILITARY,BLUE,Twin Needle,Moon Jelly
+2016-08-20,DUSK,ECONOMY,GOLD,Twin Needle,Moon Jelly
+2016-08-20,NIGHT,ECONOMY,GOLD,Twin Needle,Moon Jelly
+2016-08-20,DAY,ECONOMY,BLUE,Beepocalypse Now,Beerlung
+2016-08-20,DUSK,ECONOMY,BLUE,Beepocalypse Now,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Slow J Simpson
+2016-08-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Slow J Simpson
+2016-08-20,DAY,MILITARY,BLUE,Twin Needle,Dreams Do Comb True
+2016-08-20,DUSK,MILITARY,GOLD,Twin Needle,Dreams Do Comb True
+2016-08-20,NIGHT,MILITARY,BLUE,Twin Needle,Dreams Do Comb True
+2016-08-20,DAY,MILITARY,GOLD,Berry Your Dead,Beerlung
+2016-08-20,DUSK,MILITARY,BLUE,Berry Your Dead,Beerlung
+2016-08-20,NIGHT,MILITARY,BLUE,Berry Your Dead,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Moon Jelly,Slow J Simpson
+2016-08-20,DUSK,MILITARY,BLUE,Moon Jelly,Slow J Simpson
+2016-08-20,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Beepocalypse Now
+2016-08-20,DUSK,SNAIL,GOLD,Garbage Snail Kidz,Beepocalypse Now
+2016-08-20,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Beepocalypse Now
+2016-08-20,DAY,MILITARY,BLUE,Dreams Do Comb True,Beerlung
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-20,NIGHT,MILITARY,BLUE,Dreams Do Comb True,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Slow J Simpson,Twin Needle
+2016-08-20,DUSK,MILITARY,GOLD,Slow J Simpson,Twin Needle
+2016-08-20,NIGHT,ECONOMY,GOLD,Slow J Simpson,Twin Needle
+2016-08-20,DAY,MILITARY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-08-20,DUSK,MILITARY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-08-20,DAY,MILITARY,GOLD,Beepocalypse Now,Moon Jelly
+2016-08-20,DUSK,MILITARY,BLUE,Beepocalypse Now,Moon Jelly
+2016-08-20,NIGHT,MILITARY,BLUE,Beepocalypse Now,Moon Jelly
+2016-08-20,DAY,MILITARY,BLUE,Slow J Simpson,Dreams Do Comb True
+2016-08-20,DUSK,MILITARY,BLUE,Slow J Simpson,Dreams Do Comb True
+2016-08-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beerlung
+2016-08-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Beerlung
+2016-08-20,DAY,ECONOMY,GOLD,Twin Needle,Beepocalypse Now
+2016-08-20,DUSK,ECONOMY,GOLD,Twin Needle,Beepocalypse Now
+2016-08-20,DAY,SNAIL,GOLD,Berry Your Dead,Moon Jelly
+2016-08-20,DUSK,ECONOMY,GOLD,Berry Your Dead,Moon Jelly
+2016-08-20,DAY,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-20,NIGHT,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-26,DAY,MILITARY,GOLD,||||||||||||,Vegantarians
+2016-08-26,DUSK,MILITARY,BLUE,||||||||||||,Vegantarians
+2016-08-26,NIGHT,MILITARY,BLUE,||||||||||||,Vegantarians
+2016-08-26,DAY,MILITARY,GOLD,?Snail Colliders,Garbage Snail Kidz
+2016-08-26,DUSK,MILITARY,GOLD,?Snail Colliders,Garbage Snail Kidz
+2016-08-26,DAY,SNAIL,GOLD,Dawn of Dusk,Twin Needle
+2016-08-26,DUSK,SNAIL,GOLD,Dawn of Dusk,Twin Needle
+2016-08-26,DAY,ECONOMY,GOLD,Full Snail University,Resurrection B
+2016-08-26,DUSK,ECONOMY,GOLD,Full Snail University,Resurrection B
+2016-08-26,DAY,ECONOMY,BLUE,Garbage Snail Kidz,||||||||||||
+2016-08-26,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,||||||||||||
+2016-08-26,DAY,MILITARY,GOLD,Twin Needle,Vegantarians
+2016-08-26,DUSK,MILITARY,GOLD,Twin Needle,Vegantarians
+2016-08-26,DAY,MILITARY,BLUE,Resurrection B,?Snail Colliders
+2016-08-26,DUSK,MILITARY,BLUE,Resurrection B,?Snail Colliders
+2016-08-26,DAY,MILITARY,BLUE,Full Snail University,Dawn of Dusk
+2016-08-26,DUSK,SNAIL,BLUE,Full Snail University,Dawn of Dusk
+2016-08-26,DAY,MILITARY,BLUE,||||||||||||,Twin Needle
+2016-08-26,DUSK,SNAIL,BLUE,||||||||||||,Twin Needle
+2016-08-26,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Resurrection B
+2016-08-26,DAY,MILITARY,BLUE,Garbage Snail Kidz,Resurrection B
+2016-08-26,DAY,MILITARY,BLUE,Vegantarians,Full Snail University
+2016-08-26,DUSK,MILITARY,GOLD,Vegantarians,Full Snail University
+2016-08-26,NIGHT,MILITARY,BLUE,Vegantarians,Full Snail University
+2016-08-26,DAY,MILITARY,GOLD,?Snail Colliders,Dawn of Dusk
+2016-08-26,DUSK,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-08-26,NIGHT,ECONOMY,GOLD,?Snail Colliders,Dawn of Dusk
+2016-08-26,DAY,MILITARY,BLUE,Resurrection B,||||||||||||
+2016-08-26,DUSK,MILITARY,BLUE,Resurrection B,||||||||||||
+2016-08-26,DAY,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-08-26,DUSK,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-08-26,DAY,MILITARY,GOLD,Dawn of Dusk,Garbage Snail Kidz
+2016-08-26,DUSK,ECONOMY,GOLD,Dawn of Dusk,Garbage Snail Kidz
+2016-08-26,DAY,MILITARY,GOLD,?Snail Colliders,Vegantarians
+2016-08-26,DUSK,SNAIL,GOLD,?Snail Colliders,Vegantarians
+2016-08-26,DAY,MILITARY,BLUE,||||||||||||,Full Snail University
+2016-08-26,DUSK,ECONOMY,BLUE,||||||||||||,Full Snail University
+2016-08-26,DAY,SNAIL,BLUE,Resurrection B,Dawn of Dusk
+2016-08-26,DUSK,MILITARY,BLUE,Resurrection B,Dawn of Dusk
+2016-08-26,DAY,ECONOMY,BLUE,Twin Needle,?Snail Colliders
+2016-08-26,DUSK,MILITARY,BLUE,Twin Needle,?Snail Colliders
+2016-08-26,DAY,MILITARY,BLUE,Garbage Snail Kidz,Vegantarians
+2016-08-26,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Vegantarians
+2016-08-26,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Vegantarians
+2016-08-26,DAY,MILITARY,GOLD,Dawn of Dusk,||||||||||||
+2016-08-26,DUSK,MILITARY,BLUE,Dawn of Dusk,||||||||||||
+2016-08-26,NIGHT,ECONOMY,GOLD,Dawn of Dusk,||||||||||||
+2016-08-26,DAY,MILITARY,BLUE,?Snail Colliders,Full Snail University
+2016-08-26,DUSK,ECONOMY,GOLD,?Snail Colliders,Full Snail University
+2016-08-26,NIGHT,ECONOMY,GOLD,?Snail Colliders,Full Snail University
+2016-08-26,DAY,ECONOMY,BLUE,Vegantarians,Resurrection B
+2016-08-26,DUSK,MILITARY,GOLD,Vegantarians,Resurrection B
+2016-08-26,NIGHT,ECONOMY,BLUE,Vegantarians,Resurrection B
+2016-08-26,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-08-26,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-08-26,DAY,MILITARY,GOLD,||||||||||||,?Snail Colliders
+2016-08-26,DUSK,MILITARY,BLUE,||||||||||||,?Snail Colliders
+2016-08-26,NIGHT,ECONOMY,GOLD,||||||||||||,?Snail Colliders
+2016-08-26,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-08-26,DUSK,SNAIL,BLUE,Full Snail University,Garbage Snail Kidz
+2016-08-26,NIGHT,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-08-26,DAY,MILITARY,GOLD,Dawn of Dusk,Vegantarians
+2016-08-26,DUSK,SNAIL,GOLD,Dawn of Dusk,Vegantarians
+2016-08-26,DAY,ECONOMY,GOLD,Resurrection B,Twin Needle
+2016-08-26,DUSK,SNAIL,BLUE,Resurrection B,Twin Needle
+2016-08-26,NIGHT,MILITARY,BLUE,Resurrection B,Twin Needle
+2016-08-26,DAY,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-08-26,DUSK,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-08-26,NIGHT,ECONOMY,GOLD,?Snail Colliders,Dawn of Dusk
+2016-08-26,DAY,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-09-02,DAY,MILITARY,GOLD,?That's a Wrap,Peace Mode
+2016-09-02,NIGHT,ECONOMY,GOLD,?That's a Wrap,Peace Mode
+2016-09-02,DAY,MILITARY,GOLD,Wyatt Pls,Bee Bee Queens
+2016-09-02,NIGHT,MILITARY,GOLD,Wyatt Pls,Bee Bee Queens
+2016-09-02,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-02,NIGHT,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-02,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Don't Bee Evil
+2016-09-02,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Don't Bee Evil
+2016-09-02,DAY,MILITARY,GOLD,Bee Bee Queens,?That's a Wrap
+2016-09-02,NIGHT,ECONOMY,BLUE,Bee Bee Queens,?That's a Wrap
+2016-09-02,DAY,ECONOMY,BLUE,Bee Bee Queens,?That's a Wrap
+2016-09-02,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Peace Mode
+2016-09-02,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Peace Mode
+2016-09-02,DAY,MILITARY,BLUE,Don't Bee Evil,Wyatt Pls
+2016-09-02,NIGHT,MILITARY,BLUE,Don't Bee Evil,Wyatt Pls
+2016-09-02,DAY,ECONOMY,BLUE,The Rent is Too Damn Hive,Full Snail University
+2016-09-02,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Full Snail University
+2016-09-02,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Full Snail University
+2016-09-02,DAY,ECONOMY,GOLD,?That's a Wrap,Garbage Snail Kidz
+2016-09-02,NIGHT,MILITARY,GOLD,?That's a Wrap,Garbage Snail Kidz
+2016-09-02,DAY,MILITARY,BLUE,Bee Bee Queens,Don't Bee Evil
+2016-09-02,NIGHT,ECONOMY,BLUE,Bee Bee Queens,Don't Bee Evil
+2016-09-02,DAY,MILITARY,BLUE,Peace Mode,The Rent is Too Damn Hive
+2016-09-02,NIGHT,MILITARY,BLUE,Peace Mode,The Rent is Too Damn Hive
+2016-09-02,DAY,MILITARY,GOLD,Wyatt Pls,Full Snail University
+2016-09-02,NIGHT,ECONOMY,GOLD,Wyatt Pls,Full Snail University
+2016-09-02,DAY,MILITARY,BLUE,Don't Bee Evil,?That's a Wrap
+2016-09-02,NIGHT,MILITARY,BLUE,Don't Bee Evil,?That's a Wrap
+2016-09-02,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-09-02,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-09-02,DAY,MILITARY,GOLD,Full Snail University,Bee Bee Queens
+2016-09-02,NIGHT,ECONOMY,GOLD,Full Snail University,Bee Bee Queens
+2016-09-02,DAY,MILITARY,GOLD,Wyatt Pls,Peace Mode
+2016-09-02,NIGHT,ECONOMY,GOLD,Wyatt Pls,Peace Mode
+2016-09-02,DAY,ECONOMY,GOLD,?That's a Wrap,The Rent is Too Damn Hive
+2016-09-02,NIGHT,ECONOMY,GOLD,?That's a Wrap,The Rent is Too Damn Hive
+2016-09-02,DAY,MILITARY,GOLD,Don't Bee Evil,Full Snail University
+2016-09-02,NIGHT,MILITARY,BLUE,Don't Bee Evil,Full Snail University
+2016-09-02,DAY,MILITARY,BLUE,Don't Bee Evil,Full Snail University
+2016-09-02,DAY,MILITARY,BLUE,Garbage Snail Kidz,Wyatt Pls
+2016-09-02,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Wyatt Pls
+2016-09-02,DAY,ECONOMY,BLUE,Bee Bee Queens,Peace Mode
+2016-09-02,NIGHT,MILITARY,BLUE,Bee Bee Queens,Peace Mode
+2016-09-02,DAY,MILITARY,BLUE,Full Snail University,?That's a Wrap
+2016-09-02,NIGHT,MILITARY,BLUE,Full Snail University,?That's a Wrap
+2016-09-02,DAY,SNAIL,GOLD,Wyatt Pls,The Rent is Too Damn Hive
+2016-09-02,NIGHT,MILITARY,BLUE,Wyatt Pls,The Rent is Too Damn Hive
+2016-09-02,DAY,MILITARY,GOLD,Wyatt Pls,The Rent is Too Damn Hive
+2016-09-02,DAY,MILITARY,GOLD,Peace Mode,Don't Bee Evil
+2016-09-02,NIGHT,MILITARY,BLUE,Peace Mode,Don't Bee Evil
+2016-09-02,DAY,SNAIL,BLUE,Peace Mode,Don't Bee Evil
+2016-09-02,DAY,MILITARY,BLUE,Bee Bee Queens,Garbage Snail Kidz
+2016-09-02,NIGHT,SNAIL,BLUE,Bee Bee Queens,Garbage Snail Kidz
+2016-09-02,DAY,MILITARY,BLUE,?That's a Wrap,Wyatt Pls
+2016-09-02,NIGHT,MILITARY,GOLD,?That's a Wrap,Wyatt Pls
+2016-09-02,DAY,SNAIL,GOLD,?That's a Wrap,Wyatt Pls
+2016-09-02,DAY,MILITARY,GOLD,Full Snail University,Peace Mode
+2016-09-02,NIGHT,MILITARY,BLUE,Full Snail University,Peace Mode
+2016-09-02,DAY,MILITARY,BLUE,Full Snail University,Peace Mode
+2016-09-02,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Bee Bee Queens
+2016-09-02,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Bee Bee Queens
+2016-09-02,DAY,MILITARY,GOLD,Don't Bee Evil,Garbage Snail Kidz
+2016-09-02,NIGHT,MILITARY,BLUE,Don't Bee Evil,Garbage Snail Kidz
+2016-09-02,DAY,MILITARY,GOLD,Don't Bee Evil,Garbage Snail Kidz
+2016-09-02,DAY,MILITARY,BLUE,?That's a Wrap,Wyatt Pls
+2016-09-02,NIGHT,MILITARY,BLUE,?That's a Wrap,Wyatt Pls
+2016-09-02,DAY,MILITARY,GOLD,?That's a Wrap,Wyatt Pls
+2016-09-02,NIGHT,ECONOMY,GOLD,?That's a Wrap,Wyatt Pls
+2016-09-02,DAY,MILITARY,GOLD,?That's a Wrap,Wyatt Pls
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Let's Bee Evil
+2016-09-16,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Let's Bee Evil
+2016-09-16,NIGHT,MILITARY,BLUE,Full Snail University,I'll Bee There
+2016-09-16,DAY,MILITARY,BLUE,Full Snail University,I'll Bee There
+2016-09-16,NIGHT,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,BLUE,I'll Bee There,Booty Please
+2016-09-16,DAY,MILITARY,BLUE,I'll Bee There,Booty Please
+2016-09-16,NIGHT,ECONOMY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-16,DAY,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-16,NIGHT,ECONOMY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Let's Bee Evil
+2016-09-16,DAY,MILITARY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Let's Bee Evil
+2016-09-16,NIGHT,ECONOMY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,I'll Bee There
+2016-09-16,DAY,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,I'll Bee There
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,The Rent is Too Damn Hive
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,The Rent is Too Damn Hive
+2016-09-16,NIGHT,MILITARY,BLUE,I'll Bee There,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,BLUE,I'll Bee There,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,MILITARY,GOLD,Full Snail University,Let's Bee Evil
+2016-09-16,DAY,ECONOMY,GOLD,Full Snail University,Let's Bee Evil
+2016-09-16,NIGHT,ECONOMY,GOLD,The Rent is Too Damn Hive,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,DAY,ECONOMY,GOLD,The Rent is Too Damn Hive,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,NIGHT,ECONOMY,BLUE,?Blue Soldier Spawns into Already in The Way Gold Soldier,Full Snail University
+2016-09-16,DAY,MILITARY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Full Snail University
+2016-09-16,NIGHT,ECONOMY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Full Snail University
+2016-09-16,NIGHT,SNAIL,BLUE,I'll Bee There,The Rent is Too Damn Hive
+2016-09-16,DAY,MILITARY,BLUE,I'll Bee There,The Rent is Too Damn Hive
+2016-09-16,NIGHT,MILITARY,BLUE,Let's Bee Evil,Booty Please
+2016-09-16,DAY,MILITARY,GOLD,Let's Bee Evil,Booty Please
+2016-09-16,NIGHT,MILITARY,BLUE,Let's Bee Evil,Booty Please
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,Full Snail University
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,Full Snail University
+2016-09-16,NIGHT,ECONOMY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,Let's Bee Evil
+2016-09-16,DAY,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,Let's Bee Evil
+2016-09-16,NIGHT,MILITARY,BLUE,?Blue Soldier Spawns into Already in The Way Gold Soldier,Booty Please
+2016-09-16,DAY,MILITARY,BLUE,?Blue Soldier Spawns into Already in The Way Gold Soldier,Booty Please
+2016-09-16,NIGHT,MILITARY,GOLD,Full Snail University,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,DAY,SNAIL,GOLD,Full Snail University,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,NIGHT,ECONOMY,BLUE,Let's Bee Evil,I'll Bee There
+2016-09-16,DAY,MILITARY,GOLD,Let's Bee Evil,I'll Bee There
+2016-09-16,NIGHT,ECONOMY,BLUE,Let's Bee Evil,I'll Bee There
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,BLUE,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-23,DAY,MILITARY,GOLD,Team Werk,Phil Pollens
+2016-09-23,NIGHT,MILITARY,GOLD,Team Werk,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Bruce Stingsbee
+2016-09-23,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Bruce Stingsbee
+2016-09-23,NIGHT,MILITARY,BLUE,Full Snail University,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,Full Snail University,Ahmad on the Second Floor
+2016-09-23,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Team Werk
+2016-09-23,DAY,MILITARY,BLUE,Garbage Snail Kidz,Team Werk
+2016-09-23,DAY,SNAIL,GOLD,Bruce Stingsbee,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,GOLD,Bruce Stingsbee,Phil Pollens
+2016-09-23,NIGHT,MILITARY,BLUE,Ahmad on the Second Floor,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DUSK,MILITARY,BLUE,Ahmad on the Second Floor,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,NIGHT,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-23,DAY,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-23,NIGHT,MILITARY,GOLD,Team Werk,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Team Werk,Bruce Stingsbee
+2016-09-23,NIGHT,SNAIL,BLUE,Garbage Snail Kidz,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,Garbage Snail Kidz,Ahmad on the Second Floor
+2016-09-23,NIGHT,ECONOMY,BLUE,Phil Pollens,Full Snail University
+2016-09-23,DAY,MILITARY,BLUE,Phil Pollens,Full Snail University
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,The Rent is Too Damn Hive
+2016-09-23,DAY,MILITARY,BLUE,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,The Rent is Too Damn Hive
+2016-09-23,DUSK,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,The Rent is Too Damn Hive
+2016-09-23,NIGHT,MILITARY,BLUE,Ahmad on the Second Floor,Team Werk
+2016-09-23,DAY,MILITARY,BLUE,Ahmad on the Second Floor,Team Werk
+2016-09-23,NIGHT,MILITARY,GOLD,Full Snail University,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Full Snail University,Bruce Stingsbee
+2016-09-23,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Phil Pollens
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Phil Pollens
+2016-09-23,NIGHT,SNAIL,BLUE,Team Werk,Full Snail University
+2016-09-23,DAY,SNAIL,GOLD,Team Werk,Full Snail University
+2016-09-23,DUSK,MILITARY,BLUE,Team Werk,Full Snail University
+2016-09-23,NIGHT,MILITARY,BLUE,Ahmad on the Second Floor,The Rent is Too Damn Hive
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,The Rent is Too Damn Hive
+2016-09-23,DUSK,SNAIL,GOLD,Ahmad on the Second Floor,The Rent is Too Damn Hive
+2016-09-23,NIGHT,MILITARY,BLUE,Bruce Stingsbee,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DAY,MILITARY,GOLD,Bruce Stingsbee,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DUSK,MILITARY,BLUE,Bruce Stingsbee,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Phil Pollens
+2016-09-23,DAY,MILITARY,GOLD,Garbage Snail Kidz,Phil Pollens
+2016-09-23,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Team Werk
+2016-09-23,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Full Snail University
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Full Snail University
+2016-09-23,NIGHT,ECONOMY,BLUE,Phil Pollens,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,Phil Pollens,Ahmad on the Second Floor
+2016-09-23,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,BLUE,Garbage Snail Kidz,Bruce Stingsbee
+2016-09-23,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Bruce Stingsbee
+2016-09-23,NIGHT,ECONOMY,BLUE,Team Werk,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DAY,MILITARY,BLUE,Team Werk,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Phil Pollens
+2016-09-23,DAY,ECONOMY,GOLD,The Rent is Too Damn Hive,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-23,NIGHT,MILITARY,GOLD,Ahmad on the Second Floor,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,Team Werk
+2016-09-23,NIGHT,SNAIL,BLUE,Team Werk,Full Snail University
+2016-09-23,DAY,MILITARY,BLUE,Full Snail University,Ahmad on the Second Floor
+2016-09-23,NIGHT,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-23,NIGHT,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-30,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Yas Queens
+2016-09-30,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Yas Queens
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-30,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,GOLD,The Rise of Ahmad,Don't Bee Evil
+2016-09-30,DAY,ECONOMY,GOLD,Gold Queen Styx,Beediocre
+2016-09-30,NIGHT,ECONOMY,GOLD,Gold Queen Styx,Beediocre
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,The Rent is Too Damn Hive
+2016-09-30,NIGHT,SNAIL,BLUE,Garbage Snail Kidz,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,GOLD,Don't Bee Evil,Yas Queens
+2016-09-30,DAY,MILITARY,GOLD,Don't Bee Evil,Yas Queens
+2016-09-30,NIGHT,MILITARY,BLUE,Beediocre,Full Snail University
+2016-09-30,NIGHT,MILITARY,BLUE,Beediocre,Full Snail University
+2016-09-30,DAY,MILITARY,GOLD,Gold Queen Styx,The Rise of Ahmad
+2016-09-30,DAY,SNAIL,GOLD,Gold Queen Styx,The Rise of Ahmad
+2016-09-30,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Don't Bee Evil
+2016-09-30,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Don't Bee Evil
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-09-30,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Beediocre
+2016-09-30,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-09-30,NIGHT,ECONOMY,BLUE,Yas Queens,Gold Queen Styx
+2016-09-30,DAY,MILITARY,BLUE,Yas Queens,Gold Queen Styx
+2016-09-30,DAY,MILITARY,BLUE,Full Snail University,The Rise of Ahmad
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,The Rise of Ahmad
+2016-09-30,DAY,MILITARY,BLUE,Full Snail University,The Rise of Ahmad
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,BLUE,Gold Queen Styx,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,BLUE,Gold Queen Styx,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,GOLD,The Rise of Ahmad,Garbage Snail Kidz
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,Garbage Snail Kidz
+2016-09-30,NIGHT,ECONOMY,GOLD,Full Snail University,Yas Queens
+2016-09-30,DAY,MILITARY,BLUE,Full Snail University,Yas Queens
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,Yas Queens
+2016-09-30,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Gold Queen Styx
+2016-09-30,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Gold Queen Styx
+2016-09-30,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Gold Queen Styx
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rise of Ahmad
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rise of Ahmad
+2016-09-30,NIGHT,ECONOMY,BLUE,Don't Bee Evil,Full Snail University
+2016-09-30,DAY,MILITARY,BLUE,Don't Bee Evil,Full Snail University
+2016-09-30,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Yas Queens
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,Yas Queens
+2016-09-30,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Yas Queens
+2016-09-30,NIGHT,ECONOMY,GOLD,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,DAY,SNAIL,BLUE,Full Snail University,Gold Queen Styx
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,Gold Queen Styx
+2016-09-30,NIGHT,MILITARY,BLUE,Full Snail University,Gold Queen Styx
+2016-09-30,NIGHT,ECONOMY,BLUE,Yas Queens,Beediocre
+2016-09-30,DAY,ECONOMY,BLUE,Yas Queens,Beediocre
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Don't Bee Evil
+2016-09-30,NIGHT,SNAIL,BLUE,Full Snail University,The Rent is Too Damn Hive
+2016-09-30,NIGHT,MILITARY,BLUE,Full Snail University,The Rent is Too Damn Hive
+2016-09-30,NIGHT,MILITARY,GOLD,The Rise of Ahmad,Yas Queens
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,Yas Queens
+2016-09-30,NIGHT,ECONOMY,GOLD,Gold Queen Styx,Garbage Snail Kidz
+2016-09-30,NIGHT,MILITARY,GOLD,Gold Queen Styx,Garbage Snail Kidz
+2016-09-30,NIGHT,MILITARY,GOLD,Beediocre,Don't Bee Evil
+2016-09-30,DAY,MILITARY,GOLD,Beediocre,Don't Bee Evil
+2016-09-30,DAY,MILITARY,BLUE,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,NIGHT,MILITARY,BLUE,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,BLUE,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-10-21,DAY,MILITARY,BLUE,Beerlung,Too Many Queens
+2016-10-21,NIGHT,ECONOMY,GOLD,Beerlung,Too Many Queens
+2016-10-21,DAY,MILITARY,BLUE,Beerlung,Too Many Queens
+2016-10-21,DAY,MILITARY,GOLD,Full Snail University,Rent is Very Affordable
+2016-10-21,NIGHT,SNAIL,GOLD,Full Snail University,Rent is Very Affordable
+2016-10-21,DAY,MILITARY,BLUE,Ahmad is Dead,The Rent is Too Damn Hive
+2016-10-21,NIGHT,MILITARY,BLUE,Ahmad is Dead,The Rent is Too Damn Hive
+2016-10-21,DAY,MILITARY,GOLD,Too Many Queens,Team Werk
+2016-10-21,NIGHT,MILITARY,BLUE,Too Many Queens,Team Werk
+2016-10-21,DAY,MILITARY,BLUE,Too Many Queens,Team Werk
+2016-10-21,DAY,SNAIL,BLUE,The Rent is Too Damn Hive,Beerlung
+2016-10-21,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Beerlung
+2016-10-21,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Beerlung
+2016-10-21,DAY,MILITARY,GOLD,Ahmad is Dead,Full Snail University
+2016-10-21,NIGHT,MILITARY,BLUE,Ahmad is Dead,Full Snail University
+2016-10-21,DAY,SNAIL,GOLD,Ahmad is Dead,Full Snail University
+2016-10-21,DAY,MILITARY,GOLD,Team Werk,Rent is Very Affordable
+2016-10-21,NIGHT,SNAIL,GOLD,Team Werk,Rent is Very Affordable
+2016-10-21,DAY,MILITARY,GOLD,Too Many Queens,The Rent is Too Damn Hive
+2016-10-21,NIGHT,SNAIL,BLUE,Too Many Queens,The Rent is Too Damn Hive
+2016-10-21,DAY,MILITARY,BLUE,Too Many Queens,The Rent is Too Damn Hive
+2016-10-21,DAY,MILITARY,GOLD,Beerlung,Full Snail University
+2016-10-21,NIGHT,MILITARY,GOLD,Beerlung,Full Snail University
+2016-10-21,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Team Werk
+2016-10-21,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Team Werk
+2016-10-21,DAY,MILITARY,GOLD,Ahmad is Dead,Rent is Very Affordable
+2016-10-21,NIGHT,MILITARY,GOLD,Ahmad is Dead,Rent is Very Affordable
+2016-10-21,NIGHT,SNAIL,BLUE,Full Snail University,Too Many Queens
+2016-10-21,DAY,MILITARY,GOLD,Full Snail University,Too Many Queens
+2016-10-21,DAY,MILITARY,GOLD,Full Snail University,Too Many Queens
+2016-10-21,DAY,MILITARY,GOLD,Team Werk,Ahmad is Dead
+2016-10-21,NIGHT,MILITARY,GOLD,Team Werk,Ahmad is Dead
+2016-10-21,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Full Snail University
+2016-10-21,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Full Snail University
+2016-10-21,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Full Snail University
+2016-10-21,DAY,MILITARY,GOLD,Rent is Very Affordable,Beerlung
+2016-10-21,NIGHT,ECONOMY,BLUE,Rent is Very Affordable,Beerlung
+2016-10-21,DAY,SNAIL,BLUE,Rent is Very Affordable,Beerlung
+2016-10-21,DAY,MILITARY,BLUE,Full Snail University,Team Werk
+2016-10-21,NIGHT,SNAIL,BLUE,Full Snail University,Team Werk
+2016-10-21,DAY,MILITARY,GOLD,Beerlung,Ahmad is Dead
+2016-10-21,NIGHT,MILITARY,GOLD,Beerlung,Ahmad is Dead
+2016-10-21,DAY,SNAIL,GOLD,Too Many Queens,Rent is Very Affordable
+2016-10-21,NIGHT,SNAIL,GOLD,Too Many Queens,Rent is Very Affordable
+2016-10-21,DAY,MILITARY,GOLD,Team Werk,Beerlung
+2016-10-21,NIGHT,MILITARY,GOLD,Team Werk,Beerlung
+2016-10-21,DAY,MILITARY,BLUE,Ahmad is Dead,Too Many Queens
+2016-10-21,NIGHT,SNAIL,BLUE,Ahmad is Dead,Too Many Queens
+2016-10-21,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Rent is Very Affordable
+2016-10-21,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Rent is Very Affordable
+2016-10-21,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Rent is Very Affordable
+2016-10-21,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2016-10-21,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2016-10-21,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2016-11-18,DAY,SNAIL,BLUE,Newbees,J Crew
+2016-11-18,DUSK,ECONOMY,BLUE,Newbees,J Crew
+2016-11-18,DAY,MILITARY,GOLD,DeepHiveMind,Garbage
+2016-11-18,NIGHT,MILITARY,GOLD,DeepHiveMind,Garbage
+2016-11-18,DAY,ECONOMY,BLUE,The Plainspoken Spearmen,Wasabees
+2016-11-18,DUSK,MILITARY,BLUE,The Plainspoken Spearmen,Wasabees
+2016-11-18,DAY,MILITARY,BLUE,Wingless Airplane,It's Lit Famine
+2016-11-18,NIGHT,MILITARY,GOLD,Wingless Airplane,It's Lit Famine
+2016-11-18,DUSK,ECONOMY,GOLD,Wingless Airplane,It's Lit Famine
+2016-11-18,DAY,ECONOMY,GOLD,Garbage,Newbees
+2016-11-18,NIGHT,MILITARY,GOLD,Garbage,Newbees
+2016-11-18,DAY,MILITARY,BLUE,Wasabees,J Crew
+2016-11-18,NIGHT,MILITARY,BLUE,Wasabees,J Crew
+2016-11-18,DAY,MILITARY,BLUE,It's Lit Famine,DeepHiveMind
+2016-11-18,DUSK,MILITARY,BLUE,It's Lit Famine,DeepHiveMind
+2016-11-18,DAY,MILITARY,BLUE,Wingless Airplane,The Plainspoken Spearmen
+2016-11-18,NIGHT,MILITARY,GOLD,Wingless Airplane,The Plainspoken Spearmen
+2016-11-18,NIGHT,MILITARY,BLUE,Wingless Airplane,The Plainspoken Spearmen
+2016-11-18,DAY,SNAIL,BLUE,Newbees,Wasabees
+2016-11-18,DAY,ECONOMY,BLUE,Newbees,Wasabees
+2016-11-18,DAY,MILITARY,BLUE,Garbage,It's Lit Famine
+2016-11-18,NIGHT,MILITARY,BLUE,Garbage,It's Lit Famine
+2016-11-18,DAY,MILITARY,GOLD,J Crew,Wingless Airplane
+2016-11-18,NIGHT,SNAIL,BLUE,J Crew,Wingless Airplane
+2016-11-18,DAY,MILITARY,BLUE,J Crew,Wingless Airplane
+2016-11-18,DAY,MILITARY,BLUE,DeepHiveMind,The Plainspoken Spearmen
+2016-11-18,DUSK,MILITARY,BLUE,DeepHiveMind,The Plainspoken Spearmen
+2016-11-18,DAY,SNAIL,GOLD,It's Lit Famine,Newbees
+2016-11-18,DAY,MILITARY,GOLD,It's Lit Famine,Newbees
+2016-11-18,DAY,MILITARY,GOLD,Wingless Airplane,Wasabees
+2016-11-18,DUSK,MILITARY,BLUE,Wingless Airplane,Wasabees
+2016-11-18,DAY,ECONOMY,BLUE,Wingless Airplane,Wasabees
+2016-11-18,DAY,MILITARY,GOLD,The Plainspoken Spearmen,Garbage
+2016-11-18,NIGHT,MILITARY,GOLD,The Plainspoken Spearmen,Garbage
+2016-11-18,DAY,MILITARY,BLUE,DeepHiveMind,J Crew
+2016-11-18,NIGHT,MILITARY,GOLD,DeepHiveMind,J Crew
+2016-11-18,DUSK,MILITARY,BLUE,DeepHiveMind,J Crew
+2016-11-18,DAY,MILITARY,BLUE,Newbees,Wingless Airplane
+2016-11-18,DUSK,MILITARY,BLUE,Newbees,Wingless Airplane
+2016-11-18,DAY,MILITARY,BLUE,It's Lit Famine,The Plainspoken Spearmen
+2016-11-18,NIGHT,MILITARY,BLUE,It's Lit Famine,The Plainspoken Spearmen
+2016-11-18,DAY,SNAIL,BLUE,Wasabees,DeepHiveMind
+2016-11-18,NIGHT,MILITARY,GOLD,Wasabees,DeepHiveMind
+2016-11-18,DUSK,MILITARY,GOLD,Wasabees,DeepHiveMind
+2016-11-18,DAY,MILITARY,BLUE,Garbage,J Crew
+2016-11-18,NIGHT,MILITARY,BLUE,Garbage,J Crew
+2016-11-18,DAY,MILITARY,GOLD,The Plainspoken Spearmen,Newbees
+2016-11-18,DAY,MILITARY,GOLD,The Plainspoken Spearmen,Newbees
+2016-11-18,DAY,MILITARY,BLUE,DeepHiveMind,Wingless Airplane
+2016-11-18,NIGHT,MILITARY,GOLD,DeepHiveMind,Wingless Airplane
+2016-11-18,NIGHT,MILITARY,GOLD,DeepHiveMind,Wingless Airplane
+2016-11-18,DAY,MILITARY,BLUE,J Crew,It's Lit Famine
+2016-11-18,NIGHT,MILITARY,GOLD,J Crew,It's Lit Famine
+2016-11-18,DAY,MILITARY,GOLD,J Crew,It's Lit Famine
+2016-11-18,DAY,ECONOMY,BLUE,Garbage,Wasabees
+2016-11-18,NIGHT,ECONOMY,BLUE,Garbage,Wasabees
+2016-11-18,DAY,MILITARY,BLUE,Newbees,DeepHiveMind
+2016-11-18,DAY,ECONOMY,BLUE,Newbees,DeepHiveMind
+2016-11-18,DAY,MILITARY,GOLD,The Plainspoken Spearmen,J Crew
+2016-11-18,DAY,MILITARY,GOLD,The Plainspoken Spearmen,J Crew
+2016-11-18,DAY,MILITARY,GOLD,Wingless Airplane,Garbage
+2016-11-18,DAY,MILITARY,GOLD,Wingless Airplane,Garbage
+2016-11-18,DAY,MILITARY,GOLD,It's Lit Famine,Wasabees
+2016-11-18,DAY,MILITARY,GOLD,It's Lit Famine,Wasabees
+2016-11-18,DAY,MILITARY,BLUE,Wasabees,J Crew
+2016-11-18,DUSK,MILITARY,BLUE,Wasabees,J Crew
+2016-11-18,DAY,MILITARY,GOLD,The Plainspoken Spearmen,J Crew
+2016-11-18,NIGHT,MILITARY,GOLD,The Plainspoken Spearmen,J Crew
+2016-11-18,DAY,MILITARY,BLUE,The Plainspoken Spearmen,J Crew
+2016-11-18,NIGHT,ECONOMY,BLUE,The Plainspoken Spearmen,J Crew
+2016-11-18,DAY,MILITARY,GOLD,The Plainspoken Spearmen,J Crew
+2016-12-02,DAY,MILITARY,GOLD,DeepHiveMind,Garbage Snail Kidz
+2016-12-02,NIGHT,MILITARY,GOLD,DeepHiveMind,Garbage Snail Kidz
+2016-12-02,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Arete Er'reday
+2016-12-02,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Arete Er'reday
+2016-12-02,DAY,ECONOMY,GOLD,The Rent is Too Damn Hive,Arete Er'reday
+2016-12-02,DAY,ECONOMY,GOLD,Stranger Stings,It's Lit Famine
+2016-12-02,DAY,ECONOMY,GOLD,Stranger Stings,It's Lit Famine
+2016-12-02,DAY,MILITARY,BLUE,Garbage Snail Kidz,Dude Just Bee Yourself
+2016-12-02,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Dude Just Bee Yourself
+2016-12-02,DAY,MILITARY,GOLD,It's Lit Famine,DeepHiveMind
+2016-12-02,NIGHT,MILITARY,BLUE,It's Lit Famine,DeepHiveMind
+2016-12-02,DAY,MILITARY,BLUE,It's Lit Famine,DeepHiveMind
+2016-12-02,DAY,MILITARY,BLUE,Stranger Stings,The Rent is Too Damn Hive
+2016-12-02,DAY,ECONOMY,GOLD,Stranger Stings,The Rent is Too Damn Hive
+2016-12-02,DAY,MILITARY,BLUE,Stranger Stings,The Rent is Too Damn Hive
+2016-12-02,DAY,SNAIL,GOLD,Dude Just Bee Yourself,Arete Er'reday
+2016-12-02,NIGHT,ECONOMY,BLUE,Dude Just Bee Yourself,Arete Er'reday
+2016-12-02,DAY,MILITARY,GOLD,Dude Just Bee Yourself,Arete Er'reday
+2016-12-02,DAY,SNAIL,BLUE,Garbage Snail Kidz,It's Lit Famine
+2016-12-02,DUSK,SNAIL,BLUE,Garbage Snail Kidz,It's Lit Famine
+2016-12-02,DAY,MILITARY,GOLD,DeepHiveMind,The Rent is Too Damn Hive
+2016-12-02,NIGHT,MILITARY,GOLD,DeepHiveMind,The Rent is Too Damn Hive
+2016-12-02,DAY,ECONOMY,BLUE,It's Lit Famine,Dude Just Bee Yourself
+2016-12-02,NIGHT,ECONOMY,BLUE,It's Lit Famine,Dude Just Bee Yourself
+2016-12-02,DAY,ECONOMY,GOLD,Stranger Stings,Arete Er'reday
+2016-12-02,NIGHT,ECONOMY,BLUE,Stranger Stings,Arete Er'reday
+2016-12-02,DUSK,ECONOMY,GOLD,Stranger Stings,Arete Er'reday
+2016-12-02,DAY,ECONOMY,BLUE,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-12-02,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-12-02,DAY,MILITARY,GOLD,Dude Just Bee Yourself,Stranger Stings
+2016-12-02,DAY,MILITARY,GOLD,Dude Just Bee Yourself,Stranger Stings
+2016-12-02,DAY,MILITARY,GOLD,It's Lit Famine,The Rent is Too Damn Hive
+2016-12-02,NIGHT,ECONOMY,BLUE,It's Lit Famine,The Rent is Too Damn Hive
+2016-12-02,DAY,MILITARY,GOLD,It's Lit Famine,The Rent is Too Damn Hive
+2016-12-02,DAY,MILITARY,BLUE,Arete Er'reday,DeepHiveMind
+2016-12-02,NIGHT,SNAIL,BLUE,Arete Er'reday,DeepHiveMind
+2016-12-02,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Dude Just Bee Yourself
+2016-12-02,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Dude Just Bee Yourself
+2016-12-02,DAY,SNAIL,GOLD,DeepHiveMind,Stranger Stings
+2016-12-02,NIGHT,SNAIL,GOLD,DeepHiveMind,Stranger Stings
+2016-12-02,DAY,MILITARY,GOLD,Arete Er'reday,Garbage Snail Kidz
+2016-12-02,NIGHT,SNAIL,GOLD,Arete Er'reday,Garbage Snail Kidz
+2016-12-02,DAY,MILITARY,BLUE,Dude Just Bee Yourself,DeepHiveMind
+2016-12-02,DAY,MILITARY,BLUE,Dude Just Bee Yourself,DeepHiveMind
+2016-12-02,DAY,MILITARY,GOLD,Stranger Stings,Garbage Snail Kidz
+2016-12-02,NIGHT,MILITARY,GOLD,Stranger Stings,Garbage Snail Kidz
+2016-12-02,DAY,MILITARY,GOLD,It's Lit Famine,Arete Er'reday
+2016-12-02,NIGHT,MILITARY,BLUE,It's Lit Famine,Arete Er'reday
+2016-12-02,DUSK,MILITARY,GOLD,It's Lit Famine,Arete Er'reday
+2016-12-02,DAY,MILITARY,BLUE,DeepHiveMind,Dude Just Bee Yourself
+2016-12-02,NIGHT,MILITARY,GOLD,DeepHiveMind,Dude Just Bee Yourself
+2016-12-02,DUSK,MILITARY,BLUE,DeepHiveMind,Dude Just Bee Yourself
+2016-12-02,NIGHT,MILITARY,BLUE,DeepHiveMind,Dude Just Bee Yourself
+2016-12-09,DAY,MILITARY,BLUE,The Plainspoken Spearmen,Bee Movie but Every Time They Say Bee They Win the Game
+2016-12-09,DAY,MILITARY,BLUE,The Plainspoken Spearmen,Bee Movie but Every Time They Say Bee They Win the Game
+2016-12-09,DAY,MILITARY,GOLD,hashtagteambrian,It's Lit Famine
+2016-12-09,NIGHT,ECONOMY,GOLD,hashtagteambrian,It's Lit Famine
+2016-12-09,DAY,MILITARY,BLUE,Happy B-Day,DeepHiveMind
+2016-12-09,NIGHT,MILITARY,BLUE,Happy B-Day,DeepHiveMind
+2016-12-09,DAY,MILITARY,BLUE,Bee Movie but Every Time They Say Bee They Win the Game,Obee1Queenobi
+2016-12-09,DAY,MILITARY,BLUE,Bee Movie but Every Time They Say Bee They Win the Game,Obee1Queenobi
+2016-12-09,DAY,MILITARY,BLUE,DeepHiveMind,The Plainspoken Spearmen
+2016-12-09,NIGHT,MILITARY,BLUE,DeepHiveMind,The Plainspoken Spearmen
+2016-12-09,DAY,MILITARY,BLUE,Happy B-Day,hashtagteambrian
+2016-12-09,DUSK,MILITARY,GOLD,Happy B-Day,hashtagteambrian
+2016-12-09,DAY,MILITARY,GOLD,Happy B-Day,hashtagteambrian
+2016-12-09,DAY,MILITARY,GOLD,Obee1Queenobi,It's Lit Famine
+2016-12-09,DUSK,MILITARY,GOLD,Obee1Queenobi,It's Lit Famine
+2016-12-09,DAY,SNAIL,BLUE,Bee Movie but Every Time They Say Bee They Win the Game,DeepHiveMind
+2016-12-09,DAY,SNAIL,BLUE,Bee Movie but Every Time They Say Bee They Win the Game,DeepHiveMind
+2016-12-09,DAY,MILITARY,GOLD,The Plainspoken Spearmen,hashtagteambrian
+2016-12-09,DUSK,MILITARY,BLUE,The Plainspoken Spearmen,hashtagteambrian
+2016-12-09,NIGHT,MILITARY,GOLD,The Plainspoken Spearmen,hashtagteambrian
+2016-12-09,DAY,MILITARY,GOLD,DeepHiveMind,Obee1Queenobi
+2016-12-09,NIGHT,MILITARY,GOLD,DeepHiveMind,Obee1Queenobi
+2016-12-09,DAY,MILITARY,GOLD,Happy B-Day,It's Lit Famine
+2016-12-09,DUSK,MILITARY,GOLD,Happy B-Day,It's Lit Famine
+2016-12-09,DAY,MILITARY,GOLD,hashtagteambrian,Bee Movie but Every Time They Say Bee They Win the Game
+2016-12-09,NIGHT,MILITARY,GOLD,hashtagteambrian,Bee Movie but Every Time They Say Bee They Win the Game
+2016-12-09,DAY,MILITARY,GOLD,Obee1Queenobi,Happy B-Day
+2016-12-09,DUSK,MILITARY,BLUE,Obee1Queenobi,Happy B-Day
+2016-12-09,NIGHT,MILITARY,BLUE,Obee1Queenobi,Happy B-Day
+2016-12-09,DAY,MILITARY,BLUE,DeepHiveMind,hashtagteambrian
+2016-12-09,NIGHT,MILITARY,GOLD,DeepHiveMind,hashtagteambrian
+2016-12-09,DUSK,ECONOMY,BLUE,DeepHiveMind,hashtagteambrian
+2016-12-09,DAY,SNAIL,BLUE,It's Lit Famine,The Plainspoken Spearmen
+2016-12-09,NIGHT,MILITARY,BLUE,It's Lit Famine,The Plainspoken Spearmen
+2016-12-09,DAY,SNAIL,BLUE,hashtagteambrian,Obee1Queenobi
+2016-12-09,DUSK,MILITARY,BLUE,hashtagteambrian,Obee1Queenobi
+2016-12-09,DAY,MILITARY,GOLD,The Plainspoken Spearmen,Happy B-Day
+2016-12-09,DUSK,MILITARY,BLUE,The Plainspoken Spearmen,Happy B-Day
+2016-12-09,DUSK,SNAIL,GOLD,The Plainspoken Spearmen,Happy B-Day
+2016-12-09,DAY,MILITARY,GOLD,Bee Movie but Every Time They Say Bee They Win the Game,It's Lit Famine
+2016-12-09,DUSK,MILITARY,BLUE,Bee Movie but Every Time They Say Bee They Win the Game,It's Lit Famine
+2016-12-09,NIGHT,ECONOMY,GOLD,Bee Movie but Every Time They Say Bee They Win the Game,It's Lit Famine
+2016-12-09,DAY,MILITARY,BLUE,Obee1Queenobi,The Plainspoken Spearmen
+2016-12-09,NIGHT,MILITARY,BLUE,Obee1Queenobi,The Plainspoken Spearmen
+2016-12-09,DAY,MILITARY,GOLD,Happy B-Day,Bee Movie but Every Time They Say Bee They Win the Game
+2016-12-09,DAY,MILITARY,GOLD,Happy B-Day,Bee Movie but Every Time They Say Bee They Win the Game
+2016-12-09,DAY,MILITARY,BLUE,DeepHiveMind,It's Lit Famine
+2016-12-09,NIGHT,SNAIL,GOLD,DeepHiveMind,It's Lit Famine
+2016-12-09,DUSK,ECONOMY,GOLD,DeepHiveMind,It's Lit Famine
+2016-12-09,DAY,MILITARY,GOLD,DeepHiveMind,Happy B-Day
+2016-12-09,DUSK,MILITARY,GOLD,DeepHiveMind,Happy B-Day
+2016-12-09,DAY,MILITARY,BLUE,The Plainspoken Spearmen,DeepHiveMind
+2016-12-09,NIGHT,MILITARY,GOLD,The Plainspoken Spearmen,DeepHiveMind
+2016-12-09,DAY,MILITARY,GOLD,The Plainspoken Spearmen,DeepHiveMind
+2016-12-09,DUSK,ECONOMY,GOLD,The Plainspoken Spearmen,DeepHiveMind
+2017-01-13,NIGHT,SNAIL,GOLD,Beethoven's 17th,Punch Some Fists
+2017-01-13,DAY,MILITARY,BLUE,Beethoven's 17th,Punch Some Fists
+2017-01-13,DAY,SNAIL,GOLD,Beethoven's 17th,Punch Some Fists
+2017-01-13,NIGHT,MILITARY,GOLD,Rogue One Was Great,Full Scorpion University
+2017-01-13,NIGHT,SNAIL,GOLD,Rogue One Was Great,Full Scorpion University
+2017-01-13,NIGHT,MILITARY,GOLD,Full Snail University,It's Lit Famine
+2017-01-13,NIGHT,MILITARY,GOLD,Full Snail University,It's Lit Famine
+2017-01-13,NIGHT,MILITARY,BLUE,Punch Some Fists,DeepHiveMind
+2017-01-13,DAY,SNAIL,BLUE,Punch Some Fists,DeepHiveMind
+2017-01-13,NIGHT,MILITARY,BLUE,It's Lit Famine,Beethoven's 17th
+2017-01-13,DAY,MILITARY,BLUE,It's Lit Famine,Beethoven's 17th
+2017-01-13,NIGHT,MILITARY,BLUE,Full Snail University,Rogue One Was Great
+2017-01-13,NIGHT,MILITARY,BLUE,Full Snail University,Rogue One Was Great
+2017-01-13,NIGHT,SNAIL,GOLD,DeepHiveMind,Full Scorpion University
+2017-01-13,NIGHT,MILITARY,GOLD,DeepHiveMind,Full Scorpion University
+2017-01-13,NIGHT,SNAIL,GOLD,Punch Some Fists,It's Lit Famine
+2017-01-13,NIGHT,MILITARY,BLUE,Punch Some Fists,It's Lit Famine
+2017-01-13,DAY,MILITARY,GOLD,Punch Some Fists,It's Lit Famine
+2017-01-13,NIGHT,MILITARY,BLUE,Beethoven's 17th,Rogue One Was Great
+2017-01-13,DAY,MILITARY,BLUE,Beethoven's 17th,Rogue One Was Great
+2017-01-13,NIGHT,MILITARY,BLUE,It's Lit Famine,DeepHiveMind
+2017-01-13,DUSK,ECONOMY,BLUE,It's Lit Famine,DeepHiveMind
+2017-01-13,NIGHT,MILITARY,GOLD,Full Snail University,Full Scorpion University
+2017-01-13,NIGHT,MILITARY,GOLD,Full Snail University,Full Scorpion University
+2017-01-13,NIGHT,MILITARY,GOLD,Rogue One Was Great,Punch Some Fists
+2017-01-13,DAY,MILITARY,GOLD,Rogue One Was Great,Punch Some Fists
+2017-01-13,NIGHT,MILITARY,BLUE,DeepHiveMind,Full Snail University
+2017-01-13,DAY,MILITARY,BLUE,DeepHiveMind,Full Snail University
+2017-01-13,NIGHT,MILITARY,BLUE,It's Lit Famine,Rogue One Was Great
+2017-01-13,NIGHT,MILITARY,BLUE,It's Lit Famine,Rogue One Was Great
+2017-01-13,NIGHT,MILITARY,BLUE,Full Scorpion University,Beethoven's 17th
+2017-01-13,DAY,MILITARY,BLUE,Full Scorpion University,Beethoven's 17th
+2017-01-13,NIGHT,SNAIL,GOLD,Rogue One Was Great,DeepHiveMind
+2017-01-13,DAY,MILITARY,BLUE,Rogue One Was Great,DeepHiveMind
+2017-01-13,NIGHT,MILITARY,GOLD,Rogue One Was Great,DeepHiveMind
+2017-01-13,NIGHT,MILITARY,GOLD,Beethoven's 17th,Full Snail University
+2017-01-13,DAY,MILITARY,GOLD,Beethoven's 17th,Full Snail University
+2017-01-13,NIGHT,MILITARY,BLUE,Punch Some Fists,Full Scorpion University
+2017-01-13,DAY,MILITARY,BLUE,Punch Some Fists,Full Scorpion University
+2017-01-13,NIGHT,SNAIL,BLUE,DeepHiveMind,Beethoven's 17th
+2017-01-13,DAY,MILITARY,GOLD,DeepHiveMind,Beethoven's 17th
+2017-01-13,NIGHT,MILITARY,GOLD,DeepHiveMind,Beethoven's 17th
+2017-01-13,NIGHT,MILITARY,GOLD,Full Snail University,Punch Some Fists
+2017-01-13,DAY,MILITARY,GOLD,Full Snail University,Punch Some Fists
+2017-01-13,NIGHT,MILITARY,BLUE,It's Lit Famine,Full Scorpion University
+2017-01-13,DUSK,MILITARY,BLUE,It's Lit Famine,Full Scorpion University
+2017-01-13,DAY,MILITARY,GOLD,DeepHiveMind,Full Snail University
+2017-01-13,DAY,MILITARY,GOLD,DeepHiveMind,Beethoven's 17th
+2017-01-13,NIGHT,SNAIL,GOLD,Rogue One Was Great,DeepHiveMind
+2017-01-13,DAY,SNAIL,GOLD,Rogue One Was Great,DeepHiveMind
+2017-01-13,DUSK,MILITARY,GOLD,Rogue One Was Great,DeepHiveMind
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,Just Say Wen
+2017-02-03,DAY,ECONOMY,GOLD,DeepHiveMind,Just Say Wen
+2017-02-03,DAY,ECONOMY,BLUE,Full Berry University,The Rent is Too Damn Hive
+2017-02-03,DAY,SNAIL,GOLD,Full Berry University,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,Full Berry University,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,It's Lit Famine
+2017-02-03,NIGHT,SNAIL,BLUE,billywitchdoctor.com,It's Lit Famine
+2017-02-03,NIGHT,MILITARY,GOLD,billywitchdoctor.com,It's Lit Famine
+2017-02-03,DAY,SNAIL,BLUE,Just Say Wen,Buzzy McBuzzface
+2017-02-03,NIGHT,MILITARY,BLUE,Just Say Wen,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,DeepHiveMind
+2017-02-03,DUSK,ECONOMY,GOLD,It's Lit Famine,DeepHiveMind
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Full Berry University
+2017-02-03,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Berry University
+2017-02-03,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Berry University
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,The Rent is Too Damn Hive
+2017-02-03,NIGHT,SNAIL,BLUE,Buzzy McBuzzface,The Rent is Too Damn Hive
+2017-02-03,NIGHT,MILITARY,GOLD,Buzzy McBuzzface,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,It's Lit Famine
+2017-02-03,DAY,MILITARY,GOLD,Just Say Wen,It's Lit Famine
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,It's Lit Famine
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,Full Berry University
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,Full Berry University
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,BLUE,It's Lit Famine,Buzzy McBuzzface
+2017-02-03,NIGHT,MILITARY,BLUE,It's Lit Famine,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,The Rent is Too Damn Hive
+2017-02-03,NIGHT,SNAIL,GOLD,billywitchdoctor.com,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,Full Berry University,Just Say Wen
+2017-02-03,DAY,ECONOMY,GOLD,Full Berry University,Just Say Wen
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,ECONOMY,BLUE,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,MILITARY,BLUE,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,DAY,MILITARY,BLUE,It's Lit Famine,Full Berry University
+2017-02-03,NIGHT,MILITARY,BLUE,It's Lit Famine,Full Berry University
+2017-02-03,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,DeepHiveMind
+2017-02-03,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,DeepHiveMind
+2017-02-03,DAY,MILITARY,GOLD,Full Berry University,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,Full Berry University,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-02-03,NIGHT,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,Just Say Wen,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,DeepHiveMind
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,DeepHiveMind
+2017-02-03,DAY,MILITARY,BLUE,billywitchdoctor.com,Just Say Wen
+2017-02-03,NIGHT,MILITARY,GOLD,billywitchdoctor.com,Just Say Wen
+2017-02-03,DAY,MILITARY,GOLD,billywitchdoctor.com,Just Say Wen
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,The Rent is Too Damn Hive
+2017-02-03,NIGHT,MILITARY,BLUE,It's Lit Famine,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,GOLD,It's Lit Famine,The Rent is Too Damn Hive
+2017-02-03,DAY,MILITARY,BLUE,DeepHiveMind,billywitchdoctor.com
+2017-02-03,DAY,MILITARY,BLUE,Full Berry University,Buzzy McBuzzface
+2017-02-03,DAY,MILITARY,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,SNAIL,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-03,NIGHT,SNAIL,GOLD,Buzzy McBuzzface,billywitchdoctor.com
+2017-02-24,DAY,MILITARY,GOLD,Full Snail University,Chrono Postal Tax
+2017-02-24,NIGHT,MILITARY,GOLD,Full Snail University,Chrono Postal Tax
+2017-02-24,DAY,MILITARY,BLUE,Salty Danish,Where's Wen
+2017-02-24,NIGHT,SNAIL,GOLD,Salty Danish,Where's Wen
+2017-02-24,DUSK,ECONOMY,GOLD,Salty Danish,Where's Wen
+2017-02-24,DAY,MILITARY,BLUE,Team Break,It's Lit Famine
+2017-02-24,NIGHT,MILITARY,BLUE,Team Break,It's Lit Famine
+2017-02-24,DAY,MILITARY,BLUE,Chrono Postal Tax,DeepHiveMind
+2017-02-24,NIGHT,MILITARY,GOLD,Chrono Postal Tax,DeepHiveMind
+2017-02-24,DUSK,ECONOMY,BLUE,Chrono Postal Tax,DeepHiveMind
+2017-02-24,DUSK,MILITARY,GOLD,It's Lit Famine,Full Snail University
+2017-02-24,DAY,MILITARY,BLUE,It's Lit Famine,Full Snail University
+2017-02-24,NIGHT,MILITARY,BLUE,It's Lit Famine,Full Snail University
+2017-02-24,DAY,MILITARY,BLUE,Team Break,Salty Danish
+2017-02-24,NIGHT,SNAIL,GOLD,Team Break,Salty Danish
+2017-02-24,DUSK,MILITARY,BLUE,Team Break,Salty Danish
+2017-02-24,DAY,MILITARY,GOLD,DeepHiveMind,Where's Wen
+2017-02-24,NIGHT,ECONOMY,GOLD,DeepHiveMind,Where's Wen
+2017-02-24,DAY,MILITARY,GOLD,Chrono Postal Tax,It's Lit Famine
+2017-02-24,NIGHT,MILITARY,GOLD,Chrono Postal Tax,It's Lit Famine
+2017-02-24,DUSK,ECONOMY,BLUE,Full Snail University,Salty Danish
+2017-02-24,DUSK,ECONOMY,GOLD,Full Snail University,Salty Danish
+2017-02-24,NIGHT,MILITARY,BLUE,Full Snail University,Salty Danish
+2017-02-24,DAY,MILITARY,BLUE,It's Lit Famine,DeepHiveMind
+2017-02-24,NIGHT,MILITARY,GOLD,It's Lit Famine,DeepHiveMind
+2017-02-24,DUSK,SNAIL,GOLD,It's Lit Famine,DeepHiveMind
+2017-02-24,DAY,MILITARY,GOLD,Team Break,Where's Wen
+2017-02-24,NIGHT,MILITARY,GOLD,Team Break,Where's Wen
+2017-02-24,DAY,MILITARY,GOLD,Salty Danish,Chrono Postal Tax
+2017-02-24,NIGHT,MILITARY,GOLD,Salty Danish,Chrono Postal Tax
+2017-02-24,DAY,MILITARY,BLUE,DeepHiveMind,Team Break
+2017-02-24,NIGHT,MILITARY,GOLD,DeepHiveMind,Team Break
+2017-02-24,DUSK,MILITARY,GOLD,DeepHiveMind,Team Break
+2017-02-24,DAY,MILITARY,BLUE,It's Lit Famine,Salty Danish
+2017-02-24,NIGHT,MILITARY,BLUE,It's Lit Famine,Salty Danish
+2017-02-24,DAY,MILITARY,BLUE,Where's Wen,Full Snail University
+2017-02-24,NIGHT,MILITARY,BLUE,Where's Wen,Full Snail University
+2017-02-24,DAY,MILITARY,GOLD,Salty Danish,DeepHiveMind
+2017-02-24,NIGHT,SNAIL,BLUE,Salty Danish,DeepHiveMind
+2017-02-24,DUSK,ECONOMY,GOLD,Salty Danish,DeepHiveMind
+2017-02-24,DUSK,ECONOMY,GOLD,Full Snail University,Team Break
+2017-02-24,DAY,MILITARY,GOLD,Full Snail University,Team Break
+2017-02-24,DAY,MILITARY,GOLD,Chrono Postal Tax,Where's Wen
+2017-02-24,NIGHT,SNAIL,GOLD,Chrono Postal Tax,Where's Wen
+2017-02-24,DUSK,ECONOMY,BLUE,DeepHiveMind,Full Snail University
+2017-02-24,DAY,MILITARY,GOLD,DeepHiveMind,Full Snail University
+2017-02-24,NIGHT,MILITARY,BLUE,DeepHiveMind,Full Snail University
+2017-02-24,DAY,MILITARY,GOLD,Team Break,Chrono Postal Tax
+2017-02-24,DUSK,MILITARY,GOLD,Team Break,Chrono Postal Tax
+2017-02-24,DAY,MILITARY,GOLD,It's Lit Famine,Where's Wen
+2017-02-24,NIGHT,MILITARY,GOLD,It's Lit Famine,Where's Wen
+2017-02-24,DUSK,ECONOMY,BLUE,Salty Danish,Full Snail University
+2017-02-24,DAY,MILITARY,BLUE,Salty Danish,Full Snail University
+2017-02-24,NIGHT,MILITARY,BLUE,Salty Danish,Full Snail University
+2017-03-03,DAY,MILITARY,BLUE,Even Randy,J Crew
+2017-03-03,DUSK,MILITARY,BLUE,Even Randy,J Crew
+2017-03-03,NIGHT,ECONOMY,BLUE,Even Randy,J Crew
+2017-03-03,DAY,MILITARY,BLUE,Every Night,Blake is Great
+2017-03-03,NIGHT,ECONOMY,BLUE,Every Night,Blake is Great
+2017-03-03,DUSK,SNAIL,GOLD,Every Night,Blake is Great
+2017-03-03,DAY,SNAIL,GOLD,Every Night,Blake is Great
+2017-03-03,NIGHT,ECONOMY,BLUE,Every Night,Blake is Great
+2017-03-03,DAY,MILITARY,GOLD,J Crew,DeepHiveMind
+2017-03-03,NIGHT,MILITARY,GOLD,J Crew,DeepHiveMind
+2017-03-03,DUSK,ECONOMY,GOLD,J Crew,DeepHiveMind
+2017-03-03,DAY,MILITARY,GOLD,Every Night,Even Randy
+2017-03-03,NIGHT,MILITARY,GOLD,Every Night,Even Randy
+2017-03-03,DUSK,MILITARY,BLUE,Every Night,Even Randy
+2017-03-03,DAY,MILITARY,GOLD,Every Night,Even Randy
+2017-03-03,DAY,MILITARY,BLUE,DeepHiveMind,Blake is Great
+2017-03-03,DUSK,MILITARY,BLUE,DeepHiveMind,Blake is Great
+2017-03-03,NIGHT,MILITARY,GOLD,DeepHiveMind,Blake is Great
+2017-03-03,DAY,MILITARY,BLUE,DeepHiveMind,Blake is Great
+2017-03-03,DAY,MILITARY,BLUE,J Crew,Every Night
+2017-03-03,NIGHT,MILITARY,BLUE,J Crew,Every Night
+2017-03-03,DUSK,ECONOMY,BLUE,J Crew,Every Night
+2017-03-03,DAY,MILITARY,GOLD,Every Night,DeepHiveMind
+2017-03-03,NIGHT,MILITARY,GOLD,Every Night,DeepHiveMind
+2017-03-03,DUSK,MILITARY,BLUE,Every Night,DeepHiveMind
+2017-03-03,DAY,MILITARY,GOLD,Every Night,DeepHiveMind
+2017-03-03,DAY,MILITARY,GOLD,Even Randy,Blake is Great
+2017-03-03,NIGHT,ECONOMY,BLUE,Even Randy,Blake is Great
+2017-03-03,DUSK,MILITARY,GOLD,Even Randy,Blake is Great
+2017-03-03,DAY,MILITARY,BLUE,Even Randy,Blake is Great
+2017-03-03,NIGHT,ECONOMY,GOLD,Even Randy,Blake is Great
+2017-03-03,DAY,MILITARY,GOLD,DeepHiveMind,Even Randy
+2017-03-03,NIGHT,MILITARY,GOLD,DeepHiveMind,Even Randy
+2017-03-03,DUSK,MILITARY,GOLD,DeepHiveMind,Even Randy
+2017-03-03,DAY,MILITARY,GOLD,Blake is Great,J Crew
+2017-03-03,NIGHT,ECONOMY,BLUE,Blake is Great,J Crew
+2017-03-03,DUSK,MILITARY,BLUE,Blake is Great,J Crew
+2017-03-03,DAY,MILITARY,BLUE,Blake is Great,J Crew
+2017-03-03,DAY,MILITARY,GOLD,Every Night,J Crew
+2017-03-03,NIGHT,MILITARY,GOLD,Every Night,J Crew
+2017-03-03,DUSK,ECONOMY,GOLD,Every Night,J Crew
+2017-03-03,DAY,MILITARY,BLUE,Every Night,J Crew
+2017-03-03,NIGHT,MILITARY,GOLD,Every Night,J Crew
+2017-03-24,DAY,MILITARY,GOLD,Don't Stop Berry Leaving,'Bage
+2017-03-24,DUSK,ECONOMY,GOLD,Don't Stop Berry Leaving,'Bage
+2017-03-24,DAY,MILITARY,GOLD,Full Snail University,It's Lit Famine
+2017-03-24,DUSK,MILITARY,GOLD,Full Snail University,It's Lit Famine
+2017-03-24,DAY,ECONOMY,BLUE,billywitchdoctor.com,Team Break
+2017-03-24,DUSK,ECONOMY,BLUE,billywitchdoctor.com,Team Break
+2017-03-24,DAY,MILITARY,GOLD,Jay St. - Metrotech Center,Beelix
+2017-03-24,NIGHT,MILITARY,BLUE,Jay St. - Metrotech Center,Beelix
+2017-03-24,DUSK,MILITARY,BLUE,Jay St. - Metrotech Center,Beelix
+2017-03-24,DAY,MILITARY,BLUE,Team Break,Don't Stop Berry Leaving
+2017-03-24,NIGHT,ECONOMY,BLUE,Team Break,Don't Stop Berry Leaving
+2017-03-24,DAY,MILITARY,BLUE,'Bage,DeepHiveMind
+2017-03-24,NIGHT,SNAIL,BLUE,'Bage,DeepHiveMind
+2017-03-24,DAY,MILITARY,GOLD,Beelix,Full Snail University
+2017-03-24,DUSK,ECONOMY,BLUE,Beelix,Full Snail University
+2017-03-24,NIGHT,MILITARY,BLUE,Beelix,Full Snail University
+2017-03-24,DAY,MILITARY,GOLD,Jay St. - Metrotech Center,billywitchdoctor.com
+2017-03-24,NIGHT,MILITARY,BLUE,Jay St. - Metrotech Center,billywitchdoctor.com
+2017-03-24,DUSK,MILITARY,BLUE,Jay St. - Metrotech Center,billywitchdoctor.com
+2017-03-24,DAY,MILITARY,GOLD,DeepHiveMind,It's Lit Famine
+2017-03-24,NIGHT,SNAIL,GOLD,DeepHiveMind,It's Lit Famine
+2017-03-24,DAY,MILITARY,BLUE,'Bage,Team Break
+2017-03-24,NIGHT,ECONOMY,GOLD,'Bage,Team Break
+2017-03-24,DUSK,SNAIL,BLUE,'Bage,Team Break
+2017-03-24,DAY,MILITARY,GOLD,Don't Stop Berry Leaving,Jay St. - Metrotech Center
+2017-03-24,NIGHT,ECONOMY,GOLD,Don't Stop Berry Leaving,Jay St. - Metrotech Center
+2017-03-24,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2017-03-24,NIGHT,SNAIL,BLUE,Full Snail University,billywitchdoctor.com
+2017-03-24,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2017-03-24,DAY,SNAIL,BLUE,Team Break,DeepHiveMind
+2017-03-24,NIGHT,MILITARY,BLUE,Team Break,DeepHiveMind
+2017-03-24,DAY,MILITARY,GOLD,Beelix,It's Lit Famine
+2017-03-24,DUSK,ECONOMY,GOLD,Beelix,It's Lit Famine
+2017-03-24,DAY,MILITARY,GOLD,Jay St. - Metrotech Center,'Bage
+2017-03-24,NIGHT,ECONOMY,GOLD,Jay St. - Metrotech Center,'Bage
+2017-03-24,DAY,MILITARY,BLUE,Full Snail University,Don't Stop Berry Leaving
+2017-03-24,NIGHT,ECONOMY,BLUE,Full Snail University,Don't Stop Berry Leaving
+2017-03-24,DAY,SNAIL,BLUE,DeepHiveMind,Beelix
+2017-03-24,NIGHT,SNAIL,GOLD,DeepHiveMind,Beelix
+2017-03-24,DUSK,MILITARY,GOLD,DeepHiveMind,Beelix
+2017-03-24,DAY,MILITARY,BLUE,Team Break,Jay St. - Metrotech Center
+2017-03-24,NIGHT,ECONOMY,BLUE,Team Break,Jay St. - Metrotech Center
+2017-03-24,DAY,MILITARY,BLUE,It's Lit Famine,billywitchdoctor.com
+2017-03-24,NIGHT,MILITARY,GOLD,It's Lit Famine,billywitchdoctor.com
+2017-03-24,DUSK,SNAIL,BLUE,It's Lit Famine,billywitchdoctor.com
+2017-03-24,DAY,MILITARY,BLUE,'Bage,Full Snail University
+2017-03-24,NIGHT,MILITARY,BLUE,'Bage,Full Snail University
+2017-03-24,DAY,MILITARY,BLUE,Jay St. - Metrotech Center,DeepHiveMind
+2017-03-24,NIGHT,ECONOMY,GOLD,Jay St. - Metrotech Center,DeepHiveMind
+2017-03-24,DUSK,MILITARY,GOLD,Jay St. - Metrotech Center,DeepHiveMind
+2017-03-24,DAY,MILITARY,BLUE,billywitchdoctor.com,Beelix
+2017-03-24,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Beelix
+2017-03-24,DAY,MILITARY,GOLD,Full Snail University,Team Break
+2017-03-24,NIGHT,SNAIL,GOLD,Full Snail University,Team Break
+2017-03-24,DAY,MILITARY,GOLD,Don't Stop Berry Leaving,It's Lit Famine
+2017-03-24,DUSK,MILITARY,GOLD,Don't Stop Berry Leaving,It's Lit Famine
+2017-03-24,DAY,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-03-24,NIGHT,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-03-24,DAY,MILITARY,BLUE,Jay St. - Metrotech Center,Full Snail University
+2017-03-24,NIGHT,SNAIL,BLUE,Jay St. - Metrotech Center,Full Snail University
+2017-03-24,DAY,MILITARY,BLUE,Beelix,Don't Stop Berry Leaving
+2017-03-24,NIGHT,ECONOMY,BLUE,Beelix,Don't Stop Berry Leaving
+2017-03-24,DAY,MILITARY,GOLD,It's Lit Famine,'Bage
+2017-03-24,NIGHT,MILITARY,BLUE,It's Lit Famine,'Bage
+2017-03-24,DUSK,ECONOMY,GOLD,It's Lit Famine,'Bage
+2017-03-24,DAY,SNAIL,GOLD,Full Snail University,DeepHiveMind
+2017-03-24,DUSK,ECONOMY,GOLD,Full Snail University,DeepHiveMind
+2017-03-24,DAY,MILITARY,BLUE,Don't Stop Berry Leaving,billywitchdoctor.com
+2017-03-24,DUSK,MILITARY,GOLD,Don't Stop Berry Leaving,billywitchdoctor.com
+2017-03-24,NIGHT,ECONOMY,BLUE,Don't Stop Berry Leaving,billywitchdoctor.com
+2017-03-24,DAY,ECONOMY,BLUE,'Bage,Beelix
+2017-03-24,NIGHT,ECONOMY,BLUE,'Bage,Beelix
+2017-03-24,DAY,MILITARY,BLUE,It's Lit Famine,Team Break
+2017-03-24,DUSK,MILITARY,BLUE,It's Lit Famine,Team Break
+2017-03-24,DAY,SNAIL,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DUSK,SNAIL,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DAY,MILITARY,GOLD,billywitchdoctor.com,'Bage
+2017-03-24,NIGHT,MILITARY,GOLD,billywitchdoctor.com,'Bage
+2017-03-24,DAY,MILITARY,BLUE,Jay St. - Metrotech Center,It's Lit Famine
+2017-03-24,NIGHT,MILITARY,GOLD,Jay St. - Metrotech Center,It's Lit Famine
+2017-03-24,DUSK,MILITARY,GOLD,Jay St. - Metrotech Center,It's Lit Famine
+2017-03-24,DAY,MILITARY,BLUE,Beelix,Team Break
+2017-03-24,NIGHT,ECONOMY,GOLD,Beelix,Team Break
+2017-03-24,DUSK,MILITARY,GOLD,Beelix,Team Break
+2017-03-24,DAY,SNAIL,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,NIGHT,MILITARY,BLUE,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DUSK,MILITARY,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DAY,SNAIL,BLUE,Full Snail University,DeepHiveMind
+2017-03-24,DUSK,MILITARY,BLUE,Full Snail University,DeepHiveMind
+2017-03-24,NIGHT,MILITARY,BLUE,Full Snail University,DeepHiveMind
+2017-04-07,DAY,MILITARY,BLUE,DeepHiveMind,Garbage Snail Kidz
+2017-04-07,NIGHT,SNAIL,BLUE,DeepHiveMind,Garbage Snail Kidz
+2017-04-07,DAY,MILITARY,GOLD,Metrowrecked,billywitch.docx
+2017-04-07,NIGHT,MILITARY,GOLD,Metrowrecked,billywitch.docx
+2017-04-07,DAY,MILITARY,GOLD,Full Snail University,Team Break
+2017-04-07,NIGHT,ECONOMY,GOLD,Full Snail University,Team Break
+2017-04-07,DAY,MILITARY,BLUE,Team Break,DeepHiveMind
+2017-04-07,NIGHT,MILITARY,GOLD,Team Break,DeepHiveMind
+2017-04-07,DUSK,SNAIL,BLUE,Team Break,DeepHiveMind
+2017-04-07,DAY,MILITARY,GOLD,billywitch.docx,Garbage Snail Kidz
+2017-04-07,NIGHT,MILITARY,BLUE,billywitch.docx,Garbage Snail Kidz
+2017-04-07,DUSK,MILITARY,BLUE,billywitch.docx,Garbage Snail Kidz
+2017-04-07,DAY,MILITARY,BLUE,Metrowrecked,Full Snail University
+2017-04-07,NIGHT,MILITARY,GOLD,Metrowrecked,Full Snail University
+2017-04-07,DUSK,SNAIL,GOLD,Metrowrecked,Full Snail University
+2017-04-07,DAY,MILITARY,GOLD,DeepHiveMind,billywitch.docx
+2017-04-07,NIGHT,SNAIL,GOLD,DeepHiveMind,billywitch.docx
+2017-04-07,DAY,SNAIL,BLUE,Team Break,Metrowrecked
+2017-04-07,NIGHT,MILITARY,BLUE,Team Break,Metrowrecked
+2017-04-07,DAY,MILITARY,GOLD,Garbage Snail Kidz,Full Snail University
+2017-04-07,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Full Snail University
+2017-04-07,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Full Snail University
+2017-04-07,DAY,MILITARY,GOLD,Metrowrecked,DeepHiveMind
+2017-04-07,NIGHT,SNAIL,GOLD,Metrowrecked,DeepHiveMind
+2017-04-07,DAY,MILITARY,BLUE,Full Snail University,billywitch.docx
+2017-04-07,DUSK,MILITARY,BLUE,Full Snail University,billywitch.docx
+2017-04-07,DAY,MILITARY,GOLD,Garbage Snail Kidz,Team Break
+2017-04-07,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Team Break
+2017-04-07,DUSK,SNAIL,GOLD,Garbage Snail Kidz,Team Break
+2017-04-07,DAY,MILITARY,GOLD,DeepHiveMind,Full Snail University
+2017-04-07,DUSK,MILITARY,GOLD,DeepHiveMind,Full Snail University
+2017-04-07,DAY,MILITARY,GOLD,Metrowrecked,Garbage Snail Kidz
+2017-04-07,NIGHT,SNAIL,GOLD,Metrowrecked,Garbage Snail Kidz
+2017-04-07,DAY,MILITARY,GOLD,billywitch.docx,Team Break
+2017-04-07,NIGHT,SNAIL,GOLD,billywitch.docx,Team Break
+2017-04-07,DAY,MILITARY,BLUE,Garbage Snail Kidz,DeepHiveMind
+2017-04-07,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,DeepHiveMind
+2017-04-07,DAY,MILITARY,GOLD,Metrowrecked,DeepHiveMind
+2017-04-07,NIGHT,SNAIL,GOLD,Metrowrecked,DeepHiveMind
+2017-04-07,DUSK,MILITARY,GOLD,Metrowrecked,DeepHiveMind
+2017-04-21,DAY,MILITARY,GOLD,Friday I'm in Glove,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,Friday I'm in Glove,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,It's Lit Famine
+2017-04-21,NIGHT,MILITARY,GOLD,DeepHiveMind,It's Lit Famine
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,Even Randy
+2017-04-21,NIGHT,ECONOMY,GOLD,Half-Berry Elementary,Even Randy
+2017-04-21,DAY,MILITARY,GOLD,What's Our Team Name,billywitchdoctor@gmail.com
+2017-04-21,NIGHT,MILITARY,BLUE,What's Our Team Name,billywitchdoctor@gmail.com
+2017-04-21,DUSK,MILITARY,BLUE,What's Our Team Name,billywitchdoctor@gmail.com
+2017-04-21,DAY,MILITARY,BLUE,It's Lit Famine,Friday I'm in Glove
+2017-04-21,NIGHT,MILITARY,BLUE,It's Lit Famine,Friday I'm in Glove
+2017-04-21,DAY,MILITARY,GOLD,Even Randy,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,Even Randy,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,BLUE,billywitchdoctor@gmail.com,DeepHiveMind
+2017-04-21,NIGHT,MILITARY,BLUE,billywitchdoctor@gmail.com,DeepHiveMind
+2017-04-21,DAY,SNAIL,BLUE,What's Our Team Name,Half-Berry Elementary
+2017-04-21,NIGHT,SNAIL,BLUE,What's Our Team Name,Half-Berry Elementary
+2017-04-21,DAY,MILITARY,GOLD,Friday I'm in Glove,Even Randy
+2017-04-21,DUSK,MILITARY,GOLD,Friday I'm in Glove,Even Randy
+2017-04-21,DAY,MILITARY,BLUE,It's Lit Famine,billywitchdoctor@gmail.com
+2017-04-21,NIGHT,MILITARY,BLUE,It's Lit Famine,billywitchdoctor@gmail.com
+2017-04-21,DAY,MILITARY,BLUE,Garbage Snail Kidz,What's Our Team Name
+2017-04-21,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,What's Our Team Name
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,Half-Berry Elementary
+2017-04-21,DUSK,MILITARY,BLUE,DeepHiveMind,Half-Berry Elementary
+2017-04-21,NIGHT,ECONOMY,BLUE,DeepHiveMind,Half-Berry Elementary
+2017-04-21,DAY,MILITARY,BLUE,billywitchdoctor@gmail.com,Friday I'm in Glove
+2017-04-21,DUSK,SNAIL,BLUE,billywitchdoctor@gmail.com,Friday I'm in Glove
+2017-04-21,DAY,MILITARY,GOLD,What's Our Team Name,Even Randy
+2017-04-21,NIGHT,MILITARY,GOLD,What's Our Team Name,Even Randy
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,It's Lit Famine
+2017-04-21,NIGHT,ECONOMY,GOLD,Half-Berry Elementary,It's Lit Famine
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,DeepHiveMind,Garbage Snail Kidz
+2017-04-21,DAY,SNAIL,GOLD,Friday I'm in Glove,What's Our Team Name
+2017-04-21,NIGHT,SNAIL,GOLD,Friday I'm in Glove,What's Our Team Name
+2017-04-21,DAY,MILITARY,GOLD,billywitchdoctor@gmail.com,Half-Berry Elementary
+2017-04-21,DUSK,ECONOMY,BLUE,billywitchdoctor@gmail.com,Half-Berry Elementary
+2017-04-21,NIGHT,MILITARY,BLUE,billywitchdoctor@gmail.com,Half-Berry Elementary
+2017-04-21,DAY,MILITARY,BLUE,Even Randy,DeepHiveMind
+2017-04-21,NIGHT,MILITARY,BLUE,Even Randy,DeepHiveMind
+2017-04-21,DAY,MILITARY,GOLD,It's Lit Famine,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,It's Lit Famine,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,NIGHT,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DUSK,ECONOMY,GOLD,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,What's Our Team Name
+2017-04-21,NIGHT,MILITARY,BLUE,DeepHiveMind,What's Our Team Name
+2017-04-21,DUSK,MILITARY,GOLD,DeepHiveMind,What's Our Team Name
+2017-04-21,DAY,MILITARY,BLUE,Garbage Snail Kidz,billywitchdoctor@gmail.com
+2017-04-21,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,billywitchdoctor@gmail.com
+2017-04-21,DAY,MILITARY,BLUE,It's Lit Famine,Even Randy
+2017-04-21,NIGHT,MILITARY,BLUE,It's Lit Famine,Even Randy
+2017-04-21,DAY,MILITARY,GOLD,Friday I'm in Glove,DeepHiveMind
+2017-04-21,NIGHT,MILITARY,GOLD,Friday I'm in Glove,DeepHiveMind
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,BLUE,Half-Berry Elementary,Garbage Snail Kidz
+2017-04-21,DUSK,MILITARY,GOLD,Half-Berry Elementary,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,GOLD,What's Our Team Name,It's Lit Famine
+2017-04-21,NIGHT,MILITARY,GOLD,What's Our Team Name,It's Lit Famine
+2017-04-21,DAY,MILITARY,GOLD,billywitchdoctor@gmail.com,Even Randy
+2017-04-21,NIGHT,SNAIL,GOLD,billywitchdoctor@gmail.com,Even Randy
+2017-04-21,DAY,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DUSK,MILITARY,GOLD,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,NIGHT,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DUSK,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-06-02,DAY,MILITARY,GOLD,Greenhaus,Garbage Snail Kidz
+2017-06-02,NIGHT,MILITARY,GOLD,Greenhaus,Garbage Snail Kidz
+2017-06-02,DAY,MILITARY,GOLD,Full Snail University,Susan Bee
+2017-06-02,NIGHT,MILITARY,BLUE,Full Snail University,Susan Bee
+2017-06-02,DUSK,MILITARY,GOLD,Full Snail University,Susan Bee
+2017-06-02,DAY,SNAIL,GOLD,KQ.edu,The Floppy Teeth
+2017-06-02,NIGHT,SNAIL,GOLD,KQ.edu,The Floppy Teeth
+2017-06-02,DAY,MILITARY,BLUE,Team Break,Dances with Snails
+2017-06-02,DUSK,MILITARY,GOLD,Team Break,Dances with Snails
+2017-06-02,NIGHT,MILITARY,BLUE,Team Break,Dances with Snails
+2017-06-02,DAY,MILITARY,BLUE,Susan Bee,Greenhaus
+2017-06-02,NIGHT,MILITARY,BLUE,Susan Bee,Greenhaus
+2017-06-02,DAY,MILITARY,BLUE,The Floppy Teeth,Garbage Snail Kidz
+2017-06-02,NIGHT,MILITARY,GOLD,The Floppy Teeth,Garbage Snail Kidz
+2017-06-02,DUSK,MILITARY,GOLD,The Floppy Teeth,Garbage Snail Kidz
+2017-06-02,DAY,MILITARY,BLUE,Dances with Snails,Full Snail University
+2017-06-02,NIGHT,SNAIL,BLUE,Dances with Snails,Full Snail University
+2017-06-02,DAY,MILITARY,BLUE,Team Break,KQ.edu
+2017-06-02,DUSK,MILITARY,GOLD,Team Break,KQ.edu
+2017-06-02,NIGHT,MILITARY,GOLD,Team Break,KQ.edu
+2017-06-02,DAY,MILITARY,BLUE,Greenhaus,The Floppy Teeth
+2017-06-02,DAY,SNAIL,GOLD,Greenhaus,The Floppy Teeth
+2017-06-02,NIGHT,ECONOMY,GOLD,Greenhaus,The Floppy Teeth
+2017-06-02,DAY,MILITARY,GOLD,Susan Bee,Dances with Snails
+2017-06-02,NIGHT,MILITARY,GOLD,Susan Bee,Dances with Snails
+2017-06-02,DAY,MILITARY,BLUE,Garbage Snail Kidz,Team Break
+2017-06-02,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Team Break
+2017-06-02,DAY,SNAIL,GOLD,Full Snail University,KQ.edu
+2017-06-02,NIGHT,MILITARY,GOLD,Full Snail University,KQ.edu
+2017-06-02,DAY,MILITARY,BLUE,Dances with Snails,Greenhaus
+2017-06-02,DUSK,MILITARY,BLUE,Dances with Snails,Greenhaus
+2017-06-02,DAY,ECONOMY,GOLD,Team Break,The Floppy Teeth
+2017-06-02,NIGHT,SNAIL,BLUE,Team Break,The Floppy Teeth
+2017-06-02,DUSK,ECONOMY,GOLD,Team Break,The Floppy Teeth
+2017-06-02,DAY,MILITARY,BLUE,KQ.edu,Susan Bee
+2017-06-02,NIGHT,MILITARY,BLUE,KQ.edu,Susan Bee
+2017-06-02,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2017-06-02,NIGHT,ECONOMY,GOLD,Full Snail University,Garbage Snail Kidz
+2017-06-02,DAY,MILITARY,GOLD,Greenhaus,Team Break
+2017-06-02,DUSK,MILITARY,GOLD,Greenhaus,Team Break
+2017-06-02,DAY,MILITARY,GOLD,Dances with Snails,KQ.edu
+2017-06-02,NIGHT,MILITARY,GOLD,Dances with Snails,KQ.edu
+2017-06-02,DAY,SNAIL,BLUE,The Floppy Teeth,Full Snail University
+2017-06-02,NIGHT,SNAIL,GOLD,The Floppy Teeth,Full Snail University
+2017-06-02,DUSK,MILITARY,BLUE,The Floppy Teeth,Full Snail University
+2017-06-02,DAY,MILITARY,GOLD,Susan Bee,Garbage Snail Kidz
+2017-06-02,NIGHT,ECONOMY,BLUE,Susan Bee,Garbage Snail Kidz
+2017-06-02,DUSK,MILITARY,GOLD,Susan Bee,Garbage Snail Kidz
+2017-06-02,DAY,MILITARY,BLUE,KQ.edu,Greenhaus
+2017-06-02,NIGHT,MILITARY,BLUE,KQ.edu,Greenhaus
+2017-06-02,DAY,MILITARY,BLUE,Garbage Snail Kidz,Dances with Snails
+2017-06-02,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Dances with Snails
+2017-06-02,NIGHT,MILITARY,BLUE,Susan Bee,The Floppy Teeth
+2017-06-02,DAY,MILITARY,BLUE,Susan Bee,The Floppy Teeth
+2017-06-02,DAY,MILITARY,GOLD,Full Snail University,Team Break
+2017-06-02,NIGHT,SNAIL,GOLD,Full Snail University,Team Break
+2017-06-02,DAY,MILITARY,GOLD,Greenhaus,Full Snail University
+2017-06-02,NIGHT,SNAIL,GOLD,Greenhaus,Full Snail University
+2017-06-02,DAY,MILITARY,GOLD,KQ.edu,Garbage Snail Kidz
+2017-06-02,NIGHT,MILITARY,GOLD,KQ.edu,Garbage Snail Kidz
+2017-06-02,DAY,MILITARY,GOLD,Team Break,Susan Bee
+2017-06-02,NIGHT,MILITARY,BLUE,Team Break,Susan Bee
+2017-06-02,DUSK,SNAIL,GOLD,Team Break,Susan Bee
+2017-06-02,DAY,MILITARY,BLUE,Dances with Snails,The Floppy Teeth
+2017-06-02,NIGHT,MILITARY,BLUE,Dances with Snails,The Floppy Teeth
+2017-06-02,DAY,MILITARY,GOLD,Greenhaus,Full Snail University
+2017-06-02,DUSK,MILITARY,GOLD,Greenhaus,Full Snail University
+2017-06-02,NIGHT,MILITARY,GOLD,Greenhaus,Full Snail University
+2017-06-09,DAY,MILITARY,GOLD,T3,Team Break
+2017-06-09,NIGHT,MILITARY,GOLD,T3,Team Break
+2017-06-09,DAY,MILITARY,GOLD,Lizard Rats,Platfrom 9 and Bee Quarters
+2017-06-09,NIGHT,MILITARY,GOLD,Lizard Rats,Platfrom 9 and Bee Quarters
+2017-06-09,DAY,MILITARY,GOLD,Full Snail University,BeeDSM
+2017-06-09,NIGHT,MILITARY,GOLD,Full Snail University,BeeDSM
+2017-06-09,DAY,MILITARY,GOLD,Snailmate,Are Ant You Glad We Didn't Make a Be Pun
+2017-06-09,NIGHT,ECONOMY,GOLD,Snailmate,Are Ant You Glad We Didn't Make a Be Pun
+2017-06-09,DAY,MILITARY,BLUE,BeeDSM,Are Ant You Glad We Didn't Make a Be Pun
+2017-06-09,DUSK,MILITARY,GOLD,BeeDSM,Are Ant You Glad We Didn't Make a Be Pun
+2017-06-09,NIGHT,SNAIL,GOLD,BeeDSM,Are Ant You Glad We Didn't Make a Be Pun
+2017-06-09,DAY,MILITARY,BLUE,Team Break,Platfrom 9 and Bee Quarters
+2017-06-09,NIGHT,MILITARY,BLUE,Team Break,Platfrom 9 and Bee Quarters
+2017-06-09,DAY,MILITARY,GOLD,Full Snail University,Snailmate
+2017-06-09,NIGHT,SNAIL,GOLD,Full Snail University,Snailmate
+2017-06-09,DAY,MILITARY,GOLD,T3,Lizard Rats
+2017-06-09,NIGHT,MILITARY,GOLD,T3,Lizard Rats
+2017-06-09,DAY,MILITARY,GOLD,Snailmate,Platfrom 9 and Bee Quarters
+2017-06-09,NIGHT,MILITARY,BLUE,Snailmate,Platfrom 9 and Bee Quarters
+2017-06-09,DUSK,MILITARY,BLUE,Snailmate,Platfrom 9 and Bee Quarters
+2017-06-09,DAY,MILITARY,BLUE,Lizard Rats,BeeDSM
+2017-06-09,NIGHT,MILITARY,GOLD,Lizard Rats,BeeDSM
+2017-06-09,DUSK,MILITARY,GOLD,Lizard Rats,BeeDSM
+2017-06-09,DAY,MILITARY,GOLD,Are Ant You Glad We Didn't Make a Be Pun,Team Break
+2017-06-09,DUSK,MILITARY,BLUE,Are Ant You Glad We Didn't Make a Be Pun,Team Break
+2017-06-09,NIGHT,MILITARY,BLUE,Are Ant You Glad We Didn't Make a Be Pun,Team Break
+2017-06-09,DAY,MILITARY,GOLD,T3,Full Snail University
+2017-06-09,NIGHT,MILITARY,GOLD,T3,Full Snail University
+2017-06-09,DAY,MILITARY,GOLD,Snailmate,BeeDSM
+2017-06-09,NIGHT,MILITARY,BLUE,Snailmate,BeeDSM
+2017-06-09,DUSK,MILITARY,BLUE,Snailmate,BeeDSM
+2017-06-09,DAY,MILITARY,BLUE,Lizard Rats,Team Break
+2017-06-09,NIGHT,MILITARY,GOLD,Lizard Rats,Team Break
+2017-06-09,DUSK,MILITARY,BLUE,Lizard Rats,Team Break
+2017-06-09,DAY,MILITARY,BLUE,Are Ant You Glad We Didn't Make a Be Pun,Full Snail University
+2017-06-09,NIGHT,SNAIL,BLUE,Are Ant You Glad We Didn't Make a Be Pun,Full Snail University
+2017-06-09,DAY,SNAIL,GOLD,T3,Platfrom 9 and Bee Quarters
+2017-06-09,DUSK,MILITARY,GOLD,T3,Platfrom 9 and Bee Quarters
+2017-06-09,DAY,MILITARY,BLUE,Snailmate,Team Break
+2017-06-09,NIGHT,MILITARY,GOLD,Snailmate,Team Break
+2017-06-09,DUSK,MILITARY,BLUE,Snailmate,Team Break
+2017-06-09,DAY,MILITARY,GOLD,Are Ant You Glad We Didn't Make a Be Pun,Platfrom 9 and Bee Quarters
+2017-06-09,NIGHT,MILITARY,GOLD,Are Ant You Glad We Didn't Make a Be Pun,Platfrom 9 and Bee Quarters
+2017-06-09,DAY,MILITARY,GOLD,Full Snail University,Lizard Rats
+2017-06-09,NIGHT,MILITARY,BLUE,Full Snail University,Lizard Rats
+2017-06-09,DUSK,MILITARY,BLUE,Full Snail University,Lizard Rats
+2017-06-09,DAY,MILITARY,GOLD,T3,BeeDSM
+2017-06-09,NIGHT,MILITARY,GOLD,T3,BeeDSM
+2017-06-09,DAY,MILITARY,GOLD,Lizard Rats,Snailmate
+2017-06-09,DUSK,MILITARY,GOLD,Lizard Rats,Snailmate
+2017-06-09,DAY,MILITARY,GOLD,T3,Are Ant You Glad We Didn't Make a Be Pun
+2017-06-09,NIGHT,MILITARY,GOLD,T3,Are Ant You Glad We Didn't Make a Be Pun
+2017-06-09,DAY,MILITARY,GOLD,BeeDSM,Platfrom 9 and Bee Quarters
+2017-06-09,NIGHT,MILITARY,GOLD,BeeDSM,Platfrom 9 and Bee Quarters
+2017-06-09,DAY,MILITARY,BLUE,Full Snail University,Team Break
+2017-06-09,DUSK,SNAIL,BLUE,Full Snail University,Team Break
+2017-06-09,DAY,MILITARY,BLUE,T3,Lizard Rats
+2017-06-09,NIGHT,SNAIL,GOLD,T3,Lizard Rats
+2017-06-09,DUSK,MILITARY,BLUE,T3,Lizard Rats
+2017-06-09,DAY,MILITARY,GOLD,T3,Lizard Rats
+2017-06-09,DUSK,MILITARY,GOLD,T3,Lizard Rats
+2017-06-16,DAY,MILITARY,GOLD,Dragon Rats,BeeDSM
+2017-06-16,NIGHT,MILITARY,GOLD,Dragon Rats,BeeDSM
+2017-06-16,DAY,MILITARY,GOLD,This is Fine,Another Door
+2017-06-16,NIGHT,MILITARY,GOLD,This is Fine,Another Door
+2017-06-16,DAY,MILITARY,BLUE,Team Break,Full Snail University
+2017-06-16,NIGHT,SNAIL,BLUE,Team Break,Full Snail University
+2017-06-16,DAY,MILITARY,BLUE,BeeDSM,This is Fine
+2017-06-16,NIGHT,MILITARY,BLUE,BeeDSM,This is Fine
+2017-06-16,DAY,MILITARY,BLUE,Full Snail University,Another Door
+2017-06-16,DUSK,MILITARY,GOLD,Full Snail University,Another Door
+2017-06-16,NIGHT,MILITARY,GOLD,Full Snail University,Another Door
+2017-06-16,DAY,MILITARY,BLUE,Team Break,Dragon Rats
+2017-06-16,NIGHT,MILITARY,BLUE,Team Break,Dragon Rats
+2017-06-16,DAY,MILITARY,GOLD,This is Fine,Full Snail University
+2017-06-16,NIGHT,MILITARY,GOLD,This is Fine,Full Snail University
+2017-06-16,DAY,SNAIL,GOLD,BeeDSM,Team Break
+2017-06-16,NIGHT,SNAIL,GOLD,BeeDSM,Team Break
+2017-06-16,DAY,MILITARY,BLUE,Another Door,Dragon Rats
+2017-06-16,NIGHT,MILITARY,BLUE,Another Door,Dragon Rats
+2017-06-16,DAY,SNAIL,BLUE,Team Break,This is Fine
+2017-06-16,DUSK,MILITARY,BLUE,Team Break,This is Fine
+2017-06-16,DAY,MILITARY,GOLD,Dragon Rats,Full Snail University
+2017-06-16,NIGHT,MILITARY,BLUE,Dragon Rats,Full Snail University
+2017-06-16,DUSK,MILITARY,GOLD,Dragon Rats,Full Snail University
+2017-06-16,DAY,SNAIL,BLUE,Another Door,BeeDSM
+2017-06-16,NIGHT,MILITARY,GOLD,Another Door,BeeDSM
+2017-06-16,DUSK,SNAIL,BLUE,Another Door,BeeDSM
+2017-06-16,DAY,MILITARY,GOLD,This is Fine,Dragon Rats
+2017-06-16,NIGHT,MILITARY,BLUE,This is Fine,Dragon Rats
+2017-06-16,DUSK,SNAIL,GOLD,This is Fine,Dragon Rats
+2017-06-16,DAY,MILITARY,BLUE,Team Break,Another Door
+2017-06-16,NIGHT,MILITARY,GOLD,Team Break,Another Door
+2017-06-16,DUSK,SNAIL,GOLD,Team Break,Another Door
+2017-06-16,DAY,MILITARY,BLUE,Full Snail University,BeeDSM
+2017-06-16,NIGHT,SNAIL,BLUE,Full Snail University,BeeDSM
+2017-06-16,DAY,MILITARY,BLUE,This is Fine,Dragon Rats
+2017-06-16,NIGHT,SNAIL,GOLD,This is Fine,Dragon Rats
+2017-06-16,DUSK,MILITARY,BLUE,This is Fine,Dragon Rats
+2017-06-16,NIGHT,SNAIL,GOLD,This is Fine,Dragon Rats
+2017-06-16,DAY,SNAIL,GOLD,This is Fine,Dragon Rats
+2017-06-30,DAY,MILITARY,GOLD,JAAAR,I'll Get Back to You
+2017-06-30,NIGHT,SNAIL,GOLD,JAAAR,I'll Get Back to You
+2017-06-30,DAY,MILITARY,BLUE,Anth2ny,I Thought This Was Button Check
+2017-06-30,NIGHT,ECONOMY,BLUE,Anth2ny,I Thought This Was Button Check
+2017-06-30,DAY,ECONOMY,GOLD,Farewell Obstacle,Hat Trick: The Gathering
+2017-06-30,NIGHT,ECONOMY,GOLD,Farewell Obstacle,Hat Trick: The Gathering
+2017-06-30,DAY,MILITARY,BLUE,Anth2ny,I'm Pickle Rick
+2017-06-30,NIGHT,MILITARY,BLUE,Anth2ny,I'm Pickle Rick
+2017-06-30,DAY,MILITARY,GOLD,I Thought This Was Button Check,I'll Get Back to You
+2017-06-30,DUSK,MILITARY,GOLD,I Thought This Was Button Check,I'll Get Back to You
+2017-06-30,DAY,MILITARY,GOLD,JAAAR,Farewell Obstacle
+2017-06-30,NIGHT,MILITARY,GOLD,JAAAR,Farewell Obstacle
+2017-06-30,DAY,MILITARY,GOLD,Farewell Obstacle,I'm Pickle Rick
+2017-06-30,NIGHT,MILITARY,GOLD,Farewell Obstacle,I'm Pickle Rick
+2017-06-30,DAY,SNAIL,BLUE,Hat Trick: The Gathering,Anth2ny
+2017-06-30,NIGHT,MILITARY,BLUE,Hat Trick: The Gathering,Anth2ny
+2017-06-30,DAY,MILITARY,BLUE,JAAAR,I Thought This Was Button Check
+2017-06-30,NIGHT,MILITARY,BLUE,JAAAR,I Thought This Was Button Check
+2017-06-30,DAY,MILITARY,BLUE,JAAAR,I'm Pickle Rick
+2017-06-30,NIGHT,MILITARY,BLUE,JAAAR,I'm Pickle Rick
+2017-06-30,DAY,MILITARY,BLUE,Hat Trick: The Gathering,I'll Get Back to You
+2017-06-30,NIGHT,MILITARY,GOLD,Hat Trick: The Gathering,I'll Get Back to You
+2017-06-30,DUSK,MILITARY,BLUE,Hat Trick: The Gathering,I'll Get Back to You
+2017-06-30,DAY,MILITARY,GOLD,I Thought This Was Button Check,Farewell Obstacle
+2017-06-30,DUSK,MILITARY,GOLD,I Thought This Was Button Check,Farewell Obstacle
+2017-06-30,DAY,MILITARY,BLUE,I'll Get Back to You,I'm Pickle Rick
+2017-06-30,NIGHT,MILITARY,GOLD,I'll Get Back to You,I'm Pickle Rick
+2017-06-30,DUSK,MILITARY,BLUE,I'll Get Back to You,I'm Pickle Rick
+2017-06-30,DAY,MILITARY,GOLD,JAAAR,Anth2ny
+2017-06-30,NIGHT,MILITARY,GOLD,JAAAR,Anth2ny
+2017-06-30,DAY,MILITARY,GOLD,I Thought This Was Button Check,Hat Trick: The Gathering
+2017-06-30,DUSK,MILITARY,GOLD,I Thought This Was Button Check,Hat Trick: The Gathering
+2017-06-30,DAY,MILITARY,BLUE,I Thought This Was Button Check,JAAAR
+2017-06-30,NIGHT,ECONOMY,BLUE,I Thought This Was Button Check,JAAAR
+2017-06-30,DUSK,MILITARY,BLUE,I Thought This Was Button Check,JAAAR
+2017-07-07,DAY,MILITARY,BLUE,Tentative,Birthday Hats
+2017-07-07,NIGHT,MILITARY,GOLD,Tentative,Birthday Hats
+2017-07-07,DUSK,MILITARY,GOLD,Tentative,Birthday Hats
+2017-07-07,DAY,MILITARY,GOLD,Team Break,T's Bees
+2017-07-07,NIGHT,MILITARY,BLUE,Team Break,T's Bees
+2017-07-07,DUSK,MILITARY,GOLD,Team Break,T's Bees
+2017-07-07,DAY,MILITARY,BLUE,Sam'd It!,Ampuknees
+2017-07-07,NIGHT,SNAIL,GOLD,Sam'd It!,Ampuknees
+2017-07-07,DUSK,MILITARY,BLUE,Sam'd It!,Ampuknees
+2017-07-07,DAY,SNAIL,BLUE,T's Bees,Sam'd It!
+2017-07-07,NIGHT,ECONOMY,GOLD,T's Bees,Sam'd It!
+2017-07-07,DUSK,SNAIL,BLUE,T's Bees,Sam'd It!
+2017-07-07,DAY,MILITARY,GOLD,Ampuknees,Tentative
+2017-07-07,DUSK,MILITARY,GOLD,Ampuknees,Tentative
+2017-07-07,DAY,MILITARY,GOLD,Birthday Hats,Team Break
+2017-07-07,NIGHT,SNAIL,BLUE,Birthday Hats,Team Break
+2017-07-07,DUSK,MILITARY,GOLD,Birthday Hats,Team Break
+2017-07-07,DAY,SNAIL,GOLD,Ampuknees,T's Bees
+2017-07-07,NIGHT,MILITARY,GOLD,Ampuknees,T's Bees
+2017-07-07,DAY,MILITARY,GOLD,Sam'd It!,Birthday Hats
+2017-07-07,NIGHT,MILITARY,GOLD,Sam'd It!,Birthday Hats
+2017-07-07,DAY,MILITARY,BLUE,Tentative,Team Break
+2017-07-07,DUSK,MILITARY,BLUE,Tentative,Team Break
+2017-07-07,DAY,MILITARY,GOLD,Team Break,Sam'd It!
+2017-07-07,NIGHT,SNAIL,BLUE,Team Break,Sam'd It!
+2017-07-07,DUSK,MILITARY,BLUE,Team Break,Sam'd It!
+2017-07-07,DAY,MILITARY,GOLD,Birthday Hats,Ampuknees
+2017-07-07,NIGHT,SNAIL,GOLD,Birthday Hats,Ampuknees
+2017-07-07,DAY,SNAIL,BLUE,T's Bees,Tentative
+2017-07-07,NIGHT,ECONOMY,GOLD,T's Bees,Tentative
+2017-07-07,DUSK,MILITARY,GOLD,T's Bees,Tentative
+2017-07-07,DAY,MILITARY,GOLD,Ampuknees,Team Break
+2017-07-07,NIGHT,MILITARY,BLUE,Ampuknees,Team Break
+2017-07-07,DUSK,MILITARY,GOLD,Ampuknees,Team Break
+2017-07-07,DAY,MILITARY,BLUE,Tentative,Sam'd It!
+2017-07-07,NIGHT,ECONOMY,BLUE,Tentative,Sam'd It!
+2017-07-07,DAY,MILITARY,BLUE,T's Bees,Birthday Hats
+2017-07-07,NIGHT,MILITARY,GOLD,T's Bees,Birthday Hats
+2017-07-07,DUSK,MILITARY,GOLD,T's Bees,Birthday Hats
+2017-07-07,DAY,MILITARY,BLUE,Ampuknees,Sam'd It!
+2017-07-07,NIGHT,SNAIL,BLUE,Ampuknees,Sam'd It!
+2017-07-07,DUSK,MILITARY,BLUE,Ampuknees,Sam'd It!
+2017-07-28,DAY,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-07-28,NIGHT,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-07-28,DUSK,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-07-28,DAY,MILITARY,GOLD,When It Used To Be Fun,50% Sara(h)
+2017-07-28,NIGHT,MILITARY,GOLD,When It Used To Be Fun,50% Sara(h)
+2017-07-28,DUSK,MILITARY,GOLD,When It Used To Be Fun,50% Sara(h)
+2017-07-28,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,DUSK,MILITARY,GOLD,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,Approximation of PDX Team,Full Snail University
+2017-07-28,NIGHT,ECONOMY,GOLD,Approximation of PDX Team,Full Snail University
+2017-07-28,DUSK,MILITARY,GOLD,Approximation of PDX Team,Full Snail University
+2017-07-28,DAY,MILITARY,BLUE,When It Used To Be Fun,Approximation of PDX Team
+2017-07-28,NIGHT,ECONOMY,BLUE,When It Used To Be Fun,Approximation of PDX Team
+2017-07-28,DUSK,MILITARY,BLUE,When It Used To Be Fun,Approximation of PDX Team
+2017-07-28,DAY,ECONOMY,BLUE,50% Sara(h),The Rent is Too Damn Hive
+2017-07-28,NIGHT,ECONOMY,BLUE,50% Sara(h),The Rent is Too Damn Hive
+2017-07-28,DUSK,ECONOMY,BLUE,50% Sara(h),The Rent is Too Damn Hive
+2017-07-28,DAY,MILITARY,GOLD,Approximation of PDX Team,50% Sara(h)
+2017-07-28,NIGHT,ECONOMY,BLUE,Approximation of PDX Team,50% Sara(h)
+2017-07-28,DUSK,ECONOMY,GOLD,Approximation of PDX Team,50% Sara(h)
+2017-07-28,DAY,SNAIL,GOLD,Approximation of PDX Team,50% Sara(h)
+2017-07-28,DAY,MILITARY,GOLD,Full Snail University,When It Used To Be Fun
+2017-07-28,NIGHT,MILITARY,BLUE,Full Snail University,When It Used To Be Fun
+2017-07-28,DUSK,MILITARY,BLUE,Full Snail University,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,Full Snail University,When It Used To Be Fun
+2017-07-28,NIGHT,SNAIL,GOLD,Full Snail University,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,DUSK,ECONOMY,BLUE,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,DAY,MILITARY,BLUE,50% Sara(h),Full Snail University
+2017-07-28,NIGHT,MILITARY,BLUE,50% Sara(h),Full Snail University
+2017-07-28,DUSK,MILITARY,BLUE,50% Sara(h),Full Snail University
+2017-07-28,DAY,MILITARY,BLUE,Approximation of PDX Team,Full Snail University
+2017-07-28,NIGHT,ECONOMY,BLUE,Approximation of PDX Team,Full Snail University
+2017-07-28,DUSK,ECONOMY,BLUE,Approximation of PDX Team,Full Snail University
+2017-09-01,DAY,MILITARY,GOLD,Pigeon Rats,Constingliere
+2017-09-01,NIGHT,MILITARY,GOLD,Pigeon Rats,Constingliere
+2017-09-01,DAY,MILITARY,BLUE,Monkey Strength,Sam'd It!
+2017-09-01,NIGHT,MILITARY,BLUE,Monkey Strength,Sam'd It!
+2017-09-01,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Full Snail University
+2017-09-01,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Full Snail University
+2017-09-01,DAY,MILITARY,GOLD,Sam'd It!,The Rent is Too Damn Hive
+2017-09-01,NIGHT,MILITARY,GOLD,Sam'd It!,The Rent is Too Damn Hive
+2017-09-01,DAY,SNAIL,BLUE,Constingliere,Monkey Strength
+2017-09-01,NIGHT,MILITARY,BLUE,Constingliere,Monkey Strength
+2017-09-01,DAY,MILITARY,BLUE,Tek,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,GOLD,Tek,Pigeon Rats
+2017-09-01,DUSK,MILITARY,BLUE,Tek,Pigeon Rats
+2017-09-01,DAY,MILITARY,BLUE,Monkey Strength,Tek
+2017-09-01,NIGHT,MILITARY,BLUE,Monkey Strength,Tek
+2017-09-01,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-01,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-01,DAY,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-01,DAY,MILITARY,BLUE,Constingliere,Full Snail University
+2017-09-01,NIGHT,MILITARY,GOLD,Constingliere,Full Snail University
+2017-09-01,DUSK,MILITARY,BLUE,Constingliere,Full Snail University
+2017-09-01,DAY,MILITARY,GOLD,Tek,The Rent is Too Damn Hive
+2017-09-01,NIGHT,MILITARY,BLUE,Tek,The Rent is Too Damn Hive
+2017-09-01,DUSK,MILITARY,GOLD,Tek,The Rent is Too Damn Hive
+2017-09-01,DAY,SNAIL,BLUE,Pigeon Rats,Monkey Strength
+2017-09-01,NIGHT,MILITARY,BLUE,Pigeon Rats,Monkey Strength
+2017-09-01,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-01,DAY,MILITARY,GOLD,Full Snail University,Tek
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Tek
+2017-09-01,DAY,MILITARY,GOLD,Sam'd It!,Constingliere
+2017-09-01,NIGHT,ECONOMY,GOLD,Sam'd It!,Constingliere
+2017-09-01,DAY,MILITARY,BLUE,Tek,Sam'd It!
+2017-09-01,NIGHT,MILITARY,GOLD,Tek,Sam'd It!
+2017-09-01,DUSK,MILITARY,GOLD,Tek,Sam'd It!
+2017-09-01,DAY,MILITARY,GOLD,Pigeon Rats,Full Snail University
+2017-09-01,NIGHT,MILITARY,GOLD,Pigeon Rats,Full Snail University
+2017-09-01,DAY,MILITARY,GOLD,Monkey Strength,The Rent is Too Damn Hive
+2017-09-01,NIGHT,MILITARY,BLUE,Monkey Strength,The Rent is Too Damn Hive
+2017-09-01,DUSK,MILITARY,GOLD,Monkey Strength,The Rent is Too Damn Hive
+2017-09-01,DAY,MILITARY,GOLD,Full Snail University,Monkey Strength
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Monkey Strength
+2017-09-01,DAY,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-01,DAY,SNAIL,BLUE,Constingliere,Tek
+2017-09-01,NIGHT,MILITARY,BLUE,Constingliere,Tek
+2017-09-01,DAY,SNAIL,BLUE,Tek,Pigeon Rats
+2017-09-01,DAY,MILITARY,BLUE,Sam'd It!,Tek
+2017-09-01,DAY,MILITARY,GOLD,Pigeon Rats,Sam'd It!
+2017-09-01,DAY,SNAIL,GOLD,Full Snail University,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Pigeon Rats
+2017-09-01,DUSK,MILITARY,GOLD,Full Snail University,Pigeon Rats
+2017-09-15,DAY,MILITARY,BLUE,Kangstingliere,Team Werk
+2017-09-15,DUSK,MILITARY,BLUE,Kangstingliere,Team Werk
+2017-09-15,DAY,MILITARY,GOLD,Full Snail University,Team Break
+2017-09-15,NIGHT,ECONOMY,GOLD,Full Snail University,Team Break
+2017-09-15,DAY,MILITARY,BLUE,Pigeon Rats,Sam'd It!
+2017-09-15,NIGHT,MILITARY,BLUE,Pigeon Rats,Sam'd It!
+2017-09-15,DAY,MILITARY,BLUE,Team Break,Pigeon Rats
+2017-09-15,NIGHT,SNAIL,BLUE,Team Break,Pigeon Rats
+2017-09-15,DAY,MILITARY,GOLD,Sam'd It!,Kangstingliere
+2017-09-15,NIGHT,MILITARY,GOLD,Sam'd It!,Kangstingliere
+2017-09-15,DAY,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-15,DUSK,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-15,DAY,MILITARY,BLUE,Sam'd It!,Team Break
+2017-09-15,NIGHT,MILITARY,GOLD,Sam'd It!,Team Break
+2017-09-15,DUSK,MILITARY,BLUE,Sam'd It!,Team Break
+2017-09-15,DAY,MILITARY,GOLD,Pigeon Rats,Team Werk
+2017-09-15,NIGHT,MILITARY,BLUE,Pigeon Rats,Team Werk
+2017-09-15,DUSK,MILITARY,BLUE,Pigeon Rats,Team Werk
+2017-09-15,DAY,SNAIL,BLUE,Kangstingliere,Full Snail University
+2017-09-15,NIGHT,ECONOMY,BLUE,Kangstingliere,Full Snail University
+2017-09-15,DAY,MILITARY,GOLD,Full Snail University,Pigeon Rats
+2017-09-15,NIGHT,SNAIL,BLUE,Full Snail University,Pigeon Rats
+2017-09-15,DUSK,MILITARY,GOLD,Full Snail University,Pigeon Rats
+2017-09-15,DAY,MILITARY,GOLD,Team Werk,Sam'd It!
+2017-09-15,DUSK,MILITARY,GOLD,Team Werk,Sam'd It!
+2017-09-15,DAY,MILITARY,GOLD,Team Break,Kangstingliere
+2017-09-15,NIGHT,SNAIL,BLUE,Team Break,Kangstingliere
+2017-09-15,DUSK,MILITARY,BLUE,Team Break,Kangstingliere
+2017-09-15,DAY,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-15,NIGHT,ECONOMY,BLUE,Full Snail University,Sam'd It!
+2017-09-15,DUSK,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-15,DAY,MILITARY,BLUE,Kangstingliere,Pigeon Rats
+2017-09-15,NIGHT,MILITARY,BLUE,Kangstingliere,Pigeon Rats
+2017-09-15,DAY,MILITARY,BLUE,Team Break,Team Werk
+2017-09-15,NIGHT,MILITARY,BLUE,Team Break,Team Werk
+2017-09-15,DAY,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-15,DUSK,SNAIL,GOLD,Team Werk,Full Snail University
+2017-09-15,NIGHT,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,Full Snail University
+2017-09-22,DUSK,ECONOMY,BLUE,Hayden's Team,Full Snail University
+2017-09-22,DAY,MILITARY,BLUE,Kangstingliere,Sam'd It!
+2017-09-22,NIGHT,MILITARY,BLUE,Kangstingliere,Sam'd It!
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-22,DUSK,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-22,DAY,MILITARY,BLUE,Kangstingliere,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,GOLD,Kangstingliere,Pigeon Rats
+2017-09-22,DUSK,MILITARY,GOLD,Kangstingliere,Pigeon Rats
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,Sam'd It!
+2017-09-22,DUSK,ECONOMY,BLUE,Hayden's Team,Sam'd It!
+2017-09-22,DAY,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-22,NIGHT,ECONOMY,BLUE,Team Werk,Full Snail University
+2017-09-22,DUSK,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-22,DAY,MILITARY,GOLD,Sam'd It!,Team Werk
+2017-09-22,NIGHT,MILITARY,GOLD,Sam'd It!,Team Werk
+2017-09-22,DAY,MILITARY,GOLD,Pigeon Rats,Hayden's Team
+2017-09-22,NIGHT,MILITARY,GOLD,Pigeon Rats,Hayden's Team
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Kangstingliere
+2017-09-22,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Kangstingliere
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,The Rent is Too Damn Hive
+2017-09-22,DUSK,MILITARY,BLUE,Hayden's Team,The Rent is Too Damn Hive
+2017-09-22,DAY,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,BLUE,Team Werk,Pigeon Rats
+2017-09-22,DUSK,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-22,DAY,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-22,NIGHT,MILITARY,BLUE,Full Snail University,Sam'd It!
+2017-09-22,DUSK,MILITARY,BLUE,Full Snail University,Sam'd It!
+2017-09-22,DAY,MILITARY,BLUE,Pigeon Rats,Full Snail University
+2017-09-22,NIGHT,SNAIL,GOLD,Pigeon Rats,Full Snail University
+2017-09-22,DUSK,SNAIL,GOLD,Pigeon Rats,Full Snail University
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2017-09-22,DUSK,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2017-09-22,DAY,ECONOMY,GOLD,Kangstingliere,Hayden's Team
+2017-09-22,NIGHT,MILITARY,GOLD,Kangstingliere,Hayden's Team
+2017-09-22,DAY,MILITARY,GOLD,Team Werk,Kangstingliere
+2017-09-22,DUSK,MILITARY,GOLD,Team Werk,Kangstingliere
+2017-09-22,DAY,SNAIL,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-22,DUSK,SNAIL,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-22,DAY,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-22,NIGHT,SNAIL,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-22,DAY,MILITARY,GOLD,Kangstingliere,Full Snail University
+2017-09-22,NIGHT,SNAIL,GOLD,Kangstingliere,Full Snail University
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,Team Werk
+2017-09-22,DUSK,MILITARY,BLUE,Hayden's Team,Team Werk
+2017-09-22,DAY,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-22,NIGHT,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-22,DUSK,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-29,DAY,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-29,DAY,MILITARY,GOLD,WongKangBagy,Constingliere
+2017-09-29,NIGHT,MILITARY,GOLD,WongKangBagy,Constingliere
+2017-09-29,DAY,MILITARY,BLUE,Full Snail University,The Rent is Too Damn Hive
+2017-09-29,NIGHT,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-29,DUSK,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-29,DAY,SNAIL,BLUE,Constingliere,Full Snail University
+2017-09-29,NIGHT,MILITARY,BLUE,Constingliere,Full Snail University
+2017-09-29,DAY,MILITARY,GOLD,Pigeon Rats,WongKangBagy
+2017-09-29,NIGHT,SNAIL,BLUE,Pigeon Rats,WongKangBagy
+2017-09-29,DUSK,MILITARY,GOLD,Pigeon Rats,WongKangBagy
+2017-09-29,DAY,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-29,NIGHT,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-29,DAY,MILITARY,BLUE,WongKangBagy,Sam'd It!
+2017-09-29,NIGHT,SNAIL,GOLD,WongKangBagy,Sam'd It!
+2017-09-29,DUSK,MILITARY,GOLD,WongKangBagy,Sam'd It!
+2017-09-29,DAY,MILITARY,BLUE,Full Snail University,Pigeon Rats
+2017-09-29,NIGHT,MILITARY,BLUE,Full Snail University,Pigeon Rats
+2017-09-29,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-29,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-29,DAY,MILITARY,BLUE,Pigeon Rats,The Rent is Too Damn Hive
+2017-09-29,NIGHT,MILITARY,GOLD,Pigeon Rats,The Rent is Too Damn Hive
+2017-09-29,DUSK,MILITARY,BLUE,Pigeon Rats,The Rent is Too Damn Hive
+2017-09-29,DAY,MILITARY,BLUE,Sam'd It!,Full Snail University
+2017-09-29,NIGHT,MILITARY,BLUE,Sam'd It!,Full Snail University
+2017-09-29,DAY,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-09-29,DAY,MILITARY,BLUE,Full Snail University,Team Werk
+2017-09-29,NIGHT,MILITARY,BLUE,Full Snail University,Team Werk
+2017-09-29,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-29,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-29,DAY,MILITARY,BLUE,Constingliere,Pigeon Rats
+2017-09-29,NIGHT,MILITARY,BLUE,Constingliere,Pigeon Rats
+2017-09-29,DAY,MILITARY,GOLD,Sam'd It!,Constingliere
+2017-09-29,NIGHT,MILITARY,BLUE,Sam'd It!,Constingliere
+2017-09-29,DUSK,MILITARY,GOLD,Sam'd It!,Constingliere
+2017-09-29,DAY,SNAIL,GOLD,Team Werk,The Rent is Too Damn Hive
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,The Rent is Too Damn Hive
+2017-09-29,DAY,SNAIL,GOLD,WongKangBagy,Full Snail University
+2017-09-29,NIGHT,MILITARY,BLUE,WongKangBagy,Full Snail University
+2017-09-29,DUSK,MILITARY,GOLD,WongKangBagy,Full Snail University
+2017-09-29,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,WongKangBagy
+2017-09-29,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,WongKangBagy
+2017-09-29,DAY,MILITARY,BLUE,Constingliere,Team Werk
+2017-09-29,NIGHT,SNAIL,BLUE,Constingliere,Team Werk
+2017-09-29,DAY,MILITARY,BLUE,Pigeon Rats,Sam'd It!
+2017-09-29,NIGHT,MILITARY,BLUE,Pigeon Rats,Sam'd It!
+2017-09-29,DAY,SNAIL,GOLD,Team Werk,WongKangBagy
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-09-29,DUSK,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-12-01,DAY,MILITARY,BLUE,By Fire,Team Break
+2017-12-01,NIGHT,MILITARY,BLUE,By Fire,Team Break
+2017-12-01,DAY,SNAIL,GOLD,Welcome to the Ballroom,Filthy Foes
+2017-12-01,DUSK,ECONOMY,GOLD,Welcome to the Ballroom,Filthy Foes
+2017-12-01,DAY,MILITARY,GOLD,You're the Captain,Kill Monkey Kill
+2017-12-01,DAY,MILITARY,BLUE,You're the Captain,Kill Monkey Kill
+2017-12-01,NIGHT,MILITARY,BLUE,You're the Captain,Kill Monkey Kill
+2017-12-01,DAY,MILITARY,GOLD,Filthy Foes,You're the Captain
+2017-12-01,NIGHT,MILITARY,BLUE,Filthy Foes,You're the Captain
+2017-12-01,DUSK,ECONOMY,GOLD,Filthy Foes,You're the Captain
+2017-12-01,DAY,MILITARY,GOLD,Kill Monkey Kill,By Fire
+2017-12-01,NIGHT,MILITARY,BLUE,Kill Monkey Kill,By Fire
+2017-12-01,DUSK,MILITARY,BLUE,Kill Monkey Kill,By Fire
+2017-12-01,DAY,MILITARY,BLUE,Team Break,Welcome to the Ballroom
+2017-12-01,NIGHT,MILITARY,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,DUSK,SNAIL,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,DAY,MILITARY,BLUE,Kill Monkey Kill,Filthy Foes
+2017-12-01,NIGHT,MILITARY,BLUE,Kill Monkey Kill,Filthy Foes
+2017-12-01,DAY,SNAIL,BLUE,You're the Captain,Team Break
+2017-12-01,NIGHT,MILITARY,GOLD,You're the Captain,Team Break
+2017-12-01,DUSK,MILITARY,BLUE,You're the Captain,Team Break
+2017-12-01,DAY,MILITARY,GOLD,By Fire,Welcome to the Ballroom
+2017-12-01,NIGHT,ECONOMY,BLUE,By Fire,Welcome to the Ballroom
+2017-12-01,DUSK,MILITARY,BLUE,By Fire,Welcome to the Ballroom
+2017-12-01,DAY,MILITARY,BLUE,Welcome to the Ballroom,You're the Captain
+2017-12-01,NIGHT,ECONOMY,GOLD,Welcome to the Ballroom,You're the Captain
+2017-12-01,DUSK,ECONOMY,BLUE,Welcome to the Ballroom,You're the Captain
+2017-12-01,DAY,MILITARY,BLUE,Team Break,Kill Monkey Kill
+2017-12-01,NIGHT,SNAIL,GOLD,Team Break,Kill Monkey Kill
+2017-12-01,DUSK,MILITARY,GOLD,Team Break,Kill Monkey Kill
+2017-12-01,DAY,SNAIL,BLUE,Filthy Foes,By Fire
+2017-12-01,NIGHT,MILITARY,BLUE,Filthy Foes,By Fire
+2017-12-01,DAY,MILITARY,GOLD,Kill Monkey Kill,Welcome to the Ballroom
+2017-12-01,NIGHT,MILITARY,BLUE,Kill Monkey Kill,Welcome to the Ballroom
+2017-12-01,DUSK,ECONOMY,BLUE,Kill Monkey Kill,Welcome to the Ballroom
+2017-12-01,DAY,SNAIL,BLUE,By Fire,You're the Captain
+2017-12-01,NIGHT,ECONOMY,GOLD,By Fire,You're the Captain
+2017-12-01,DUSK,MILITARY,GOLD,By Fire,You're the Captain
+2017-12-01,DAY,MILITARY,BLUE,Filthy Foes,Team Break
+2017-12-01,NIGHT,SNAIL,BLUE,Filthy Foes,Team Break
+2017-12-01,DAY,MILITARY,BLUE,Team Break,Welcome to the Ballroom
+2017-12-01,NIGHT,ECONOMY,BLUE,Team Break,Welcome to the Ballroom
+2017-12-01,DUSK,MILITARY,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,NIGHT,MILITARY,GOLD,Team Break,Welcome to the Ballroom
+2017-12-01,DAY,MILITARY,GOLD,Team Break,Welcome to the Ballroom
+2017-12-08,DAY,MILITARY,BLUE,Figaro,Snailure to Launch
+2017-12-08,NIGHT,MILITARY,GOLD,Figaro,Snailure to Launch
+2017-12-08,DUSK,ECONOMY,GOLD,Figaro,Snailure to Launch
+2017-12-08,DAY,MILITARY,GOLD,Babies,Pigeon Rats
+2017-12-08,NIGHT,ECONOMY,BLUE,Babies,Pigeon Rats
+2017-12-08,DUSK,MILITARY,BLUE,Babies,Pigeon Rats
+2017-12-08,DAY,MILITARY,GOLD,Snailure to Launch,Babies
+2017-12-08,NIGHT,MILITARY,GOLD,Snailure to Launch,Babies
+2017-12-08,DAY,MILITARY,GOLD,Team Break,Figaro
+2017-12-08,NIGHT,MILITARY,GOLD,Team Break,Figaro
+2017-12-08,DAY,MILITARY,BLUE,Babies,Team Break
+2017-12-08,NIGHT,MILITARY,BLUE,Babies,Team Break
+2017-12-08,DAY,MILITARY,GOLD,Pigeon Rats,Snailure to Launch
+2017-12-08,NIGHT,MILITARY,BLUE,Pigeon Rats,Snailure to Launch
+2017-12-08,DUSK,MILITARY,GOLD,Pigeon Rats,Snailure to Launch
+2017-12-08,DAY,MILITARY,GOLD,Team Break,Pigeon Rats
+2017-12-08,NIGHT,SNAIL,BLUE,Team Break,Pigeon Rats
+2017-12-08,DUSK,MILITARY,GOLD,Team Break,Pigeon Rats
+2017-12-08,DAY,SNAIL,BLUE,Figaro,Babies
+2017-12-08,NIGHT,MILITARY,GOLD,Figaro,Babies
+2017-12-08,DUSK,MILITARY,BLUE,Figaro,Babies
+2017-12-08,DAY,MILITARY,GOLD,Pigeon Rats,Figaro
+2017-12-08,NIGHT,MILITARY,GOLD,Pigeon Rats,Figaro
+2017-12-08,DAY,MILITARY,BLUE,Snailure to Launch,Team Break
+2017-12-08,NIGHT,MILITARY,BLUE,Snailure to Launch,Team Break
+2017-12-08,DAY,MILITARY,GOLD,Team Break,Pigeon Rats
+2017-12-08,NIGHT,MILITARY,GOLD,Team Break,Pigeon Rats
+2017-12-08,DUSK,MILITARY,BLUE,Team Break,Pigeon Rats
+2017-12-08,NIGHT,MILITARY,GOLD,Team Break,Pigeon Rats
+2018-02-02,DUSK,SNAIL,GOLD,Sam'd It!,Team Break
+2018-02-02,NIGHT,ECONOMY,BLUE,Sam'd It!,Team Break
+2018-02-02,DAY,MILITARY,GOLD,Sam'd It!,Team Break
+2018-02-02,DAY,MILITARY,GOLD,Full Snail University,Lizard Audible
+2018-02-02,DUSK,MILITARY,GOLD,Full Snail University,Lizard Audible
+2018-02-02,DUSK,MILITARY,GOLD,Pigeon Rats,Losing You
+2018-02-02,NIGHT,SNAIL,GOLD,Pigeon Rats,Losing You
+2018-02-02,DUSK,MILITARY,GOLD,Lizard Audible,Pigeon Rats
+2018-02-02,NIGHT,SNAIL,BLUE,Lizard Audible,Pigeon Rats
+2018-02-02,DAY,ECONOMY,GOLD,Lizard Audible,Pigeon Rats
+2018-02-02,DUSK,MILITARY,BLUE,Losing You,Sam'd It!
+2018-02-02,NIGHT,MILITARY,BLUE,Losing You,Sam'd It!
+2018-02-02,DUSK,MILITARY,BLUE,Team Break,Full Snail University
+2018-02-02,NIGHT,MILITARY,BLUE,Team Break,Full Snail University
+2018-02-02,DUSK,MILITARY,BLUE,Losing You,Lizard Audible
+2018-02-02,NIGHT,MILITARY,BLUE,Losing You,Lizard Audible
+2018-02-02,DUSK,MILITARY,BLUE,Pigeon Rats,Team Break
+2018-02-02,NIGHT,MILITARY,BLUE,Pigeon Rats,Team Break
+2018-02-02,DUSK,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-02-02,NIGHT,ECONOMY,BLUE,Sam'd It!,Full Snail University
+2018-02-02,DAY,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-02-02,DUSK,MILITARY,GOLD,Full Snail University,Pigeon Rats
+2018-02-02,DAY,ECONOMY,GOLD,Full Snail University,Pigeon Rats
+2018-02-02,DUSK,MILITARY,GOLD,Team Break,Losing You
+2018-02-02,NIGHT,MILITARY,GOLD,Team Break,Losing You
+2018-02-02,DUSK,MILITARY,BLUE,Lizard Audible,Sam'd It!
+2018-02-02,DAY,MILITARY,BLUE,Lizard Audible,Sam'd It!
+2018-02-02,DUSK,MILITARY,BLUE,Losing You,Full Snail University
+2018-02-02,NIGHT,ECONOMY,BLUE,Losing You,Full Snail University
+2018-02-02,DUSK,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2018-02-02,NIGHT,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2018-02-02,DUSK,MILITARY,BLUE,Lizard Audible,Team Break
+2018-02-02,NIGHT,MILITARY,BLUE,Lizard Audible,Team Break
+2018-02-02,DUSK,SNAIL,GOLD,Sam'd It!,Full Snail University
+2018-02-02,NIGHT,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-02-02,DAY,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-02-09,DUSK,MILITARY,GOLD,Beet U,Team Break
+2018-02-09,DAY,MILITARY,BLUE,Beet U,Team Break
+2018-02-09,NIGHT,ECONOMY,BLUE,Beet U,Team Break
+2018-02-09,DUSK,ECONOMY,BLUE,Pigeon Sam,Getting Back Up
+2018-02-09,DAY,MILITARY,GOLD,Pigeon Sam,Getting Back Up
+2018-02-09,NIGHT,MILITARY,BLUE,Pigeon Sam,Getting Back Up
+2018-02-09,DAY,MILITARY,GOLD,Full Snail University,Five Speed Flying Solo
+2018-02-09,NIGHT,ECONOMY,BLUE,Full Snail University,Five Speed Flying Solo
+2018-02-09,DUSK,MILITARY,BLUE,Full Snail University,Five Speed Flying Solo
+2018-02-09,DUSK,ECONOMY,GOLD,Getting Back Up,Full Snail University
+2018-02-09,NIGHT,ECONOMY,GOLD,Getting Back Up,Full Snail University
+2018-02-09,DUSK,SNAIL,GOLD,Five Speed Flying Solo,Beet U
+2018-02-09,DAY,MILITARY,GOLD,Five Speed Flying Solo,Beet U
+2018-02-09,DUSK,MILITARY,BLUE,Team Break,Pigeon Sam
+2018-02-09,DAY,MILITARY,GOLD,Team Break,Pigeon Sam
+2018-02-09,NIGHT,ECONOMY,GOLD,Team Break,Pigeon Sam
+2018-02-09,DUSK,MILITARY,BLUE,Five Speed Flying Solo,Getting Back Up
+2018-02-09,DAY,MILITARY,GOLD,Five Speed Flying Solo,Getting Back Up
+2018-02-09,NIGHT,MILITARY,BLUE,Five Speed Flying Solo,Getting Back Up
+2018-02-09,DUSK,SNAIL,BLUE,Full Snail University,Team Break
+2018-02-09,NIGHT,MILITARY,BLUE,Full Snail University,Team Break
+2018-02-09,DUSK,SNAIL,BLUE,Beet U,Pigeon Sam
+2018-02-09,DAY,MILITARY,BLUE,Beet U,Pigeon Sam
+2018-02-09,DUSK,MILITARY,GOLD,Pigeon Sam,Full Snail University
+2018-02-09,NIGHT,MILITARY,BLUE,Pigeon Sam,Full Snail University
+2018-02-09,DAY,MILITARY,BLUE,Pigeon Sam,Full Snail University
+2018-02-09,DUSK,MILITARY,GOLD,Team Break,Five Speed Flying Solo
+2018-02-09,DAY,MILITARY,BLUE,Team Break,Five Speed Flying Solo
+2018-02-09,NIGHT,MILITARY,GOLD,Team Break,Five Speed Flying Solo
+2018-02-09,DUSK,ECONOMY,GOLD,Getting Back Up,Beet U
+2018-02-09,DAY,MILITARY,GOLD,Getting Back Up,Beet U
+2018-02-09,DAY,MILITARY,GOLD,Five Speed Flying Solo,Pigeon Sam
+2018-02-09,NIGHT,MILITARY,GOLD,Five Speed Flying Solo,Pigeon Sam
+2018-02-09,DUSK,SNAIL,BLUE,Beet U,Full Snail University
+2018-02-09,DAY,MILITARY,BLUE,Beet U,Full Snail University
+2018-02-09,DUSK,ECONOMY,GOLD,Getting Back Up,Team Break
+2018-02-09,DAY,SNAIL,BLUE,Getting Back Up,Team Break
+2018-02-09,NIGHT,ECONOMY,BLUE,Getting Back Up,Team Break
+2018-02-09,DUSK,ECONOMY,GOLD,Team Break,Getting Back Up
+2018-02-09,DAY,MILITARY,GOLD,Team Break,Getting Back Up
+2018-02-09,NIGHT,MILITARY,GOLD,Team Break,Getting Back Up

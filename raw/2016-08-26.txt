@@ -1,0 +1,101 @@
+2016-08-26,DAY,MILITARY,BLUE,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DUSK,MILITARY,GOLD,Gold,Blue
+2016-08-26,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-08-26,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,||||||||||||,Vegantarians
+2016-08-26,DUSK,MILITARY,BLUE,||||||||||||,Vegantarians
+2016-08-26,NIGHT,MILITARY,BLUE,||||||||||||,Vegantarians
+2016-08-26,DAY,MILITARY,GOLD,?Snail Colliders,Garbage Snail Kidz
+2016-08-26,DUSK,MILITARY,GOLD,?Snail Colliders,Garbage Snail Kidz
+2016-08-26,DAY,SNAIL,GOLD,Dawn of Dusk,Twin Needle
+2016-08-26,DUSK,SNAIL,GOLD,Dawn of Dusk,Twin Needle
+2016-08-26,DAY,ECONOMY,GOLD,Full Snail University,Resurrection B
+2016-08-26,DUSK,ECONOMY,GOLD,Full Snail University,Resurrection B
+2016-08-26,DAY,ECONOMY,BLUE,Garbage Snail Kidz,||||||||||||
+2016-08-26,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,||||||||||||
+2016-08-26,DAY,MILITARY,GOLD,Twin Needle,Vegantarians
+2016-08-26,DUSK,MILITARY,GOLD,Twin Needle,Vegantarians
+2016-08-26,DAY,MILITARY,BLUE,Resurrection B,?Snail Colliders
+2016-08-26,DUSK,MILITARY,BLUE,Resurrection B,?Snail Colliders
+2016-08-26,DAY,MILITARY,BLUE,Full Snail University,Dawn of Dusk
+2016-08-26,DUSK,SNAIL,BLUE,Full Snail University,Dawn of Dusk
+2016-08-26,DAY,MILITARY,BLUE,||||||||||||,Twin Needle
+2016-08-26,DUSK,SNAIL,BLUE,||||||||||||,Twin Needle
+2016-08-26,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Resurrection B
+2016-08-26,DAY,MILITARY,BLUE,Garbage Snail Kidz,Resurrection B
+2016-08-26,DAY,MILITARY,BLUE,Vegantarians,Full Snail University
+2016-08-26,DUSK,MILITARY,GOLD,Vegantarians,Full Snail University
+2016-08-26,NIGHT,MILITARY,BLUE,Vegantarians,Full Snail University
+2016-08-26,DAY,MILITARY,GOLD,?Snail Colliders,Dawn of Dusk
+2016-08-26,DUSK,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-08-26,NIGHT,ECONOMY,GOLD,?Snail Colliders,Dawn of Dusk
+2016-08-26,DAY,MILITARY,BLUE,Resurrection B,||||||||||||
+2016-08-26,DUSK,MILITARY,BLUE,Resurrection B,||||||||||||
+2016-08-26,DAY,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-08-26,DUSK,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-08-26,DAY,MILITARY,GOLD,Dawn of Dusk,Garbage Snail Kidz
+2016-08-26,DUSK,ECONOMY,GOLD,Dawn of Dusk,Garbage Snail Kidz
+2016-08-26,DAY,MILITARY,GOLD,?Snail Colliders,Vegantarians
+2016-08-26,DUSK,SNAIL,GOLD,?Snail Colliders,Vegantarians
+2016-08-26,DAY,MILITARY,BLUE,||||||||||||,Full Snail University
+2016-08-26,DUSK,ECONOMY,BLUE,||||||||||||,Full Snail University
+2016-08-26,DAY,SNAIL,BLUE,Resurrection B,Dawn of Dusk
+2016-08-26,DUSK,MILITARY,BLUE,Resurrection B,Dawn of Dusk
+2016-08-26,DAY,ECONOMY,BLUE,Twin Needle,?Snail Colliders
+2016-08-26,DUSK,MILITARY,BLUE,Twin Needle,?Snail Colliders
+2016-08-26,DAY,MILITARY,BLUE,Garbage Snail Kidz,Vegantarians
+2016-08-26,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Vegantarians
+2016-08-26,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Vegantarians
+2016-08-26,DAY,MILITARY,GOLD,Dawn of Dusk,||||||||||||
+2016-08-26,DUSK,MILITARY,BLUE,Dawn of Dusk,||||||||||||
+2016-08-26,NIGHT,ECONOMY,GOLD,Dawn of Dusk,||||||||||||
+2016-08-26,DAY,MILITARY,BLUE,?Snail Colliders,Full Snail University
+2016-08-26,DUSK,ECONOMY,GOLD,?Snail Colliders,Full Snail University
+2016-08-26,NIGHT,ECONOMY,GOLD,?Snail Colliders,Full Snail University
+2016-08-26,DAY,ECONOMY,BLUE,Vegantarians,Resurrection B
+2016-08-26,DUSK,MILITARY,GOLD,Vegantarians,Resurrection B
+2016-08-26,NIGHT,ECONOMY,BLUE,Vegantarians,Resurrection B
+2016-08-26,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-08-26,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-08-26,DAY,MILITARY,GOLD,||||||||||||,?Snail Colliders
+2016-08-26,DUSK,MILITARY,BLUE,||||||||||||,?Snail Colliders
+2016-08-26,NIGHT,ECONOMY,GOLD,||||||||||||,?Snail Colliders
+2016-08-26,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-08-26,DUSK,SNAIL,BLUE,Full Snail University,Garbage Snail Kidz
+2016-08-26,NIGHT,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-08-26,DAY,MILITARY,GOLD,Dawn of Dusk,Vegantarians
+2016-08-26,DUSK,SNAIL,GOLD,Dawn of Dusk,Vegantarians
+2016-08-26,DAY,ECONOMY,GOLD,Resurrection B,Twin Needle
+2016-08-26,DUSK,SNAIL,BLUE,Resurrection B,Twin Needle
+2016-08-26,NIGHT,MILITARY,BLUE,Resurrection B,Twin Needle
+2016-08-26,DAY,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-08-26,DUSK,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-08-26,NIGHT,ECONOMY,GOLD,?Snail Colliders,Dawn of Dusk
+2016-08-26,DAY,MILITARY,BLUE,?Snail Colliders,Dawn of Dusk
+2016-08-26,DAY,SNAIL,GOLD,Gold,Blue
+2016-08-26,DUSK,ECONOMY,BLUE,Gold,Blue
+2016-08-26,NIGHT,SNAIL,GOLD,Gold,Blue
+2016-08-26,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-08-26,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-08-26,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,BLUE,Gold,Blue
+2016-08-26,DAY,MILITARY,BLUE,Gold,Blue
+2016-08-26,DAY,ECONOMY,GOLD,Gold,Blue
+2016-08-26,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-08-26,DAY,MILITARY,BLUE,Gold,Blue
+2016-08-26,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-08-26,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,BLUE,Gold,Blue
+2016-08-26,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-08-26,DAY,MILITARY,BLUE,Gold,Blue

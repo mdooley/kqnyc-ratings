@@ -1,0 +1,106 @@
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,ECONOMY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,ECONOMY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-02-05,DUSK,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,ECONOMY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2016-02-05,DUSK,MILITARY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2016-02-05,NIGHT,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2016-02-05,DAY,ECONOMY,GOLD,Beediocre,TheBeesKnees
+2016-02-05,DUSK,ECONOMY,GOLD,Beediocre,TheBeesKnees
+2016-02-05,DAY,MILITARY,GOLD,Full Snail University,BD Orca
+2016-02-05,DUSK,MILITARY,GOLD,Full Snail University,BD Orca
+2016-02-05,DAY,MILITARY,GOLD,Beez Nutz,Waxon Five
+2016-02-05,DUSK,MILITARY,BLUE,Beez Nutz,Waxon Five
+2016-02-05,NIGHT,ECONOMY,BLUE,Beez Nutz,Waxon Five
+2016-02-05,DAY,MILITARY,BLUE,TheBeesKnees,Beauty and the Bees
+2016-02-05,DUSK,ECONOMY,BLUE,TheBeesKnees,Beauty and the Bees
+2016-02-05,DAY,ECONOMY,BLUE,BD Orca,billywitchdoctor.com
+2016-02-05,DUSK,MILITARY,BLUE,BD Orca,billywitchdoctor.com
+2016-02-05,DAY,MILITARY,GOLD,Waxon Five,Beediocre
+2016-02-05,DUSK,ECONOMY,BLUE,Waxon Five,Beediocre
+2016-02-05,NIGHT,ECONOMY,BLUE,Waxon Five,Beediocre
+2016-02-05,DAY,ECONOMY,BLUE,Beez Nutz,Full Snail University
+2016-02-05,DUSK,MILITARY,BLUE,Beez Nutz,Full Snail University
+2016-02-05,DAY,ECONOMY,GOLD,Beauty and the Bees,BD Orca
+2016-02-05,DUSK,ECONOMY,GOLD,Beauty and the Bees,BD Orca
+2016-02-05,DAY,MILITARY,BLUE,TheBeesKnees,Waxon Five
+2016-02-05,DUSK,MILITARY,BLUE,TheBeesKnees,Waxon Five
+2016-02-05,DAY,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-02-05,DUSK,MILITARY,GOLD,Beediocre,Full Snail University
+2016-02-05,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beez Nutz
+2016-02-05,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Beez Nutz
+2016-02-05,DAY,MILITARY,GOLD,Waxon Five,Beauty and the Bees
+2016-02-05,DUSK,ECONOMY,BLUE,Waxon Five,Beauty and the Bees
+2016-02-05,NIGHT,MILITARY,BLUE,Waxon Five,Beauty and the Bees
+2016-02-05,DAY,ECONOMY,GOLD,Beez Nutz,BD Orca
+2016-02-05,DUSK,ECONOMY,GOLD,Beez Nutz,BD Orca
+2016-02-05,DAY,SNAIL,GOLD,Full Snail University,TheBeesKnees
+2016-02-05,DUSK,SNAIL,GOLD,Full Snail University,TheBeesKnees
+2016-02-05,DAY,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-02-05,DUSK,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2016-02-05,NIGHT,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-02-05,DAY,MILITARY,GOLD,Beauty and the Bees,Beez Nutz
+2016-02-05,DUSK,ECONOMY,GOLD,Beauty and the Bees,Beez Nutz
+2016-02-05,DAY,MILITARY,BLUE,Waxon Five,Full Snail University
+2016-02-05,DUSK,ECONOMY,BLUE,Waxon Five,Full Snail University
+2016-02-05,DAY,ECONOMY,BLUE,BD Orca,Beediocre
+2016-02-05,DUSK,SNAIL,BLUE,BD Orca,Beediocre
+2016-02-05,DAY,MILITARY,BLUE,TheBeesKnees,billywitchdoctor.com
+2016-02-05,DUSK,MILITARY,BLUE,TheBeesKnees,billywitchdoctor.com
+2016-02-05,DAY,ECONOMY,BLUE,Full Snail University,Beauty and the Bees
+2016-02-05,DUSK,ECONOMY,GOLD,Full Snail University,Beauty and the Bees
+2016-02-05,NIGHT,ECONOMY,GOLD,Full Snail University,Beauty and the Bees
+2016-02-05,DAY,ECONOMY,GOLD,Beediocre,Beez Nutz
+2016-02-05,DUSK,ECONOMY,GOLD,Beediocre,Beez Nutz
+2016-02-05,DAY,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2016-02-05,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Waxon Five
+2016-02-05,DAY,ECONOMY,BLUE,TheBeesKnees,BD Orca
+2016-02-05,DUSK,ECONOMY,BLUE,TheBeesKnees,BD Orca
+2016-02-05,DAY,MILITARY,BLUE,Beauty and the Bees,Beediocre
+2016-02-05,DUSK,ECONOMY,BLUE,Beauty and the Bees,Beediocre
+2016-02-05,DAY,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-02-05,DUSK,ECONOMY,GOLD,Full Snail University,billywitchdoctor.com
+2016-02-05,NIGHT,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-02-05,DAY,MILITARY,GOLD,Beez Nutz,TheBeesKnees
+2016-02-05,DUSK,SNAIL,GOLD,Beez Nutz,TheBeesKnees
+2016-02-05,DAY,MILITARY,BLUE,Waxon Five,BD Orca
+2016-02-05,DUSK,ECONOMY,GOLD,Waxon Five,BD Orca
+2016-02-05,NIGHT,SNAIL,GOLD,Waxon Five,BD Orca
+2016-02-05,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-05,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-05,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-02-05,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-05,DAY,ECONOMY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DUSK,ECONOMY,BLUE,Gold,Blue
+2016-02-05,DUSK,SNAIL,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-02-05,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-02-05,DUSK,MILITARY,GOLD,Gold,Blue
+2016-02-05,DUSK,MILITARY,BLUE,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,ECONOMY,BLUE,Gold,Blue
+2016-02-05,DAY,ECONOMY,GOLD,Gold,Blue
+2016-02-05,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-02-05,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-02-05,DUSK,ECONOMY,BLUE,Gold,Blue
+2016-02-05,DUSK,MILITARY,GOLD,Gold,Blue
+2016-02-05,DAY,MILITARY,GOLD,Gold,Blue

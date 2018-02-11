@@ -1,0 +1,76 @@
+2016-09-30,DUSK,MILITARY,BLUE,Gold,Blue
+2016-09-30,DUSK,MILITARY,BLUE,Gold,Blue
+2016-09-30,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-30,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-30,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-30,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-30,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-30,DUSK,MILITARY,BLUE,Gold,Blue
+2016-09-30,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Yas Queens
+2016-09-30,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Yas Queens
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-30,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,GOLD,The Rise of Ahmad,Don't Bee Evil
+2016-09-30,DAY,ECONOMY,GOLD,Gold Queen Styx,Beediocre
+2016-09-30,NIGHT,ECONOMY,GOLD,Gold Queen Styx,Beediocre
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,The Rent is Too Damn Hive
+2016-09-30,NIGHT,SNAIL,BLUE,Garbage Snail Kidz,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,GOLD,Don't Bee Evil,Yas Queens
+2016-09-30,DAY,MILITARY,GOLD,Don't Bee Evil,Yas Queens
+2016-09-30,NIGHT,MILITARY,BLUE,Beediocre,Full Snail University
+2016-09-30,NIGHT,MILITARY,BLUE,Beediocre,Full Snail University
+2016-09-30,DAY,MILITARY,GOLD,Gold Queen Styx,The Rise of Ahmad
+2016-09-30,DAY,SNAIL,GOLD,Gold Queen Styx,The Rise of Ahmad
+2016-09-30,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Don't Bee Evil
+2016-09-30,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Don't Bee Evil
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-09-30,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Beediocre
+2016-09-30,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-09-30,NIGHT,ECONOMY,BLUE,Yas Queens,Gold Queen Styx
+2016-09-30,DAY,MILITARY,BLUE,Yas Queens,Gold Queen Styx
+2016-09-30,DAY,MILITARY,BLUE,Full Snail University,The Rise of Ahmad
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,The Rise of Ahmad
+2016-09-30,DAY,MILITARY,BLUE,Full Snail University,The Rise of Ahmad
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,BLUE,Gold Queen Styx,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,BLUE,Gold Queen Styx,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,GOLD,The Rise of Ahmad,Garbage Snail Kidz
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,Garbage Snail Kidz
+2016-09-30,NIGHT,ECONOMY,GOLD,Full Snail University,Yas Queens
+2016-09-30,DAY,MILITARY,BLUE,Full Snail University,Yas Queens
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,Yas Queens
+2016-09-30,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Gold Queen Styx
+2016-09-30,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Gold Queen Styx
+2016-09-30,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Gold Queen Styx
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rise of Ahmad
+2016-09-30,DAY,MILITARY,BLUE,Beediocre,The Rise of Ahmad
+2016-09-30,NIGHT,ECONOMY,BLUE,Don't Bee Evil,Full Snail University
+2016-09-30,DAY,MILITARY,BLUE,Don't Bee Evil,Full Snail University
+2016-09-30,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Yas Queens
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,Yas Queens
+2016-09-30,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Yas Queens
+2016-09-30,NIGHT,ECONOMY,GOLD,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,DAY,SNAIL,BLUE,Full Snail University,Gold Queen Styx
+2016-09-30,NIGHT,MILITARY,GOLD,Full Snail University,Gold Queen Styx
+2016-09-30,NIGHT,MILITARY,BLUE,Full Snail University,Gold Queen Styx
+2016-09-30,NIGHT,ECONOMY,BLUE,Yas Queens,Beediocre
+2016-09-30,DAY,ECONOMY,BLUE,Yas Queens,Beediocre
+2016-09-30,DAY,MILITARY,BLUE,Garbage Snail Kidz,Don't Bee Evil
+2016-09-30,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Don't Bee Evil
+2016-09-30,NIGHT,SNAIL,BLUE,Full Snail University,The Rent is Too Damn Hive
+2016-09-30,NIGHT,MILITARY,BLUE,Full Snail University,The Rent is Too Damn Hive
+2016-09-30,NIGHT,MILITARY,GOLD,The Rise of Ahmad,Yas Queens
+2016-09-30,DAY,MILITARY,GOLD,The Rise of Ahmad,Yas Queens
+2016-09-30,NIGHT,ECONOMY,GOLD,Gold Queen Styx,Garbage Snail Kidz
+2016-09-30,NIGHT,MILITARY,GOLD,Gold Queen Styx,Garbage Snail Kidz
+2016-09-30,NIGHT,MILITARY,GOLD,Beediocre,Don't Bee Evil
+2016-09-30,DAY,MILITARY,GOLD,Beediocre,Don't Bee Evil
+2016-09-30,DAY,MILITARY,BLUE,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,NIGHT,MILITARY,BLUE,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,BLUE,The Rise of Ahmad,The Rent is Too Damn Hive
+2016-09-30,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-30,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-09-30,DUSK,MILITARY,BLUE,Gold,Blue

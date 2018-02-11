@@ -1,0 +1,68 @@
+2017-07-28,DUSK,MILITARY,GOLD,Gold,Blue
+2017-07-28,DUSK,MILITARY,BLUE,Gold,Blue
+2017-07-28,DAY,MILITARY,BLUE,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,BLUE,Gold,Blue
+2017-07-28,DUSK,MILITARY,BLUE,Gold,Blue
+2017-07-28,DUSK,MILITARY,BLUE,Gold,Blue
+2017-07-28,DUSK,MILITARY,BLUE,Gold,Blue
+2017-07-28,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-07-28,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-07-28,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-07-28,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-07-28,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-07-28,DUSK,MILITARY,BLUE,Gold,Blue
+2017-07-28,DUSK,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,BLUE,Gold,Blue
+2017-07-28,DUSK,MILITARY,GOLD,Gold,Blue
+2017-07-28,DAY,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-07-28,NIGHT,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-07-28,DUSK,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-07-28,DAY,MILITARY,GOLD,When It Used To Be Fun,50% Sara(h)
+2017-07-28,NIGHT,MILITARY,GOLD,When It Used To Be Fun,50% Sara(h)
+2017-07-28,DUSK,MILITARY,GOLD,When It Used To Be Fun,50% Sara(h)
+2017-07-28,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,DUSK,MILITARY,GOLD,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,Approximation of PDX Team,Full Snail University
+2017-07-28,NIGHT,ECONOMY,GOLD,Approximation of PDX Team,Full Snail University
+2017-07-28,DUSK,MILITARY,GOLD,Approximation of PDX Team,Full Snail University
+2017-07-28,DAY,MILITARY,BLUE,When It Used To Be Fun,Approximation of PDX Team
+2017-07-28,NIGHT,ECONOMY,BLUE,When It Used To Be Fun,Approximation of PDX Team
+2017-07-28,DUSK,MILITARY,BLUE,When It Used To Be Fun,Approximation of PDX Team
+2017-07-28,DAY,ECONOMY,BLUE,50% Sara(h),The Rent is Too Damn Hive
+2017-07-28,NIGHT,ECONOMY,BLUE,50% Sara(h),The Rent is Too Damn Hive
+2017-07-28,DUSK,ECONOMY,BLUE,50% Sara(h),The Rent is Too Damn Hive
+2017-07-28,DAY,MILITARY,GOLD,Approximation of PDX Team,50% Sara(h)
+2017-07-28,NIGHT,ECONOMY,BLUE,Approximation of PDX Team,50% Sara(h)
+2017-07-28,DUSK,ECONOMY,GOLD,Approximation of PDX Team,50% Sara(h)
+2017-07-28,DAY,SNAIL,GOLD,Approximation of PDX Team,50% Sara(h)
+2017-07-28,DAY,MILITARY,GOLD,Full Snail University,When It Used To Be Fun
+2017-07-28,NIGHT,MILITARY,BLUE,Full Snail University,When It Used To Be Fun
+2017-07-28,DUSK,MILITARY,BLUE,Full Snail University,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,Full Snail University,When It Used To Be Fun
+2017-07-28,NIGHT,SNAIL,GOLD,Full Snail University,When It Used To Be Fun
+2017-07-28,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,DUSK,ECONOMY,BLUE,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Approximation of PDX Team
+2017-07-28,DAY,MILITARY,BLUE,50% Sara(h),Full Snail University
+2017-07-28,NIGHT,MILITARY,BLUE,50% Sara(h),Full Snail University
+2017-07-28,DUSK,MILITARY,BLUE,50% Sara(h),Full Snail University
+2017-07-28,DAY,MILITARY,BLUE,Approximation of PDX Team,Full Snail University
+2017-07-28,NIGHT,ECONOMY,BLUE,Approximation of PDX Team,Full Snail University
+2017-07-28,DUSK,ECONOMY,BLUE,Approximation of PDX Team,Full Snail University

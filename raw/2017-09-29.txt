@@ -1,0 +1,64 @@
+2017-09-29,DAY,MILITARY,GOLD,Gold,Blue
+2017-09-29,NIGHT,SNAIL,GOLD,Gold,Blue
+2017-09-29,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-09-29,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-09-29,DUSK,MILITARY,GOLD,Gold,Blue
+2017-09-29,DAY,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-29,DAY,MILITARY,GOLD,WongKangBagy,Constingliere
+2017-09-29,NIGHT,MILITARY,GOLD,WongKangBagy,Constingliere
+2017-09-29,DAY,MILITARY,BLUE,Full Snail University,The Rent is Too Damn Hive
+2017-09-29,NIGHT,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-29,DUSK,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-29,DAY,SNAIL,BLUE,Constingliere,Full Snail University
+2017-09-29,NIGHT,MILITARY,BLUE,Constingliere,Full Snail University
+2017-09-29,DAY,MILITARY,GOLD,Pigeon Rats,WongKangBagy
+2017-09-29,NIGHT,SNAIL,BLUE,Pigeon Rats,WongKangBagy
+2017-09-29,DUSK,MILITARY,GOLD,Pigeon Rats,WongKangBagy
+2017-09-29,DAY,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-29,NIGHT,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-29,DAY,MILITARY,BLUE,WongKangBagy,Sam'd It!
+2017-09-29,NIGHT,SNAIL,GOLD,WongKangBagy,Sam'd It!
+2017-09-29,DUSK,MILITARY,GOLD,WongKangBagy,Sam'd It!
+2017-09-29,DAY,MILITARY,BLUE,Full Snail University,Pigeon Rats
+2017-09-29,NIGHT,MILITARY,BLUE,Full Snail University,Pigeon Rats
+2017-09-29,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-29,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-29,DAY,MILITARY,BLUE,Pigeon Rats,The Rent is Too Damn Hive
+2017-09-29,NIGHT,MILITARY,GOLD,Pigeon Rats,The Rent is Too Damn Hive
+2017-09-29,DUSK,MILITARY,BLUE,Pigeon Rats,The Rent is Too Damn Hive
+2017-09-29,DAY,MILITARY,BLUE,Sam'd It!,Full Snail University
+2017-09-29,NIGHT,MILITARY,BLUE,Sam'd It!,Full Snail University
+2017-09-29,DAY,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-09-29,DAY,MILITARY,BLUE,Full Snail University,Team Werk
+2017-09-29,NIGHT,MILITARY,BLUE,Full Snail University,Team Werk
+2017-09-29,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-29,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-29,DAY,MILITARY,BLUE,Constingliere,Pigeon Rats
+2017-09-29,NIGHT,MILITARY,BLUE,Constingliere,Pigeon Rats
+2017-09-29,DAY,MILITARY,GOLD,Sam'd It!,Constingliere
+2017-09-29,NIGHT,MILITARY,BLUE,Sam'd It!,Constingliere
+2017-09-29,DUSK,MILITARY,GOLD,Sam'd It!,Constingliere
+2017-09-29,DAY,SNAIL,GOLD,Team Werk,The Rent is Too Damn Hive
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,The Rent is Too Damn Hive
+2017-09-29,DAY,SNAIL,GOLD,WongKangBagy,Full Snail University
+2017-09-29,NIGHT,MILITARY,BLUE,WongKangBagy,Full Snail University
+2017-09-29,DUSK,MILITARY,GOLD,WongKangBagy,Full Snail University
+2017-09-29,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,WongKangBagy
+2017-09-29,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,WongKangBagy
+2017-09-29,DAY,MILITARY,BLUE,Constingliere,Team Werk
+2017-09-29,NIGHT,SNAIL,BLUE,Constingliere,Team Werk
+2017-09-29,DAY,MILITARY,BLUE,Pigeon Rats,Sam'd It!
+2017-09-29,NIGHT,MILITARY,BLUE,Pigeon Rats,Sam'd It!
+2017-09-29,DAY,SNAIL,GOLD,Team Werk,WongKangBagy
+2017-09-29,NIGHT,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-09-29,DUSK,MILITARY,GOLD,Team Werk,WongKangBagy
+2017-09-29,DAY,MILITARY,GOLD,Gold,Blue
+2017-09-29,DAY,MILITARY,BLUE,Gold,Blue
+2017-09-29,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-09-29,DAY,MILITARY,BLUE,Gold,Blue
+2017-09-29,DUSK,MILITARY,GOLD,Gold,Blue
+2017-09-29,DAY,MILITARY,GOLD,Gold,Blue
+2017-09-29,DAY,MILITARY,BLUE,Gold,Blue
+2017-09-29,DAY,MILITARY,BLUE,Gold,Blue

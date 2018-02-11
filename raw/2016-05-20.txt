@@ -1,0 +1,79 @@
+2016-05-20,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-05-20,DAY,ECONOMY,BLUE,Gold,Blue
+2016-05-20,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-05-20,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-05-20,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-05-20,DUSK,MILITARY,BLUE,Gold,Blue
+2016-05-20,DUSK,MILITARY,BLUE,Gold,Blue
+2016-05-20,DUSK,MILITARY,BLUE,Gold,Blue
+2016-05-20,DUSK,MILITARY,BLUE,Gold,Blue
+2016-05-20,DAY,MILITARY,BLUE,Gold,Blue
+2016-05-20,DAY,ECONOMY,GOLD,Gold,Blue
+2016-05-20,DAY,MILITARY,BLUE,Gold,Blue
+2016-05-20,DAY,MILITARY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-20,DUSK,MILITARY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-20,DAY,MILITARY,GOLD,Combunists,RekCity
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,RekCity
+2016-05-20,DAY,MILITARY,BLUE,Congraduations,We Are Logan
+2016-05-20,DUSK,SNAIL,GOLD,Congraduations,We Are Logan
+2016-05-20,NIGHT,MILITARY,BLUE,Congraduations,We Are Logan
+2016-05-20,DAY,ECONOMY,BLUE,Two Teams,Garbage Snail Kidz
+2016-05-20,DUSK,MILITARY,GOLD,Two Teams,Garbage Snail Kidz
+2016-05-20,NIGHT,ECONOMY,BLUE,Two Teams,Garbage Snail Kidz
+2016-05-20,DAY,ECONOMY,GOLD,Twin Needle,The Dairy Queens
+2016-05-20,DUSK,MILITARY,GOLD,Twin Needle,The Dairy Queens
+2016-05-20,DAY,MILITARY,GOLD,Sting Stang Stung,RekCity
+2016-05-20,DUSK,ECONOMY,GOLD,Sting Stang Stung,RekCity
+2016-05-20,DAY,ECONOMY,GOLD,Two Teams,The Dairy Queens
+2016-05-20,DUSK,ECONOMY,GOLD,Two Teams,The Dairy Queens
+2016-05-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Congraduations
+2016-05-20,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Congraduations
+2016-05-20,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Congraduations
+2016-05-20,DAY,ECONOMY,GOLD,Combunists,We Are Logan
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,We Are Logan
+2016-05-20,DAY,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-05-20,NIGHT,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-05-20,DAY,MILITARY,GOLD,Garbage Snail Kidz,Sting Stang Stung
+2016-05-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-20,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-20,DAY,MILITARY,BLUE,We Are Logan,Twin Needle
+2016-05-20,DUSK,SNAIL,GOLD,We Are Logan,Twin Needle
+2016-05-20,NIGHT,MILITARY,GOLD,We Are Logan,Twin Needle
+2016-05-20,DAY,MILITARY,GOLD,Congraduations,Two Teams
+2016-05-20,DUSK,MILITARY,GOLD,Congraduations,Two Teams
+2016-05-20,DAY,MILITARY,BLUE,The Dairy Queens,RekCity
+2016-05-20,DUSK,SNAIL,BLUE,The Dairy Queens,RekCity
+2016-05-20,DAY,MILITARY,BLUE,Full Snail University,Combunists
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,Combunists
+2016-05-20,NIGHT,MILITARY,GOLD,Full Snail University,Combunists
+2016-05-20,DAY,MILITARY,GOLD,RekCity,Two Teams
+2016-05-20,DUSK,MILITARY,GOLD,RekCity,Two Teams
+2016-05-20,DAY,MILITARY,GOLD,The Dairy Queens,Garbage Snail Kidz
+2016-05-20,DUSK,MILITARY,BLUE,The Dairy Queens,Garbage Snail Kidz
+2016-05-20,NIGHT,MILITARY,BLUE,The Dairy Queens,Garbage Snail Kidz
+2016-05-20,DAY,MILITARY,BLUE,Sting Stang Stung,Twin Needle
+2016-05-20,DUSK,MILITARY,GOLD,Sting Stang Stung,Twin Needle
+2016-05-20,NIGHT,MILITARY,BLUE,Sting Stang Stung,Twin Needle
+2016-05-20,DAY,MILITARY,GOLD,Full Snail University,We Are Logan
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,We Are Logan
+2016-05-20,DAY,MILITARY,BLUE,Combunists,Congraduations
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,Congraduations
+2016-05-20,NIGHT,MILITARY,BLUE,Combunists,Congraduations
+2016-05-20,DAY,MILITARY,GOLD,We Are Logan,RekCity
+2016-05-20,DUSK,MILITARY,BLUE,We Are Logan,RekCity
+2016-05-20,NIGHT,MILITARY,GOLD,We Are Logan,RekCity
+2016-05-20,DAY,ECONOMY,GOLD,Combunists,Garbage Snail Kidz
+2016-05-20,DUSK,MILITARY,GOLD,Combunists,Garbage Snail Kidz
+2016-05-20,DAY,MILITARY,BLUE,Two Teams,Twin Needle
+2016-05-20,DUSK,ECONOMY,GOLD,Two Teams,Twin Needle
+2016-05-20,NIGHT,ECONOMY,BLUE,Two Teams,Twin Needle
+2016-05-20,DAY,ECONOMY,BLUE,The Dairy Queens,Sting Stang Stung
+2016-05-20,DUSK,ECONOMY,BLUE,The Dairy Queens,Sting Stang Stung
+2016-05-20,DAY,MILITARY,GOLD,Full Snail University,Congraduations
+2016-05-20,DUSK,MILITARY,GOLD,Full Snail University,Congraduations
+2016-05-20,DAY,SNAIL,BLUE,Full Snail University,We Are Logan
+2016-05-20,DUSK,ECONOMY,GOLD,Full Snail University,We Are Logan
+2016-05-20,NIGHT,MILITARY,BLUE,Full Snail University,We Are Logan
+2016-05-20,DAY,ECONOMY,GOLD,Full Snail University,We Are Logan
+2016-05-20,DUSK,SNAIL,BLUE,Full Snail University,We Are Logan

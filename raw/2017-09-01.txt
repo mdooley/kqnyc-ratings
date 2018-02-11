@@ -1,0 +1,54 @@
+2017-09-01,DUSK,MILITARY,GOLD,Gold,Blue
+2017-09-01,DAY,MILITARY,GOLD,Pigeon Rats,Constingliere
+2017-09-01,NIGHT,MILITARY,GOLD,Pigeon Rats,Constingliere
+2017-09-01,DAY,MILITARY,BLUE,Monkey Strength,Sam'd It!
+2017-09-01,NIGHT,MILITARY,BLUE,Monkey Strength,Sam'd It!
+2017-09-01,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Full Snail University
+2017-09-01,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Full Snail University
+2017-09-01,DAY,MILITARY,GOLD,Sam'd It!,The Rent is Too Damn Hive
+2017-09-01,NIGHT,MILITARY,GOLD,Sam'd It!,The Rent is Too Damn Hive
+2017-09-01,DAY,SNAIL,BLUE,Constingliere,Monkey Strength
+2017-09-01,NIGHT,MILITARY,BLUE,Constingliere,Monkey Strength
+2017-09-01,DAY,MILITARY,BLUE,Tek,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,GOLD,Tek,Pigeon Rats
+2017-09-01,DUSK,MILITARY,BLUE,Tek,Pigeon Rats
+2017-09-01,DAY,MILITARY,BLUE,Monkey Strength,Tek
+2017-09-01,NIGHT,MILITARY,BLUE,Monkey Strength,Tek
+2017-09-01,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-01,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Constingliere
+2017-09-01,DAY,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-01,DAY,MILITARY,BLUE,Constingliere,Full Snail University
+2017-09-01,NIGHT,MILITARY,GOLD,Constingliere,Full Snail University
+2017-09-01,DUSK,MILITARY,BLUE,Constingliere,Full Snail University
+2017-09-01,DAY,MILITARY,GOLD,Tek,The Rent is Too Damn Hive
+2017-09-01,NIGHT,MILITARY,BLUE,Tek,The Rent is Too Damn Hive
+2017-09-01,DUSK,MILITARY,GOLD,Tek,The Rent is Too Damn Hive
+2017-09-01,DAY,SNAIL,BLUE,Pigeon Rats,Monkey Strength
+2017-09-01,NIGHT,MILITARY,BLUE,Pigeon Rats,Monkey Strength
+2017-09-01,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-01,DAY,MILITARY,GOLD,Full Snail University,Tek
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Tek
+2017-09-01,DAY,MILITARY,GOLD,Sam'd It!,Constingliere
+2017-09-01,NIGHT,ECONOMY,GOLD,Sam'd It!,Constingliere
+2017-09-01,DAY,MILITARY,BLUE,Tek,Sam'd It!
+2017-09-01,NIGHT,MILITARY,GOLD,Tek,Sam'd It!
+2017-09-01,DUSK,MILITARY,GOLD,Tek,Sam'd It!
+2017-09-01,DAY,MILITARY,GOLD,Pigeon Rats,Full Snail University
+2017-09-01,NIGHT,MILITARY,GOLD,Pigeon Rats,Full Snail University
+2017-09-01,DAY,MILITARY,GOLD,Monkey Strength,The Rent is Too Damn Hive
+2017-09-01,NIGHT,MILITARY,BLUE,Monkey Strength,The Rent is Too Damn Hive
+2017-09-01,DUSK,MILITARY,GOLD,Monkey Strength,The Rent is Too Damn Hive
+2017-09-01,DAY,MILITARY,GOLD,Full Snail University,Monkey Strength
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Monkey Strength
+2017-09-01,DAY,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-01,DAY,SNAIL,BLUE,Constingliere,Tek
+2017-09-01,NIGHT,MILITARY,BLUE,Constingliere,Tek
+2017-09-01,DAY,SNAIL,BLUE,Tek,Pigeon Rats
+2017-09-01,DAY,MILITARY,BLUE,Sam'd It!,Tek
+2017-09-01,DAY,MILITARY,GOLD,Pigeon Rats,Sam'd It!
+2017-09-01,DAY,SNAIL,GOLD,Full Snail University,Pigeon Rats
+2017-09-01,NIGHT,MILITARY,GOLD,Full Snail University,Pigeon Rats
+2017-09-01,DUSK,MILITARY,GOLD,Full Snail University,Pigeon Rats

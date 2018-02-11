@@ -1,0 +1,84 @@
+2016-03-11,DUSK,MILITARY,GOLD,Gold,Blue
+2016-03-11,DUSK,MILITARY,GOLD,Gold,Blue
+2016-03-11,DUSK,MILITARY,GOLD,Gold,Blue
+2016-03-11,DUSK,ECONOMY,BLUE,Gold,Blue
+2016-03-11,DAY,MILITARY,BLUE,Gold,Blue
+2016-03-11,DAY,MILITARY,BLUE,Gold,Blue
+2016-03-11,DAY,ECONOMY,GOLD,Full Snail University,Beerian
+2016-03-11,NIGHT,ECONOMY,GOLD,Full Snail University,Beerian
+2016-03-11,DAY,ECONOMY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-11,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-11,DAY,MILITARY,GOLD,Twin Needle,Sushiboi14
+2016-03-11,NIGHT,ECONOMY,BLUE,Twin Needle,Sushiboi14
+2016-03-11,DUSK,MILITARY,BLUE,Twin Needle,Sushiboi14
+2016-03-11,DAY,MILITARY,GOLD,Beediocre,Queen of the Night
+2016-03-11,NIGHT,ECONOMY,GOLD,Beediocre,Queen of the Night
+2016-03-11,DAY,MILITARY,BLUE,Garbage Snail Kidz,Full Snail University
+2016-03-11,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Full Snail University
+2016-03-11,DAY,MILITARY,GOLD,Sushiboi14,Beerian
+2016-03-11,NIGHT,ECONOMY,GOLD,Sushiboi14,Beerian
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,billywitchdoctor.com
+2016-03-11,NIGHT,MILITARY,BLUE,Queen of the Night,billywitchdoctor.com
+2016-03-11,DAY,MILITARY,GOLD,Beediocre,Twin Needle
+2016-03-11,NIGHT,MILITARY,GOLD,Beediocre,Twin Needle
+2016-03-11,DAY,ECONOMY,BLUE,Sushiboi14,Full Snail University
+2016-03-11,NIGHT,ECONOMY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,DUSK,MILITARY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,DAY,MILITARY,BLUE,Garbage Snail Kidz,Queen of the Night
+2016-03-11,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Queen of the Night
+2016-03-11,DAY,ECONOMY,BLUE,Beerian,Beediocre
+2016-03-11,NIGHT,MILITARY,BLUE,Beerian,Beediocre
+2016-03-11,DAY,ECONOMY,BLUE,billywitchdoctor.com,Twin Needle
+2016-03-11,NIGHT,MILITARY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-11,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,Full Snail University
+2016-03-11,NIGHT,ECONOMY,GOLD,Queen of the Night,Full Snail University
+2016-03-11,DUSK,MILITARY,BLUE,Queen of the Night,Full Snail University
+2016-03-11,DAY,ECONOMY,GOLD,Beediocre,Sushiboi14
+2016-03-11,NIGHT,ECONOMY,BLUE,Beediocre,Sushiboi14
+2016-03-11,DUSK,ECONOMY,GOLD,Beediocre,Sushiboi14
+2016-03-11,DAY,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-03-11,NIGHT,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-03-11,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beerian
+2016-03-11,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Beerian
+2016-03-11,DAY,ECONOMY,GOLD,Full Snail University,Beediocre
+2016-03-11,NIGHT,MILITARY,GOLD,Full Snail University,Beediocre
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,Twin Needle
+2016-03-11,NIGHT,MILITARY,GOLD,Queen of the Night,Twin Needle
+2016-03-11,DUSK,MILITARY,GOLD,Queen of the Night,Twin Needle
+2016-03-11,DAY,ECONOMY,GOLD,Sushiboi14,billywitchdoctor.com
+2016-03-11,NIGHT,MILITARY,GOLD,Sushiboi14,billywitchdoctor.com
+2016-03-11,DAY,MILITARY,GOLD,Garbage Snail Kidz,Beerian
+2016-03-11,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Beerian
+2016-03-11,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Beerian
+2016-03-11,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-03-11,NIGHT,SNAIL,GOLD,Twin Needle,Full Snail University
+2016-03-11,DUSK,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-03-11,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beediocre
+2016-03-11,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-03-11,DUSK,MILITARY,BLUE,billywitchdoctor.com,Beediocre
+2016-03-11,DAY,MILITARY,BLUE,Beerian,Queen of the Night
+2016-03-11,NIGHT,ECONOMY,BLUE,Beerian,Queen of the Night
+2016-03-11,DAY,MILITARY,BLUE,Garbage Snail Kidz,Sushiboi14
+2016-03-11,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,Sushiboi14
+2016-03-11,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-03-11,NIGHT,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2016-03-11,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-03-11,DAY,ECONOMY,GOLD,Twin Needle,Beerian
+2016-03-11,NIGHT,MILITARY,BLUE,Twin Needle,Beerian
+2016-03-11,DUSK,SNAIL,GOLD,Twin Needle,Beerian
+2016-03-11,DAY,ECONOMY,GOLD,Beediocre,Garbage Snail Kidz
+2016-03-11,NIGHT,MILITARY,GOLD,Beediocre,Garbage Snail Kidz
+2016-03-11,DAY,MILITARY,BLUE,Queen of the Night,Sushiboi14
+2016-03-11,NIGHT,MILITARY,BLUE,Queen of the Night,Sushiboi14
+2016-03-11,DAY,MILITARY,GOLD,Full Snail University,Beediocre
+2016-03-11,NIGHT,ECONOMY,BLUE,Full Snail University,Beediocre
+2016-03-11,DUSK,MILITARY,BLUE,Full Snail University,Beediocre
+2016-03-11,DAY,MILITARY,BLUE,Beediocre,Sushiboi14
+2016-03-11,NIGHT,MILITARY,BLUE,Beediocre,Sushiboi14
+2016-03-11,DAY,ECONOMY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,NIGHT,ECONOMY,GOLD,Sushiboi14,Full Snail University
+2016-03-11,NIGHT,MILITARY,BLUE,Sushiboi14,Beediocre
+2016-03-11,DUSK,MILITARY,BLUE,Sushiboi14,Beediocre
+2016-03-11,DAY,MILITARY,GOLD,Sushiboi14,Beediocre
+2016-03-11,NIGHT,ECONOMY,BLUE,Sushiboi14,Beediocre

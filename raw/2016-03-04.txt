@@ -1,0 +1,91 @@
+2016-03-04,DAY,MILITARY,GOLD,Beauty and the Bees,CuQueens
+2016-03-04,DUSK,ECONOMY,GOLD,Beauty and the Bees,CuQueens
+2016-03-04,DAY,ECONOMY,GOLD,Beediocre,Bee Bee Guns
+2016-03-04,DUSK,ECONOMY,GOLD,Beediocre,Bee Bee Guns
+2016-03-04,DAY,SNAIL,BLUE,Full Snail University,Beeritogurl7
+2016-03-04,DUSK,MILITARY,GOLD,Full Snail University,Beeritogurl7
+2016-03-04,NIGHT,ECONOMY,BLUE,Full Snail University,Beeritogurl7
+2016-03-04,DAY,MILITARY,GOLD,Twin Needle,Waxon Five
+2016-03-04,DUSK,ECONOMY,GOLD,Twin Needle,Waxon Five
+2016-03-04,DAY,SNAIL,BLUE,CuQueens,billywitchdoctor.com
+2016-03-04,DUSK,ECONOMY,BLUE,CuQueens,billywitchdoctor.com
+2016-03-04,DAY,ECONOMY,GOLD,Beeritogurl7,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,GOLD,Beeritogurl7,Beauty and the Bees
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Beediocre
+2016-03-04,DUSK,MILITARY,GOLD,Waxon Five,Beediocre
+2016-03-04,NIGHT,ECONOMY,BLUE,Waxon Five,Beediocre
+2016-03-04,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-03-04,DUSK,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-03-04,DAY,MILITARY,GOLD,billywitchdoctor.com,Bee Bee Guns
+2016-03-04,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Bee Bee Guns
+2016-03-04,DAY,MILITARY,BLUE,CuQueens,Beeritogurl7
+2016-03-04,DUSK,ECONOMY,BLUE,CuQueens,Beeritogurl7
+2016-03-04,DAY,ECONOMY,BLUE,Beauty and the Bees,Twin Needle
+2016-03-04,DUSK,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2016-03-04,NIGHT,MILITARY,BLUE,Beauty and the Bees,Twin Needle
+2016-03-04,DAY,MILITARY,BLUE,Beediocre,Full Snail University
+2016-03-04,DUSK,MILITARY,BLUE,Beediocre,Full Snail University
+2016-03-04,DAY,MILITARY,GOLD,Beeritogurl7,billywitchdoctor.com
+2016-03-04,DUSK,ECONOMY,GOLD,Beeritogurl7,billywitchdoctor.com
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Bee Bee Guns
+2016-03-04,DUSK,MILITARY,BLUE,Waxon Five,Bee Bee Guns
+2016-03-04,DAY,ECONOMY,GOLD,Twin Needle,CuQueens
+2016-03-04,DUSK,MILITARY,GOLD,Twin Needle,CuQueens
+2016-03-04,DAY,MILITARY,GOLD,Beediocre,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,GOLD,Beediocre,Beauty and the Bees
+2016-03-04,DAY,MILITARY,BLUE,billywitchdoctor.com,Waxon Five
+2016-03-04,DUSK,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2016-03-04,NIGHT,MILITARY,GOLD,billywitchdoctor.com,Waxon Five
+2016-03-04,DAY,MILITARY,GOLD,Beeritogurl7,Twin Needle
+2016-03-04,DUSK,SNAIL,GOLD,Beeritogurl7,Twin Needle
+2016-03-04,DAY,MILITARY,BLUE,Bee Bee Guns,Full Snail University
+2016-03-04,DUSK,SNAIL,BLUE,Bee Bee Guns,Full Snail University
+2016-03-04,DAY,ECONOMY,BLUE,CuQueens,Beediocre
+2016-03-04,DUSK,MILITARY,BLUE,CuQueens,Beediocre
+2016-03-04,DAY,MILITARY,BLUE,Twin Needle,billywitchdoctor.com
+2016-03-04,DUSK,MILITARY,GOLD,Twin Needle,billywitchdoctor.com
+2016-03-04,NIGHT,ECONOMY,BLUE,Twin Needle,billywitchdoctor.com
+2016-03-04,DAY,MILITARY,GOLD,Full Snail University,Waxon Five
+2016-03-04,DUSK,ECONOMY,GOLD,Full Snail University,Waxon Five
+2016-03-04,DAY,MILITARY,BLUE,Beediocre,Beeritogurl7
+2016-03-04,DUSK,ECONOMY,BLUE,Beediocre,Beeritogurl7
+2016-03-04,DAY,MILITARY,GOLD,Beauty and the Bees,Bee Bee Guns
+2016-03-04,DUSK,SNAIL,GOLD,Beauty and the Bees,Bee Bee Guns
+2016-03-04,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-04,DUSK,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-04,DAY,ECONOMY,GOLD,Twin Needle,Beediocre
+2016-03-04,DUSK,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-04,NIGHT,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,BLUE,Waxon Five,Beauty and the Bees
+2016-03-04,DAY,ECONOMY,GOLD,Bee Bee Guns,CuQueens
+2016-03-04,DUSK,ECONOMY,GOLD,Bee Bee Guns,CuQueens
+2016-03-04,DAY,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2016-03-04,DUSK,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-04,NIGHT,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-04,DAY,MILITARY,BLUE,Beauty and the Bees,Full Snail University
+2016-03-04,DUSK,SNAIL,GOLD,Beauty and the Bees,Full Snail University
+2016-03-04,NIGHT,MILITARY,BLUE,Beauty and the Bees,Full Snail University
+2016-03-04,DAY,SNAIL,BLUE,CuQueens,Waxon Five
+2016-03-04,DUSK,SNAIL,BLUE,CuQueens,Waxon Five
+2016-03-04,DAY,ECONOMY,BLUE,Bee Bee Guns,Beeritogurl7
+2016-03-04,DUSK,MILITARY,BLUE,Bee Bee Guns,Beeritogurl7
+2016-03-04,DAY,MILITARY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2016-03-04,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2016-03-04,DAY,SNAIL,GOLD,Full Snail University,CuQueens
+2016-03-04,DUSK,ECONOMY,GOLD,Full Snail University,CuQueens
+2016-03-04,DAY,ECONOMY,GOLD,Twin Needle,Bee Bee Guns
+2016-03-04,DUSK,MILITARY,BLUE,Twin Needle,Bee Bee Guns
+2016-03-04,NIGHT,MILITARY,GOLD,Twin Needle,Bee Bee Guns
+2016-03-04,DAY,MILITARY,BLUE,Waxon Five,Beeritogurl7
+2016-03-04,DUSK,ECONOMY,BLUE,Waxon Five,Beeritogurl7
+2016-03-04,DAY,ECONOMY,BLUE,Beeritogurl7,Full Snail University
+2016-03-04,DUSK,MILITARY,BLUE,Beeritogurl7,Full Snail University
+2016-03-04,NIGHT,MILITARY,BLUE,Beeritogurl7,Full Snail University
+2016-03-04,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-03-04,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-03-04,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-03-04,DAY,MILITARY,GOLD,Gold,Blue
+2016-03-04,DAY,MILITARY,GOLD,Gold,Blue
+2016-03-04,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-03-04,NIGHT,MILITARY,GOLD,Gold,Blue

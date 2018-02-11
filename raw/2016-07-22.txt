@@ -1,0 +1,74 @@
+2016-07-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Combunists,The Berry Bee Bensons
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Twin Needle,Garbage Snail Kidz
+2016-07-22,NIGHT,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-07-22,DAY,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,BLUE,Resurrection B,Berry Your Dead
+2016-07-22,NIGHT,ECONOMY,BLUE,Resurrection B,Berry Your Dead
+2016-07-22,DAY,SNAIL,BLUE,The Berry Bee Bensons,Full Witch University
+2016-07-22,NIGHT,SNAIL,BLUE,The Berry Bee Bensons,Full Witch University
+2016-07-22,DAY,MILITARY,BLUE,Berry Your Dead,Combunists
+2016-07-22,NIGHT,SNAIL,BLUE,Berry Your Dead,Combunists
+2016-07-22,DAY,MILITARY,GOLD,Resurrection B,Twin Needle
+2016-07-22,NIGHT,MILITARY,GOLD,Resurrection B,Twin Needle
+2016-07-22,DAY,MILITARY,BLUE,Full Witch University,Garbage Snail Kidz
+2016-07-22,NIGHT,ECONOMY,BLUE,Full Witch University,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,BLUE,The Berry Bee Bensons,Berry Your Dead
+2016-07-22,NIGHT,SNAIL,BLUE,The Berry Bee Bensons,Berry Your Dead
+2016-07-22,DAY,MILITARY,GOLD,Combunists,Twin Needle
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,Twin Needle
+2016-07-22,DAY,MILITARY,GOLD,Berry Your Dead,Full Witch University
+2016-07-22,NIGHT,MILITARY,GOLD,Berry Your Dead,Full Witch University
+2016-07-22,DAY,ECONOMY,GOLD,Resurrection B,Garbage Snail Kidz
+2016-07-22,NIGHT,MILITARY,GOLD,Resurrection B,Garbage Snail Kidz
+2016-07-22,DAY,ECONOMY,GOLD,Twin Needle,The Berry Bee Bensons
+2016-07-22,NIGHT,SNAIL,BLUE,Twin Needle,The Berry Bee Bensons
+2016-07-22,DAY,ECONOMY,GOLD,Twin Needle,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Full Witch University,Resurrection B
+2016-07-22,NIGHT,ECONOMY,GOLD,Full Witch University,Resurrection B
+2016-07-22,DAY,ECONOMY,GOLD,Full Witch University,Resurrection B
+2016-07-22,DAY,MILITARY,GOLD,Berry Your Dead,Twin Needle
+2016-07-22,NIGHT,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-07-22,DAY,MILITARY,GOLD,Berry Your Dead,Twin Needle
+2016-07-22,DAY,MILITARY,GOLD,Garbage Snail Kidz,Combunists
+2016-07-22,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Combunists
+2016-07-22,DAY,MILITARY,BLUE,Garbage Snail Kidz,Combunists
+2016-07-22,DAY,MILITARY,GOLD,Twin Needle,Full Witch University
+2016-07-22,NIGHT,ECONOMY,BLUE,Twin Needle,Full Witch University
+2016-07-22,DAY,MILITARY,GOLD,Twin Needle,Full Witch University
+2016-07-22,DAY,MILITARY,BLUE,Combunists,Resurrection B
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,Resurrection B
+2016-07-22,DAY,ECONOMY,GOLD,Combunists,Resurrection B
+2016-07-22,DAY,MILITARY,GOLD,The Berry Bee Bensons,Garbage Snail Kidz
+2016-07-22,NIGHT,MILITARY,BLUE,The Berry Bee Bensons,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,GOLD,The Berry Bee Bensons,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,GOLD,Full Witch University,Combunists
+2016-07-22,NIGHT,ECONOMY,BLUE,Full Witch University,Combunists
+2016-07-22,DAY,MILITARY,BLUE,Full Witch University,Combunists
+2016-07-22,DAY,SNAIL,BLUE,Resurrection B,The Berry Bee Bensons
+2016-07-22,NIGHT,ECONOMY,GOLD,Resurrection B,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Resurrection B,The Berry Bee Bensons
+2016-07-22,DAY,MILITARY,BLUE,Berry Your Dead,Garbage Snail Kidz
+2016-07-22,NIGHT,ECONOMY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-07-22,DAY,MILITARY,BLUE,Berry Your Dead,Garbage Snail Kidz
+2016-07-22,DAY,ECONOMY,GOLD,Combunists,Berry Your Dead
+2016-07-22,NIGHT,ECONOMY,GOLD,Combunists,Berry Your Dead
+2016-07-22,DAY,ECONOMY,GOLD,Combunists,Berry Your Dead
+2016-07-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-22,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-07-22,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-22,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-22,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-22,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-22,NIGHT,MILITARY,GOLD,Gold,Blue

@@ -1,0 +1,85 @@
+2016-07-01,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-07-01,DAY,ECONOMY,GOLD,Gold,Blue
+2016-07-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-07-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-07-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-07-01,DUSK,ECONOMY,GOLD,Gold,Blue
+2016-07-01,NIGHT,ECONOMY,GOLD,Justice Rains from Above,Full Snail University
+2016-07-01,DUSK,MILITARY,GOLD,Justice Rains from Above,Full Snail University
+2016-07-01,NIGHT,MILITARY,BLUE,Ralph Nader's Campaign Donors,Twin Needle
+2016-07-01,DUSK,ECONOMY,BLUE,Ralph Nader's Campaign Donors,Twin Needle
+2016-07-01,NIGHT,ECONOMY,GOLD,Berry Your Dead,Combunists
+2016-07-01,DUSK,ECONOMY,BLUE,Berry Your Dead,Combunists
+2016-07-01,DAY,ECONOMY,BLUE,Berry Your Dead,Combunists
+2016-07-01,NIGHT,MILITARY,GOLD,Full Snail University,Ghost of Beediocre
+2016-07-01,DUSK,MILITARY,GOLD,Full Snail University,Ghost of Beediocre
+2016-07-01,NIGHT,ECONOMY,GOLD,Combunists,Justice Rains from Above
+2016-07-01,DUSK,ECONOMY,BLUE,Combunists,Justice Rains from Above
+2016-07-01,DAY,ECONOMY,GOLD,Combunists,Justice Rains from Above
+2016-07-01,NIGHT,MILITARY,GOLD,Berry Your Dead,Ralph Nader's Campaign Donors
+2016-07-01,DUSK,ECONOMY,GOLD,Berry Your Dead,Ralph Nader's Campaign Donors
+2016-07-01,NIGHT,ECONOMY,GOLD,Ghost of Beediocre,Twin Needle
+2016-07-01,DUSK,MILITARY,BLUE,Ghost of Beediocre,Twin Needle
+2016-07-01,DAY,MILITARY,BLUE,Ghost of Beediocre,Twin Needle
+2016-07-01,NIGHT,MILITARY,BLUE,Full Snail University,Combunists
+2016-07-01,DUSK,ECONOMY,GOLD,Full Snail University,Combunists
+2016-07-01,DAY,MILITARY,GOLD,Full Snail University,Combunists
+2016-07-01,NIGHT,ECONOMY,GOLD,Justice Rains from Above,Ralph Nader's Campaign Donors
+2016-07-01,DUSK,ECONOMY,GOLD,Justice Rains from Above,Ralph Nader's Campaign Donors
+2016-07-01,NIGHT,ECONOMY,BLUE,Combunists,Ghost of Beediocre
+2016-07-01,DUSK,ECONOMY,GOLD,Combunists,Ghost of Beediocre
+2016-07-01,DAY,MILITARY,GOLD,Combunists,Ghost of Beediocre
+2016-07-01,NIGHT,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-07-01,DUSK,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-07-01,NIGHT,MILITARY,BLUE,Ralph Nader's Campaign Donors,Full Snail University
+2016-07-01,DUSK,ECONOMY,BLUE,Ralph Nader's Campaign Donors,Full Snail University
+2016-07-01,NIGHT,ECONOMY,GOLD,Ghost of Beediocre,Berry Your Dead
+2016-07-01,DUSK,MILITARY,BLUE,Ghost of Beediocre,Berry Your Dead
+2016-07-01,DAY,ECONOMY,BLUE,Ghost of Beediocre,Berry Your Dead
+2016-07-01,NIGHT,MILITARY,GOLD,Combunists,Ralph Nader's Campaign Donors
+2016-07-01,DUSK,MILITARY,GOLD,Combunists,Ralph Nader's Campaign Donors
+2016-07-01,NIGHT,ECONOMY,BLUE,Twin Needle,Justice Rains from Above
+2016-07-01,DUSK,ECONOMY,BLUE,Twin Needle,Justice Rains from Above
+2016-07-01,NIGHT,MILITARY,GOLD,Ralph Nader's Campaign Donors,Ghost of Beediocre
+2016-07-01,DUSK,MILITARY,BLUE,Ralph Nader's Campaign Donors,Ghost of Beediocre
+2016-07-01,DAY,MILITARY,BLUE,Ralph Nader's Campaign Donors,Ghost of Beediocre
+2016-07-01,NIGHT,ECONOMY,GOLD,Justice Rains from Above,Berry Your Dead
+2016-07-01,DUSK,MILITARY,GOLD,Justice Rains from Above,Berry Your Dead
+2016-07-01,NIGHT,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-07-01,DUSK,MILITARY,BLUE,Full Snail University,Twin Needle
+2016-07-01,NIGHT,ECONOMY,GOLD,Ghost of Beediocre,Justice Rains from Above
+2016-07-01,DUSK,ECONOMY,BLUE,Ghost of Beediocre,Justice Rains from Above
+2016-07-01,DAY,MILITARY,BLUE,Ghost of Beediocre,Justice Rains from Above
+2016-07-01,NIGHT,MILITARY,GOLD,Berry Your Dead,Full Snail University
+2016-07-01,DUSK,ECONOMY,GOLD,Berry Your Dead,Full Snail University
+2016-07-01,NIGHT,ECONOMY,GOLD,Combunists,Twin Needle
+2016-07-01,DUSK,ECONOMY,GOLD,Combunists,Twin Needle
+2016-07-01,NIGHT,ECONOMY,BLUE,Combunists,Justice Rains from Above
+2016-07-01,DUSK,MILITARY,BLUE,Combunists,Justice Rains from Above
+2016-07-01,DAY,MILITARY,BLUE,Combunists,Justice Rains from Above
+2016-07-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,DAY,ECONOMY,GOLD,Gold,Blue
+2016-07-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-07-01,DAY,SNAIL,BLUE,Gold,Blue
+2016-07-01,DAY,ECONOMY,BLUE,Gold,Blue

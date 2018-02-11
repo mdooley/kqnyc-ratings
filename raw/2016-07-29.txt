@@ -1,0 +1,95 @@
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Full Snail University,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,Full Snail University,You Always Have to Pay
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Don't Bee Evil
+2016-07-29,NIGHT,MILITARY,BLUE,Combunists,Don't Bee Evil
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Don't Bee Evil
+2016-07-29,DAY,MILITARY,GOLD,happybillybirthday.com,Twin Needle
+2016-07-29,NIGHT,SNAIL,GOLD,happybillybirthday.com,Twin Needle
+2016-07-29,DAY,MILITARY,GOLD,Brian You're Dead,Resurrection B
+2016-07-29,NIGHT,ECONOMY,GOLD,Brian You're Dead,Resurrection B
+2016-07-29,DAY,MILITARY,BLUE,Don't Bee Evil,Full Snail University
+2016-07-29,NIGHT,SNAIL,BLUE,Don't Bee Evil,Full Snail University
+2016-07-29,DAY,MILITARY,BLUE,Twin Needle,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,BLUE,Twin Needle,You Always Have to Pay
+2016-07-29,DAY,MILITARY,BLUE,Resurrection B,Combunists
+2016-07-29,NIGHT,ECONOMY,GOLD,Resurrection B,Combunists
+2016-07-29,DAY,SNAIL,BLUE,Resurrection B,Combunists
+2016-07-29,DAY,SNAIL,GOLD,Brian You're Dead,happybillybirthday.com
+2016-07-29,NIGHT,ECONOMY,GOLD,Brian You're Dead,happybillybirthday.com
+2016-07-29,DAY,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-07-29,DAY,ECONOMY,BLUE,Don't Bee Evil,Resurrection B
+2016-07-29,NIGHT,ECONOMY,BLUE,Don't Bee Evil,Resurrection B
+2016-07-29,DAY,SNAIL,BLUE,You Always Have to Pay,Brian You're Dead
+2016-07-29,NIGHT,ECONOMY,BLUE,You Always Have to Pay,Brian You're Dead
+2016-07-29,DAY,MILITARY,BLUE,Combunists,happybillybirthday.com
+2016-07-29,NIGHT,ECONOMY,GOLD,Combunists,happybillybirthday.com
+2016-07-29,DAY,MILITARY,BLUE,Combunists,happybillybirthday.com
+2016-07-29,DAY,MILITARY,GOLD,Resurrection B,Full Snail University
+2016-07-29,NIGHT,ECONOMY,BLUE,Resurrection B,Full Snail University
+2016-07-29,DAY,SNAIL,BLUE,Resurrection B,Full Snail University
+2016-07-29,DAY,MILITARY,GOLD,Brian You're Dead,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Brian You're Dead,Twin Needle
+2016-07-29,DAY,MILITARY,GOLD,happybillybirthday.com,Don't Bee Evil
+2016-07-29,NIGHT,MILITARY,GOLD,happybillybirthday.com,Don't Bee Evil
+2016-07-29,DAY,SNAIL,GOLD,Combunists,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,Combunists,You Always Have to Pay
+2016-07-29,DAY,MILITARY,BLUE,Full Snail University,Brian You're Dead
+2016-07-29,NIGHT,ECONOMY,BLUE,Full Snail University,Brian You're Dead
+2016-07-29,DAY,MILITARY,BLUE,Resurrection B,happybillybirthday.com
+2016-07-29,NIGHT,SNAIL,BLUE,Resurrection B,happybillybirthday.com
+2016-07-29,DAY,MILITARY,BLUE,Twin Needle,Combunists
+2016-07-29,NIGHT,ECONOMY,BLUE,Twin Needle,Combunists
+2016-07-29,DAY,MILITARY,GOLD,Don't Bee Evil,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,Don't Bee Evil,You Always Have to Pay
+2016-07-29,DAY,MILITARY,BLUE,happybillybirthday.com,Full Snail University
+2016-07-29,NIGHT,MILITARY,GOLD,happybillybirthday.com,Full Snail University
+2016-07-29,DAY,MILITARY,BLUE,happybillybirthday.com,Full Snail University
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,NIGHT,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,DAY,ECONOMY,BLUE,You Always Have to Pay,Resurrection B
+2016-07-29,NIGHT,ECONOMY,BLUE,You Always Have to Pay,Resurrection B
+2016-07-29,DAY,MILITARY,GOLD,Don't Bee Evil,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Don't Bee Evil,Twin Needle
+2016-07-29,DAY,MILITARY,GOLD,Full Snail University,Combunists
+2016-07-29,NIGHT,MILITARY,BLUE,Full Snail University,Combunists
+2016-07-29,DAY,SNAIL,BLUE,Full Snail University,Combunists
+2016-07-29,DAY,ECONOMY,GOLD,happybillybirthday.com,You Always Have to Pay
+2016-07-29,NIGHT,MILITARY,GOLD,happybillybirthday.com,You Always Have to Pay
+2016-07-29,DAY,MILITARY,GOLD,Brian You're Dead,Don't Bee Evil
+2016-07-29,NIGHT,MILITARY,GOLD,Brian You're Dead,Don't Bee Evil
+2016-07-29,DAY,MILITARY,GOLD,Resurrection B,Twin Needle
+2016-07-29,NIGHT,ECONOMY,GOLD,Resurrection B,Twin Needle
+2016-07-29,DAY,SNAIL,BLUE,Combunists,Brian You're Dead
+2016-07-29,NIGHT,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,NIGHT,SNAIL,BLUE,Combunists,Brian You're Dead
+2016-07-29,DAY,MILITARY,GOLD,Combunists,Brian You're Dead
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-07-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-07-29,DAY,MILITARY,GOLD,Gold,Blue

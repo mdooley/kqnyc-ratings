@@ -1,0 +1,73 @@
+2016-01-22,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-01-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-01-22,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-01-22,DUSK,MILITARY,GOLD,Gold,Blue
+2016-01-22,DAY,ECONOMY,GOLD,billywitchdoctor.com,NY J Dives
+2016-01-22,DUSK,MILITARY,BLUE,billywitchdoctor.com,NY J Dives
+2016-01-22,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,NY J Dives
+2016-01-22,DAY,MILITARY,GOLD,billywitchdoctor.com,NY J Dives
+2016-01-22,DUSK,MILITARY,BLUE,billywitchdoctor.com,NY J Dives
+2016-01-22,DAY,MILITARY,GOLD,Beediocre,Full Snail University
+2016-01-22,DUSK,ECONOMY,BLUE,Beediocre,Full Snail University
+2016-01-22,NIGHT,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-01-22,DAY,MILITARY,BLUE,Beediocre,Full Snail University
+2016-01-22,DUSK,MILITARY,BLUE,Beediocre,Full Snail University
+2016-01-22,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,NIGHT,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,ECONOMY,GOLD,Beediocre,NY J Dives
+2016-01-22,DUSK,ECONOMY,BLUE,Beediocre,NY J Dives
+2016-01-22,NIGHT,MILITARY,GOLD,Beediocre,NY J Dives
+2016-01-22,DAY,ECONOMY,GOLD,Beediocre,NY J Dives
+2016-01-22,DAY,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DAY,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,DAY,ECONOMY,GOLD,Full Snail University,NY J Dives
+2016-01-22,DUSK,MILITARY,GOLD,Full Snail University,NY J Dives
+2016-01-22,NIGHT,MILITARY,BLUE,Full Snail University,NY J Dives
+2016-01-22,DAY,ECONOMY,BLUE,Full Snail University,NY J Dives
+2016-01-22,DUSK,MILITARY,GOLD,Full Snail University,NY J Dives
+2016-01-22,DAY,MILITARY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-01-22,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beediocre
+2016-01-22,DAY,ECONOMY,GOLD,NY J Dives,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,BLUE,NY J Dives,billywitchdoctor.com
+2016-01-22,NIGHT,ECONOMY,BLUE,NY J Dives,billywitchdoctor.com
+2016-01-22,DAY,MILITARY,BLUE,Beediocre,NY J Dives
+2016-01-22,DUSK,ECONOMY,BLUE,Beediocre,NY J Dives
+2016-01-22,DAY,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,NIGHT,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2016-01-22,DUSK,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,NIGHT,ECONOMY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-01-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-01-22,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-01-22,DUSK,MILITARY,BLUE,Gold,Blue
+2016-01-22,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-01-22,DUSK,MILITARY,GOLD,Gold,Blue
+2016-01-22,DUSK,ECONOMY,BLUE,Gold,Blue
+2016-01-22,DUSK,ECONOMY,GOLD,Gold,Blue
+2016-01-22,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-01-22,DUSK,MILITARY,GOLD,Gold,Blue
+2016-01-22,DAY,MILITARY,GOLD,Gold,Blue
+2016-01-22,DAY,ECONOMY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue
+2016-01-22,DAY,MILITARY,BLUE,Gold,Blue

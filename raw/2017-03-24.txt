@@ -1,0 +1,116 @@
+2017-03-24,DAY,ECONOMY,GOLD,Gold,Blue
+2017-03-24,DAY,MILITARY,GOLD,Gold,Blue
+2017-03-24,DAY,MILITARY,BLUE,Gold,Blue
+2017-03-24,DAY,MILITARY,GOLD,Gold,Blue
+2017-03-24,DAY,MILITARY,BLUE,Gold,Blue
+2017-03-24,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-03-24,DUSK,MILITARY,BLUE,Gold,Blue
+2017-03-24,DUSK,MILITARY,BLUE,Gold,Blue
+2017-03-24,DAY,MILITARY,BLUE,Gold,Blue
+2017-03-24,DAY,MILITARY,BLUE,Gold,Blue
+2017-03-24,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-03-24,DUSK,MILITARY,GOLD,Gold,Blue
+2017-03-24,DUSK,MILITARY,GOLD,Gold,Blue
+2017-03-24,DAY,MILITARY,GOLD,Gold,Blue
+2017-03-24,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-03-24,NIGHT,SNAIL,GOLD,Gold,Blue
+2017-03-24,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-03-24,DAY,ECONOMY,GOLD,Gold,Blue
+2017-03-24,DAY,MILITARY,GOLD,Don't Stop Berry Leaving,'Bage
+2017-03-24,DUSK,ECONOMY,GOLD,Don't Stop Berry Leaving,'Bage
+2017-03-24,DAY,MILITARY,GOLD,Full Snail University,It's Lit Famine
+2017-03-24,DUSK,MILITARY,GOLD,Full Snail University,It's Lit Famine
+2017-03-24,DAY,ECONOMY,BLUE,billywitchdoctor.com,Team Break
+2017-03-24,DUSK,ECONOMY,BLUE,billywitchdoctor.com,Team Break
+2017-03-24,DAY,MILITARY,GOLD,Jay St. - Metrotech Center,Beelix
+2017-03-24,NIGHT,MILITARY,BLUE,Jay St. - Metrotech Center,Beelix
+2017-03-24,DUSK,MILITARY,BLUE,Jay St. - Metrotech Center,Beelix
+2017-03-24,DAY,MILITARY,BLUE,Team Break,Don't Stop Berry Leaving
+2017-03-24,NIGHT,ECONOMY,BLUE,Team Break,Don't Stop Berry Leaving
+2017-03-24,DAY,MILITARY,BLUE,'Bage,DeepHiveMind
+2017-03-24,NIGHT,SNAIL,BLUE,'Bage,DeepHiveMind
+2017-03-24,DAY,MILITARY,GOLD,Beelix,Full Snail University
+2017-03-24,DUSK,ECONOMY,BLUE,Beelix,Full Snail University
+2017-03-24,NIGHT,MILITARY,BLUE,Beelix,Full Snail University
+2017-03-24,DAY,MILITARY,GOLD,Jay St. - Metrotech Center,billywitchdoctor.com
+2017-03-24,NIGHT,MILITARY,BLUE,Jay St. - Metrotech Center,billywitchdoctor.com
+2017-03-24,DUSK,MILITARY,BLUE,Jay St. - Metrotech Center,billywitchdoctor.com
+2017-03-24,DAY,MILITARY,GOLD,DeepHiveMind,It's Lit Famine
+2017-03-24,NIGHT,SNAIL,GOLD,DeepHiveMind,It's Lit Famine
+2017-03-24,DAY,MILITARY,BLUE,'Bage,Team Break
+2017-03-24,NIGHT,ECONOMY,GOLD,'Bage,Team Break
+2017-03-24,DUSK,SNAIL,BLUE,'Bage,Team Break
+2017-03-24,DAY,MILITARY,GOLD,Don't Stop Berry Leaving,Jay St. - Metrotech Center
+2017-03-24,NIGHT,ECONOMY,GOLD,Don't Stop Berry Leaving,Jay St. - Metrotech Center
+2017-03-24,DAY,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2017-03-24,NIGHT,SNAIL,BLUE,Full Snail University,billywitchdoctor.com
+2017-03-24,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2017-03-24,DAY,SNAIL,BLUE,Team Break,DeepHiveMind
+2017-03-24,NIGHT,MILITARY,BLUE,Team Break,DeepHiveMind
+2017-03-24,DAY,MILITARY,GOLD,Beelix,It's Lit Famine
+2017-03-24,DUSK,ECONOMY,GOLD,Beelix,It's Lit Famine
+2017-03-24,DAY,MILITARY,GOLD,Jay St. - Metrotech Center,'Bage
+2017-03-24,NIGHT,ECONOMY,GOLD,Jay St. - Metrotech Center,'Bage
+2017-03-24,DAY,MILITARY,BLUE,Full Snail University,Don't Stop Berry Leaving
+2017-03-24,NIGHT,ECONOMY,BLUE,Full Snail University,Don't Stop Berry Leaving
+2017-03-24,DAY,SNAIL,BLUE,DeepHiveMind,Beelix
+2017-03-24,NIGHT,SNAIL,GOLD,DeepHiveMind,Beelix
+2017-03-24,DUSK,MILITARY,GOLD,DeepHiveMind,Beelix
+2017-03-24,DAY,MILITARY,BLUE,Team Break,Jay St. - Metrotech Center
+2017-03-24,NIGHT,ECONOMY,BLUE,Team Break,Jay St. - Metrotech Center
+2017-03-24,DAY,MILITARY,BLUE,It's Lit Famine,billywitchdoctor.com
+2017-03-24,NIGHT,MILITARY,GOLD,It's Lit Famine,billywitchdoctor.com
+2017-03-24,DUSK,SNAIL,BLUE,It's Lit Famine,billywitchdoctor.com
+2017-03-24,DAY,MILITARY,BLUE,'Bage,Full Snail University
+2017-03-24,NIGHT,MILITARY,BLUE,'Bage,Full Snail University
+2017-03-24,DAY,MILITARY,BLUE,Jay St. - Metrotech Center,DeepHiveMind
+2017-03-24,NIGHT,ECONOMY,GOLD,Jay St. - Metrotech Center,DeepHiveMind
+2017-03-24,DUSK,MILITARY,GOLD,Jay St. - Metrotech Center,DeepHiveMind
+2017-03-24,DAY,MILITARY,BLUE,billywitchdoctor.com,Beelix
+2017-03-24,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Beelix
+2017-03-24,DAY,MILITARY,GOLD,Full Snail University,Team Break
+2017-03-24,NIGHT,SNAIL,GOLD,Full Snail University,Team Break
+2017-03-24,DAY,MILITARY,GOLD,Don't Stop Berry Leaving,It's Lit Famine
+2017-03-24,DUSK,MILITARY,GOLD,Don't Stop Berry Leaving,It's Lit Famine
+2017-03-24,DAY,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-03-24,NIGHT,MILITARY,GOLD,DeepHiveMind,billywitchdoctor.com
+2017-03-24,DAY,MILITARY,BLUE,Jay St. - Metrotech Center,Full Snail University
+2017-03-24,NIGHT,SNAIL,BLUE,Jay St. - Metrotech Center,Full Snail University
+2017-03-24,DAY,MILITARY,BLUE,Beelix,Don't Stop Berry Leaving
+2017-03-24,NIGHT,ECONOMY,BLUE,Beelix,Don't Stop Berry Leaving
+2017-03-24,DAY,MILITARY,GOLD,It's Lit Famine,'Bage
+2017-03-24,NIGHT,MILITARY,BLUE,It's Lit Famine,'Bage
+2017-03-24,DUSK,ECONOMY,GOLD,It's Lit Famine,'Bage
+2017-03-24,DAY,SNAIL,GOLD,Full Snail University,DeepHiveMind
+2017-03-24,DUSK,ECONOMY,GOLD,Full Snail University,DeepHiveMind
+2017-03-24,DAY,MILITARY,BLUE,Don't Stop Berry Leaving,billywitchdoctor.com
+2017-03-24,DUSK,MILITARY,GOLD,Don't Stop Berry Leaving,billywitchdoctor.com
+2017-03-24,NIGHT,ECONOMY,BLUE,Don't Stop Berry Leaving,billywitchdoctor.com
+2017-03-24,DAY,ECONOMY,BLUE,'Bage,Beelix
+2017-03-24,NIGHT,ECONOMY,BLUE,'Bage,Beelix
+2017-03-24,DAY,MILITARY,BLUE,It's Lit Famine,Team Break
+2017-03-24,DUSK,MILITARY,BLUE,It's Lit Famine,Team Break
+2017-03-24,DAY,SNAIL,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DUSK,SNAIL,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DAY,MILITARY,GOLD,billywitchdoctor.com,'Bage
+2017-03-24,NIGHT,MILITARY,GOLD,billywitchdoctor.com,'Bage
+2017-03-24,DAY,MILITARY,BLUE,Jay St. - Metrotech Center,It's Lit Famine
+2017-03-24,NIGHT,MILITARY,GOLD,Jay St. - Metrotech Center,It's Lit Famine
+2017-03-24,DUSK,MILITARY,GOLD,Jay St. - Metrotech Center,It's Lit Famine
+2017-03-24,DAY,MILITARY,BLUE,Beelix,Team Break
+2017-03-24,NIGHT,ECONOMY,GOLD,Beelix,Team Break
+2017-03-24,DUSK,MILITARY,GOLD,Beelix,Team Break
+2017-03-24,DAY,SNAIL,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,NIGHT,MILITARY,BLUE,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DUSK,MILITARY,GOLD,DeepHiveMind,Don't Stop Berry Leaving
+2017-03-24,DAY,SNAIL,BLUE,Full Snail University,DeepHiveMind
+2017-03-24,DUSK,MILITARY,BLUE,Full Snail University,DeepHiveMind
+2017-03-24,NIGHT,MILITARY,BLUE,Full Snail University,DeepHiveMind
+2017-03-24,DUSK,MILITARY,BLUE,Gold,Blue
+2017-03-24,DAY,MILITARY,BLUE,Gold,Blue
+2017-03-24,DAY,MILITARY,GOLD,Gold,Blue
+2017-03-24,DAY,SNAIL,BLUE,Gold,Blue
+2017-03-24,DAY,MILITARY,GOLD,Gold,Blue
+2017-03-24,DAY,MILITARY,GOLD,Gold,Blue
+2017-03-24,DAY,MILITARY,BLUE,Gold,Blue
+2017-03-24,DAY,MILITARY,BLUE,Gold,Blue

@@ -1,0 +1,75 @@
+2016-08-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Dreams Do Comb True
+2016-08-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Dreams Do Comb True
+2016-08-20,DAY,MILITARY,BLUE,Beepocalypse Now,Slow J Simpson
+2016-08-20,DUSK,ECONOMY,BLUE,Beepocalypse Now,Slow J Simpson
+2016-08-20,DAY,MILITARY,GOLD,Beerlung,Moon Jelly
+2016-08-20,DUSK,MILITARY,GOLD,Beerlung,Moon Jelly
+2016-08-20,DAY,ECONOMY,BLUE,Berry Your Dead,Twin Needle
+2016-08-20,DUSK,ECONOMY,GOLD,Berry Your Dead,Twin Needle
+2016-08-20,NIGHT,ECONOMY,BLUE,Berry Your Dead,Twin Needle
+2016-08-20,DAY,MILITARY,GOLD,Dreams Do Comb True,Beepocalypse Now
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Beepocalypse Now
+2016-08-20,DAY,MILITARY,GOLD,Moon Jelly,Garbage Snail Kidz
+2016-08-20,DUSK,MILITARY,GOLD,Moon Jelly,Garbage Snail Kidz
+2016-08-20,DAY,MILITARY,GOLD,Slow J Simpson,Berry Your Dead
+2016-08-20,DUSK,ECONOMY,GOLD,Slow J Simpson,Berry Your Dead
+2016-08-20,DAY,SNAIL,GOLD,Beerlung,Twin Needle
+2016-08-20,DUSK,MILITARY,BLUE,Beerlung,Twin Needle
+2016-08-20,NIGHT,MILITARY,GOLD,Beerlung,Twin Needle
+2016-08-20,DAY,MILITARY,GOLD,Dreams Do Comb True,Moon Jelly
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Moon Jelly
+2016-08-20,DAY,ECONOMY,BLUE,Beepocalypse Now,Berry Your Dead
+2016-08-20,DUSK,SNAIL,GOLD,Beepocalypse Now,Berry Your Dead
+2016-08-20,NIGHT,ECONOMY,BLUE,Beepocalypse Now,Berry Your Dead
+2016-08-20,DAY,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-08-20,DUSK,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-08-20,DAY,SNAIL,BLUE,Slow J Simpson,Beerlung
+2016-08-20,DUSK,MILITARY,GOLD,Slow J Simpson,Beerlung
+2016-08-20,NIGHT,MILITARY,GOLD,Slow J Simpson,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Dreams Do Comb True,Berry Your Dead
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Berry Your Dead
+2016-08-20,NIGHT,MILITARY,GOLD,Dreams Do Comb True,Berry Your Dead
+2016-08-20,DAY,MILITARY,BLUE,Twin Needle,Moon Jelly
+2016-08-20,DUSK,ECONOMY,GOLD,Twin Needle,Moon Jelly
+2016-08-20,NIGHT,ECONOMY,GOLD,Twin Needle,Moon Jelly
+2016-08-20,DAY,ECONOMY,BLUE,Beepocalypse Now,Beerlung
+2016-08-20,DUSK,ECONOMY,BLUE,Beepocalypse Now,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Slow J Simpson
+2016-08-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Slow J Simpson
+2016-08-20,DAY,MILITARY,BLUE,Twin Needle,Dreams Do Comb True
+2016-08-20,DUSK,MILITARY,GOLD,Twin Needle,Dreams Do Comb True
+2016-08-20,NIGHT,MILITARY,BLUE,Twin Needle,Dreams Do Comb True
+2016-08-20,DAY,MILITARY,GOLD,Berry Your Dead,Beerlung
+2016-08-20,DUSK,MILITARY,BLUE,Berry Your Dead,Beerlung
+2016-08-20,NIGHT,MILITARY,BLUE,Berry Your Dead,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Moon Jelly,Slow J Simpson
+2016-08-20,DUSK,MILITARY,BLUE,Moon Jelly,Slow J Simpson
+2016-08-20,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Beepocalypse Now
+2016-08-20,DUSK,SNAIL,GOLD,Garbage Snail Kidz,Beepocalypse Now
+2016-08-20,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Beepocalypse Now
+2016-08-20,DAY,MILITARY,BLUE,Dreams Do Comb True,Beerlung
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-20,NIGHT,MILITARY,BLUE,Dreams Do Comb True,Beerlung
+2016-08-20,DAY,MILITARY,BLUE,Slow J Simpson,Twin Needle
+2016-08-20,DUSK,MILITARY,GOLD,Slow J Simpson,Twin Needle
+2016-08-20,NIGHT,ECONOMY,GOLD,Slow J Simpson,Twin Needle
+2016-08-20,DAY,MILITARY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-08-20,DUSK,MILITARY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-08-20,DAY,MILITARY,GOLD,Beepocalypse Now,Moon Jelly
+2016-08-20,DUSK,MILITARY,BLUE,Beepocalypse Now,Moon Jelly
+2016-08-20,NIGHT,MILITARY,BLUE,Beepocalypse Now,Moon Jelly
+2016-08-20,DAY,MILITARY,BLUE,Slow J Simpson,Dreams Do Comb True
+2016-08-20,DUSK,MILITARY,BLUE,Slow J Simpson,Dreams Do Comb True
+2016-08-20,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beerlung
+2016-08-20,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Beerlung
+2016-08-20,DAY,ECONOMY,GOLD,Twin Needle,Beepocalypse Now
+2016-08-20,DUSK,ECONOMY,GOLD,Twin Needle,Beepocalypse Now
+2016-08-20,DAY,SNAIL,GOLD,Berry Your Dead,Moon Jelly
+2016-08-20,DUSK,ECONOMY,GOLD,Berry Your Dead,Moon Jelly
+2016-08-20,DAY,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-20,DUSK,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-20,NIGHT,MILITARY,GOLD,Dreams Do Comb True,Beerlung
+2016-08-20,DUSK,MILITARY,BLUE,Gold,Blue
+2016-08-20,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-08-20,DAY,MILITARY,GOLD,Gold,Blue
+2016-08-20,DUSK,MILITARY,GOLD,Gold,Blue

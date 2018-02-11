@@ -1,0 +1,59 @@
+2016-06-17,DAY,MILITARY,GOLD,Gold,Blue
+2016-06-17,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-17,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-17,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-06-17,DAY,MILITARY,GOLD,Honey Trap,Garbage Snail Kidz
+2016-06-17,DUSK,MILITARY,BLUE,Honey Trap,Garbage Snail Kidz
+2016-06-17,NIGHT,MILITARY,BLUE,Honey Trap,Garbage Snail Kidz
+2016-06-17,DAY,ECONOMY,GOLD,BEEZE Don't Move,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,GOLD,BEEZE Don't Move,King Kai's Queens
+2016-06-17,DAY,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-06-17,DUSK,MILITARY,BLUE,Berry Your Dead,Twin Needle
+2016-06-17,DAY,SNAIL,BLUE,Garbage Snail Kidz,Full Snail University
+2016-06-17,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Full Snail University
+2016-06-17,DAY,ECONOMY,GOLD,Twin Needle,Honey Trap
+2016-06-17,DUSK,MILITARY,BLUE,Twin Needle,Honey Trap
+2016-06-17,NIGHT,MILITARY,GOLD,Twin Needle,Honey Trap
+2016-06-17,DAY,MILITARY,BLUE,Berry Your Dead,BEEZE Don't Move
+2016-06-17,DUSK,ECONOMY,BLUE,Berry Your Dead,BEEZE Don't Move
+2016-06-17,DAY,MILITARY,GOLD,Full Snail University,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,GOLD,Full Snail University,King Kai's Queens
+2016-06-17,DAY,MILITARY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-06-17,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Twin Needle
+2016-06-17,DAY,MILITARY,BLUE,Honey Trap,BEEZE Don't Move
+2016-06-17,DUSK,ECONOMY,BLUE,Honey Trap,BEEZE Don't Move
+2016-06-17,DAY,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-06-17,DUSK,ECONOMY,BLUE,Twin Needle,Full Snail University
+2016-06-17,DAY,ECONOMY,GOLD,Berry Your Dead,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,GOLD,Berry Your Dead,King Kai's Queens
+2016-06-17,DAY,MILITARY,GOLD,BEEZE Don't Move,Garbage Snail Kidz
+2016-06-17,DUSK,MILITARY,GOLD,BEEZE Don't Move,Garbage Snail Kidz
+2016-06-17,DAY,MILITARY,GOLD,Full Snail University,Berry Your Dead
+2016-06-17,DUSK,MILITARY,GOLD,Full Snail University,Berry Your Dead
+2016-06-17,DAY,ECONOMY,BLUE,Twin Needle,BEEZE Don't Move
+2016-06-17,DUSK,MILITARY,GOLD,Twin Needle,BEEZE Don't Move
+2016-06-17,NIGHT,MILITARY,BLUE,Twin Needle,BEEZE Don't Move
+2016-06-17,DAY,MILITARY,BLUE,King Kai's Queens,Honey Trap
+2016-06-17,DUSK,ECONOMY,GOLD,King Kai's Queens,Honey Trap
+2016-06-17,NIGHT,MILITARY,BLUE,King Kai's Queens,Honey Trap
+2016-06-17,DAY,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,DUSK,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,DAY,MILITARY,GOLD,Honey Trap,Berry Your Dead
+2016-06-17,DUSK,ECONOMY,GOLD,Honey Trap,Berry Your Dead
+2016-06-17,DAY,MILITARY,GOLD,Garbage Snail Kidz,King Kai's Queens
+2016-06-17,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,King Kai's Queens
+2016-06-17,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,King Kai's Queens
+2016-06-17,DAY,MILITARY,GOLD,Full Snail University,Honey Trap
+2016-06-17,DUSK,ECONOMY,GOLD,Full Snail University,Honey Trap
+2016-06-17,DAY,MILITARY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-06-17,DUSK,ECONOMY,GOLD,Berry Your Dead,Garbage Snail Kidz
+2016-06-17,DAY,MILITARY,GOLD,Twin Needle,King Kai's Queens
+2016-06-17,DUSK,MILITARY,GOLD,Twin Needle,King Kai's Queens
+2016-06-17,DAY,MILITARY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,DUSK,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,NIGHT,ECONOMY,GOLD,BEEZE Don't Move,Full Snail University
+2016-06-17,DAY,MILITARY,GOLD,Gold,Blue
+2016-06-17,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-06-17,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-06-17,DUSK,MILITARY,GOLD,Gold,Blue
+2016-06-17,NIGHT,MILITARY,GOLD,Gold,Blue

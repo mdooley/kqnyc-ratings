@@ -1,0 +1,73 @@
+2016-03-25,DAY,MILITARY,BLUE,Gold,Blue
+2016-03-25,DAY,MILITARY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-25,DUSK,MILITARY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-03-25,DAY,MILITARY,GOLD,Twin Needle,Colony Fission
+2016-03-25,DUSK,MILITARY,GOLD,Twin Needle,Colony Fission
+2016-03-25,DAY,ECONOMY,BLUE,Full Snail University,Damish and the Bees
+2016-03-25,DUSK,ECONOMY,BLUE,Full Snail University,Damish and the Bees
+2016-03-25,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-03-25,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-03-25,DAY,MILITARY,GOLD,Damish and the Bees,billywitchdoctor.com
+2016-03-25,DUSK,MILITARY,GOLD,Damish and the Bees,billywitchdoctor.com
+2016-03-25,DAY,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-03-25,DUSK,ECONOMY,GOLD,Full Snail University,Twin Needle
+2016-03-25,DAY,MILITARY,GOLD,Beediocre,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Beediocre,Colony Fission
+2016-03-25,NIGHT,ECONOMY,BLUE,Beediocre,Colony Fission
+2016-03-25,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Damish and the Bees
+2016-03-25,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Damish and the Bees
+2016-03-25,DAY,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-25,DUSK,MILITARY,GOLD,billywitchdoctor.com,Twin Needle
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Beediocre
+2016-03-25,DUSK,ECONOMY,GOLD,Damish and the Bees,Beediocre
+2016-03-25,NIGHT,MILITARY,GOLD,Damish and the Bees,Beediocre
+2016-03-25,DAY,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Twin Needle,Garbage Snail Kidz
+2016-03-25,DUSK,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-03-25,NIGHT,MILITARY,BLUE,Twin Needle,Garbage Snail Kidz
+2016-03-25,DAY,SNAIL,BLUE,Beediocre,Full Snail University
+2016-03-25,DUSK,MILITARY,GOLD,Beediocre,Full Snail University
+2016-03-25,NIGHT,MILITARY,BLUE,Beediocre,Full Snail University
+2016-03-25,DAY,MILITARY,GOLD,Damish and the Bees,Twin Needle
+2016-03-25,DUSK,ECONOMY,GOLD,Damish and the Bees,Twin Needle
+2016-03-25,DAY,ECONOMY,BLUE,Colony Fission,billywitchdoctor.com
+2016-03-25,DUSK,MILITARY,BLUE,Colony Fission,billywitchdoctor.com
+2016-03-25,DAY,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-25,DUSK,ECONOMY,BLUE,Twin Needle,Beediocre
+2016-03-25,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,DUSK,ECONOMY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,DAY,MILITARY,GOLD,Garbage Snail Kidz,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Colony Fission
+2016-03-25,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-25,DUSK,ECONOMY,GOLD,Beediocre,billywitchdoctor.com
+2016-03-25,NIGHT,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-03-25,DAY,MILITARY,BLUE,Full Snail University,Garbage Snail Kidz
+2016-03-25,DUSK,ECONOMY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-03-25,NIGHT,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,DUSK,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,DAY,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2016-03-25,DUSK,ECONOMY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-03-25,DAY,MILITARY,GOLD,Colony Fission,billywitchdoctor.com
+2016-03-25,DUSK,ECONOMY,GOLD,Colony Fission,billywitchdoctor.com
+2016-03-25,DAY,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DUSK,ECONOMY,BLUE,Full Snail University,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,DUSK,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,NIGHT,ECONOMY,GOLD,Damish and the Bees,Colony Fission
+2016-03-25,DAY,MILITARY,BLUE,Damish and the Bees,Colony Fission
+2016-03-25,DAY,MILITARY,GOLD,Gold,Blue
+2016-03-25,DAY,MILITARY,BLUE,Gold,Blue
+2016-03-25,NIGHT,SNAIL,GOLD,Gold,Blue
+2016-03-25,DUSK,MILITARY,GOLD,Gold,Blue
+2016-03-25,DAY,MILITARY,BLUE,Gold,Blue
+2016-03-25,DAY,MILITARY,GOLD,Gold,Blue
+2016-03-25,DUSK,MILITARY,GOLD,Gold,Blue
+2016-03-25,DAY,MILITARY,GOLD,Gold,Blue
+2016-03-25,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-03-25,DAY,ECONOMY,BLUE,Gold,Blue
+2016-03-25,DAY,MILITARY,GOLD,Gold,Blue
+2016-03-25,NIGHT,ECONOMY,GOLD,Gold,Blue

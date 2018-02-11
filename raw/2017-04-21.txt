@@ -1,0 +1,101 @@
+2017-04-21,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-04-21,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-04-21,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-04-21,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-04-21,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-04-21,DUSK,MILITARY,GOLD,Gold,Blue
+2017-04-21,DUSK,MILITARY,GOLD,Gold,Blue
+2017-04-21,DUSK,MILITARY,GOLD,Gold,Blue
+2017-04-21,DUSK,MILITARY,GOLD,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue
+2017-04-21,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-04-21,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-04-21,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-04-21,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-04-21,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue
+2017-04-21,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Friday I'm in Glove,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,Friday I'm in Glove,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,It's Lit Famine
+2017-04-21,NIGHT,MILITARY,GOLD,DeepHiveMind,It's Lit Famine
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,Even Randy
+2017-04-21,NIGHT,ECONOMY,GOLD,Half-Berry Elementary,Even Randy
+2017-04-21,DAY,MILITARY,GOLD,What's Our Team Name,billywitchdoctor@gmail.com
+2017-04-21,NIGHT,MILITARY,BLUE,What's Our Team Name,billywitchdoctor@gmail.com
+2017-04-21,DUSK,MILITARY,BLUE,What's Our Team Name,billywitchdoctor@gmail.com
+2017-04-21,DAY,MILITARY,BLUE,It's Lit Famine,Friday I'm in Glove
+2017-04-21,NIGHT,MILITARY,BLUE,It's Lit Famine,Friday I'm in Glove
+2017-04-21,DAY,MILITARY,GOLD,Even Randy,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,Even Randy,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,BLUE,billywitchdoctor@gmail.com,DeepHiveMind
+2017-04-21,NIGHT,MILITARY,BLUE,billywitchdoctor@gmail.com,DeepHiveMind
+2017-04-21,DAY,SNAIL,BLUE,What's Our Team Name,Half-Berry Elementary
+2017-04-21,NIGHT,SNAIL,BLUE,What's Our Team Name,Half-Berry Elementary
+2017-04-21,DAY,MILITARY,GOLD,Friday I'm in Glove,Even Randy
+2017-04-21,DUSK,MILITARY,GOLD,Friday I'm in Glove,Even Randy
+2017-04-21,DAY,MILITARY,BLUE,It's Lit Famine,billywitchdoctor@gmail.com
+2017-04-21,NIGHT,MILITARY,BLUE,It's Lit Famine,billywitchdoctor@gmail.com
+2017-04-21,DAY,MILITARY,BLUE,Garbage Snail Kidz,What's Our Team Name
+2017-04-21,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,What's Our Team Name
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,Half-Berry Elementary
+2017-04-21,DUSK,MILITARY,BLUE,DeepHiveMind,Half-Berry Elementary
+2017-04-21,NIGHT,ECONOMY,BLUE,DeepHiveMind,Half-Berry Elementary
+2017-04-21,DAY,MILITARY,BLUE,billywitchdoctor@gmail.com,Friday I'm in Glove
+2017-04-21,DUSK,SNAIL,BLUE,billywitchdoctor@gmail.com,Friday I'm in Glove
+2017-04-21,DAY,MILITARY,GOLD,What's Our Team Name,Even Randy
+2017-04-21,NIGHT,MILITARY,GOLD,What's Our Team Name,Even Randy
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,It's Lit Famine
+2017-04-21,NIGHT,ECONOMY,GOLD,Half-Berry Elementary,It's Lit Famine
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,DeepHiveMind,Garbage Snail Kidz
+2017-04-21,DAY,SNAIL,GOLD,Friday I'm in Glove,What's Our Team Name
+2017-04-21,NIGHT,SNAIL,GOLD,Friday I'm in Glove,What's Our Team Name
+2017-04-21,DAY,MILITARY,GOLD,billywitchdoctor@gmail.com,Half-Berry Elementary
+2017-04-21,DUSK,ECONOMY,BLUE,billywitchdoctor@gmail.com,Half-Berry Elementary
+2017-04-21,NIGHT,MILITARY,BLUE,billywitchdoctor@gmail.com,Half-Berry Elementary
+2017-04-21,DAY,MILITARY,BLUE,Even Randy,DeepHiveMind
+2017-04-21,NIGHT,MILITARY,BLUE,Even Randy,DeepHiveMind
+2017-04-21,DAY,MILITARY,GOLD,It's Lit Famine,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,GOLD,It's Lit Famine,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,NIGHT,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DUSK,ECONOMY,GOLD,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DAY,MILITARY,GOLD,DeepHiveMind,What's Our Team Name
+2017-04-21,NIGHT,MILITARY,BLUE,DeepHiveMind,What's Our Team Name
+2017-04-21,DUSK,MILITARY,GOLD,DeepHiveMind,What's Our Team Name
+2017-04-21,DAY,MILITARY,BLUE,Garbage Snail Kidz,billywitchdoctor@gmail.com
+2017-04-21,NIGHT,MILITARY,BLUE,Garbage Snail Kidz,billywitchdoctor@gmail.com
+2017-04-21,DAY,MILITARY,BLUE,It's Lit Famine,Even Randy
+2017-04-21,NIGHT,MILITARY,BLUE,It's Lit Famine,Even Randy
+2017-04-21,DAY,MILITARY,GOLD,Friday I'm in Glove,DeepHiveMind
+2017-04-21,NIGHT,MILITARY,GOLD,Friday I'm in Glove,DeepHiveMind
+2017-04-21,DAY,MILITARY,GOLD,Half-Berry Elementary,Garbage Snail Kidz
+2017-04-21,NIGHT,MILITARY,BLUE,Half-Berry Elementary,Garbage Snail Kidz
+2017-04-21,DUSK,MILITARY,GOLD,Half-Berry Elementary,Garbage Snail Kidz
+2017-04-21,DAY,MILITARY,GOLD,What's Our Team Name,It's Lit Famine
+2017-04-21,NIGHT,MILITARY,GOLD,What's Our Team Name,It's Lit Famine
+2017-04-21,DAY,MILITARY,GOLD,billywitchdoctor@gmail.com,Even Randy
+2017-04-21,NIGHT,SNAIL,GOLD,billywitchdoctor@gmail.com,Even Randy
+2017-04-21,DAY,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DUSK,MILITARY,GOLD,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,NIGHT,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DUSK,MILITARY,BLUE,Half-Berry Elementary,Friday I'm in Glove
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue
+2017-04-21,DUSK,MILITARY,BLUE,Gold,Blue
+2017-04-21,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-04-21,DAY,MILITARY,BLUE,Gold,Blue
+2017-04-21,DAY,MILITARY,GOLD,Gold,Blue

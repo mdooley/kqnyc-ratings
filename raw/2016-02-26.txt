@@ -1,0 +1,76 @@
+2016-02-26,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-02-26,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-02-26,DUSK,MILITARY,GOLD,Gold,Blue
+2016-02-26,DUSK,MILITARY,GOLD,Gold,Blue
+2016-02-26,DAY,SNAIL,BLUE,Gold,Blue
+2016-02-26,DAY,MILITARY,GOLD,billywitchdoctor.com,The Oregon Snails
+2016-02-26,DUSK,ECONOMY,BLUE,billywitchdoctor.com,The Oregon Snails
+2016-02-26,NIGHT,MILITARY,GOLD,billywitchdoctor.com,The Oregon Snails
+2016-02-26,DAY,MILITARY,GOLD,Beauty and the Bees,Twin Needle
+2016-02-26,NIGHT,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,Full Snail University
+2016-02-26,DUSK,MILITARY,BLUE,Jackson Hive,Full Snail University
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,The Bumblebots
+2016-02-26,DUSK,ECONOMY,GOLD,Beediocre,The Bumblebots
+2016-02-26,DAY,ECONOMY,BLUE,Twin Needle,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,BLUE,Twin Needle,billywitchdoctor.com
+2016-02-26,DAY,MILITARY,BLUE,Full Snail University,The Oregon Snails
+2016-02-26,DUSK,ECONOMY,GOLD,Full Snail University,The Oregon Snails
+2016-02-26,NIGHT,MILITARY,BLUE,Full Snail University,The Oregon Snails
+2016-02-26,DAY,ECONOMY,BLUE,The Bumblebots,Beauty and the Bees
+2016-02-26,DUSK,MILITARY,BLUE,The Bumblebots,Beauty and the Bees
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,Jackson Hive
+2016-02-26,DUSK,MILITARY,GOLD,Beediocre,Jackson Hive
+2016-02-26,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Snail University
+2016-02-26,DUSK,MILITARY,GOLD,billywitchdoctor.com,Full Snail University
+2016-02-26,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Full Snail University
+2016-02-26,DAY,ECONOMY,BLUE,Twin Needle,The Bumblebots
+2016-02-26,DUSK,ECONOMY,GOLD,Twin Needle,The Bumblebots
+2016-02-26,NIGHT,ECONOMY,BLUE,Twin Needle,The Bumblebots
+2016-02-26,DAY,ECONOMY,BLUE,The Oregon Snails,Beediocre
+2016-02-26,DUSK,MILITARY,GOLD,The Oregon Snails,Beediocre
+2016-02-26,NIGHT,ECONOMY,BLUE,The Oregon Snails,Beediocre
+2016-02-26,DAY,MILITARY,GOLD,Beauty and the Bees,Jackson Hive
+2016-02-26,DUSK,MILITARY,GOLD,Beauty and the Bees,Jackson Hive
+2016-02-26,DAY,MILITARY,BLUE,The Bumblebots,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,BLUE,The Bumblebots,billywitchdoctor.com
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-02-26,DUSK,ECONOMY,BLUE,Beediocre,Full Snail University
+2016-02-26,NIGHT,ECONOMY,GOLD,Beediocre,Full Snail University
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,Twin Needle
+2016-02-26,DUSK,SNAIL,BLUE,Jackson Hive,Twin Needle
+2016-02-26,DAY,MILITARY,BLUE,Beauty and the Bees,The Oregon Snails
+2016-02-26,DUSK,MILITARY,BLUE,Beauty and the Bees,The Oregon Snails
+2016-02-26,DAY,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-26,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2016-02-26,DAY,ECONOMY,GOLD,The Bumblebots,Jackson Hive
+2016-02-26,DUSK,MILITARY,GOLD,The Bumblebots,Jackson Hive
+2016-02-26,DAY,MILITARY,GOLD,Full Snail University,Beauty and the Bees
+2016-02-26,DUSK,ECONOMY,BLUE,Full Snail University,Beauty and the Bees
+2016-02-26,NIGHT,MILITARY,BLUE,Full Snail University,Beauty and the Bees
+2016-02-26,DAY,MILITARY,BLUE,Twin Needle,The Oregon Snails
+2016-02-26,DUSK,MILITARY,GOLD,Twin Needle,The Oregon Snails
+2016-02-26,NIGHT,ECONOMY,BLUE,Twin Needle,The Oregon Snails
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,BLUE,Jackson Hive,billywitchdoctor.com
+2016-02-26,DAY,MILITARY,BLUE,Beauty and the Bees,Beediocre
+2016-02-26,DUSK,MILITARY,GOLD,Beauty and the Bees,Beediocre
+2016-02-26,NIGHT,SNAIL,GOLD,Beauty and the Bees,Beediocre
+2016-02-26,DAY,MILITARY,GOLD,The Oregon Snails,The Bumblebots
+2016-02-26,DUSK,ECONOMY,BLUE,The Oregon Snails,The Bumblebots
+2016-02-26,NIGHT,MILITARY,GOLD,The Oregon Snails,The Bumblebots
+2016-02-26,DAY,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-02-26,DUSK,MILITARY,BLUE,Twin Needle,Full Snail University
+2016-02-26,DAY,MILITARY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2016-02-26,DUSK,MILITARY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2016-02-26,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2016-02-26,DAY,MILITARY,BLUE,Jackson Hive,The Oregon Snails
+2016-02-26,DUSK,MILITARY,BLUE,Jackson Hive,The Oregon Snails
+2016-02-26,DAY,ECONOMY,GOLD,Beediocre,Twin Needle
+2016-02-26,DUSK,ECONOMY,GOLD,Beediocre,Twin Needle
+2016-02-26,DAY,SNAIL,BLUE,The Bumblebots,Full Snail University
+2016-02-26,DUSK,MILITARY,BLUE,The Bumblebots,Full Snail University
+2016-02-26,DAY,ECONOMY,BLUE,Beauty and the Bees,billywitchdoctor.com
+2016-02-26,DUSK,MILITARY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2016-02-26,NIGHT,MILITARY,GOLD,Beauty and the Bees,billywitchdoctor.com
+2016-02-26,DAY,MILITARY,GOLD,Beauty and the Bees,billywitchdoctor.com

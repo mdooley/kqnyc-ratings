@@ -1,0 +1,91 @@
+2016-04-01,DAY,MILITARY,GOLD,Beediocre,Beez Kneez
+2016-04-01,DUSK,MILITARY,GOLD,Beediocre,Beez Kneez
+2016-04-01,DAY,MILITARY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-04-01,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Garbage Snail Kidz
+2016-04-01,DAY,MILITARY,BLUE,Twin Needle,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Twin Needle,Legendberry
+2016-04-01,DAY,MILITARY,BLUE,Full Phoenix University,Beauty and the Frieze
+2016-04-01,DUSK,MILITARY,BLUE,Full Phoenix University,Beauty and the Frieze
+2016-04-01,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beediocre
+2016-04-01,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Beediocre
+2016-04-01,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Beediocre
+2016-04-01,DAY,ECONOMY,GOLD,Legendberry,Beez Kneez
+2016-04-01,DUSK,SNAIL,GOLD,Legendberry,Beez Kneez
+2016-04-01,DAY,MILITARY,GOLD,Beauty and the Frieze,billywitchdoctor.com
+2016-04-01,DUSK,MILITARY,GOLD,Beauty and the Frieze,billywitchdoctor.com
+2016-04-01,DAY,ECONOMY,GOLD,Full Phoenix University,Twin Needle
+2016-04-01,DUSK,MILITARY,BLUE,Full Phoenix University,Twin Needle
+2016-04-01,NIGHT,SNAIL,GOLD,Full Phoenix University,Twin Needle
+2016-04-01,DAY,ECONOMY,BLUE,Beediocre,Legendberry
+2016-04-01,DUSK,ECONOMY,GOLD,Beediocre,Legendberry
+2016-04-01,NIGHT,MILITARY,BLUE,Beediocre,Legendberry
+2016-04-01,DAY,MILITARY,BLUE,Garbage Snail Kidz,Beauty and the Frieze
+2016-04-01,DUSK,SNAIL,BLUE,Garbage Snail Kidz,Beauty and the Frieze
+2016-04-01,DAY,ECONOMY,BLUE,Beez Kneez,Full Phoenix University
+2016-04-01,DUSK,ECONOMY,BLUE,Beez Kneez,Full Phoenix University
+2016-04-01,DAY,MILITARY,BLUE,billywitchdoctor.com,Twin Needle
+2016-04-01,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Twin Needle
+2016-04-01,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Twin Needle
+2016-04-01,DAY,MILITARY,GOLD,Beauty and the Frieze,Beediocre
+2016-04-01,DUSK,ECONOMY,GOLD,Beauty and the Frieze,Beediocre
+2016-04-01,DAY,MILITARY,GOLD,Full Phoenix University,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Full Phoenix University,Legendberry
+2016-04-01,NIGHT,ECONOMY,BLUE,Full Phoenix University,Legendberry
+2016-04-01,DAY,MILITARY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-04-01,DUSK,ECONOMY,GOLD,Twin Needle,Garbage Snail Kidz
+2016-04-01,DAY,MILITARY,GOLD,billywitchdoctor.com,Beez Kneez
+2016-04-01,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beez Kneez
+2016-04-01,DAY,MILITARY,BLUE,Beediocre,Full Phoenix University
+2016-04-01,DUSK,ECONOMY,BLUE,Beediocre,Full Phoenix University
+2016-04-01,DAY,MILITARY,BLUE,Beauty and the Frieze,Twin Needle
+2016-04-01,DUSK,MILITARY,GOLD,Beauty and the Frieze,Twin Needle
+2016-04-01,NIGHT,ECONOMY,GOLD,Beauty and the Frieze,Twin Needle
+2016-04-01,DAY,ECONOMY,BLUE,Legendberry,billywitchdoctor.com
+2016-04-01,DUSK,ECONOMY,GOLD,Legendberry,billywitchdoctor.com
+2016-04-01,NIGHT,ECONOMY,BLUE,Legendberry,billywitchdoctor.com
+2016-04-01,DAY,MILITARY,BLUE,Beez Kneez,Garbage Snail Kidz
+2016-04-01,DUSK,MILITARY,BLUE,Beez Kneez,Garbage Snail Kidz
+2016-04-01,DAY,SNAIL,GOLD,Twin Needle,Beediocre
+2016-04-01,DUSK,ECONOMY,GOLD,Twin Needle,Beediocre
+2016-04-01,DAY,MILITARY,BLUE,billywitchdoctor.com,Full Phoenix University
+2016-04-01,DUSK,ECONOMY,GOLD,billywitchdoctor.com,Full Phoenix University
+2016-04-01,NIGHT,MILITARY,BLUE,billywitchdoctor.com,Full Phoenix University
+2016-04-01,DAY,SNAIL,BLUE,Beez Kneez,Beauty and the Frieze
+2016-04-01,DUSK,MILITARY,BLUE,Beez Kneez,Beauty and the Frieze
+2016-04-01,DAY,ECONOMY,BLUE,Garbage Snail Kidz,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Legendberry
+2016-04-01,DAY,MILITARY,BLUE,Beediocre,billywitchdoctor.com
+2016-04-01,DUSK,ECONOMY,BLUE,Beediocre,billywitchdoctor.com
+2016-04-01,DAY,ECONOMY,GOLD,Twin Needle,Beez Kneez
+2016-04-01,DUSK,ECONOMY,GOLD,Twin Needle,Beez Kneez
+2016-04-01,DAY,MILITARY,GOLD,Full Phoenix University,Garbage Snail Kidz
+2016-04-01,DUSK,ECONOMY,GOLD,Full Phoenix University,Garbage Snail Kidz
+2016-04-01,DAY,MILITARY,BLUE,Beauty and the Frieze,Legendberry
+2016-04-01,DUSK,MILITARY,BLUE,Beauty and the Frieze,Legendberry
+2016-04-01,DAY,ECONOMY,BLUE,Legendberry,Beauty and the Frieze
+2016-04-01,DUSK,ECONOMY,BLUE,Legendberry,Beauty and the Frieze
+2016-04-01,NIGHT,ECONOMY,BLUE,Legendberry,Beauty and the Frieze
+2016-04-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-04-01,DUSK,MILITARY,GOLD,Gold,Blue
+2016-04-01,DUSK,MILITARY,BLUE,Gold,Blue
+2016-04-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-04-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-04-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-04-01,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-04-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-04-01,NIGHT,SNAIL,GOLD,Gold,Blue
+2016-04-01,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-04-01,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-04-01,DUSK,MILITARY,BLUE,Gold,Blue
+2016-04-01,DUSK,MILITARY,BLUE,Gold,Blue
+2016-04-01,DUSK,SNAIL,GOLD,Gold,Blue
+2016-04-01,DUSK,MILITARY,GOLD,Gold,Blue
+2016-04-01,DUSK,MILITARY,GOLD,Gold,Blue
+2016-04-01,DUSK,MILITARY,GOLD,Gold,Blue
+2016-04-01,DAY,MILITARY,GOLD,Gold,Blue
+2016-04-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-04-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-04-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-04-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-04-01,DAY,MILITARY,BLUE,Gold,Blue
+2016-04-01,NIGHT,MILITARY,GOLD,Gold,Blue

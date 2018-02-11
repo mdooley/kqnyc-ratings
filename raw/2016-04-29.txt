@@ -1,0 +1,68 @@
+2016-04-29,DAY,MILITARY,BLUE,Gold,Blue
+2016-04-29,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-04-29,DAY,ECONOMY,GOLD,Twin Needle,BeeBee Guns
+2016-04-29,DUSK,MILITARY,GOLD,Twin Needle,BeeBee Guns
+2016-04-29,DAY,MILITARY,BLUE,Apaphobia,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,Apaphobia,lowtierdoctor.com
+2016-04-29,DAY,MILITARY,BLUE,TAMN,Beezus Christ Super Snail
+2016-04-29,DUSK,ECONOMY,BLUE,TAMN,Beezus Christ Super Snail
+2016-04-29,DAY,ECONOMY,GOLD,BeeBee Guns,Full Snail University
+2016-04-29,DUSK,MILITARY,BLUE,BeeBee Guns,Full Snail University
+2016-04-29,NIGHT,MILITARY,BLUE,BeeBee Guns,Full Snail University
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,Twin Needle
+2016-04-29,DUSK,MILITARY,GOLD,Beezus Christ Super Snail,Twin Needle
+2016-04-29,NIGHT,ECONOMY,GOLD,Beezus Christ Super Snail,Twin Needle
+2016-04-29,DAY,ECONOMY,BLUE,TAMN,Apaphobia
+2016-04-29,DUSK,MILITARY,BLUE,TAMN,Apaphobia
+2016-04-29,DAY,MILITARY,GOLD,Full Snail University,lowtierdoctor.com
+2016-04-29,DUSK,ECONOMY,BLUE,Full Snail University,lowtierdoctor.com
+2016-04-29,NIGHT,MILITARY,BLUE,Full Snail University,lowtierdoctor.com
+2016-04-29,DAY,ECONOMY,BLUE,BeeBee Guns,Beezus Christ Super Snail
+2016-04-29,DUSK,ECONOMY,GOLD,BeeBee Guns,Beezus Christ Super Snail
+2016-04-29,NIGHT,ECONOMY,BLUE,BeeBee Guns,Beezus Christ Super Snail
+2016-04-29,DAY,ECONOMY,BLUE,Twin Needle,Apaphobia
+2016-04-29,DUSK,ECONOMY,BLUE,Twin Needle,Apaphobia
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,Full Snail University
+2016-04-29,DUSK,MILITARY,BLUE,Beezus Christ Super Snail,Full Snail University
+2016-04-29,DAY,MILITARY,GOLD,TAMN,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,TAMN,lowtierdoctor.com
+2016-04-29,NIGHT,ECONOMY,BLUE,TAMN,lowtierdoctor.com
+2016-04-29,DAY,MILITARY,GOLD,Apaphobia,BeeBee Guns
+2016-04-29,DUSK,ECONOMY,GOLD,Apaphobia,BeeBee Guns
+2016-04-29,DAY,MILITARY,GOLD,Full Snail University,TAMN
+2016-04-29,DUSK,MILITARY,GOLD,Full Snail University,TAMN
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,Apaphobia
+2016-04-29,DUSK,ECONOMY,GOLD,Beezus Christ Super Snail,Apaphobia
+2016-04-29,NIGHT,ECONOMY,GOLD,Beezus Christ Super Snail,Apaphobia
+2016-04-29,DAY,MILITARY,GOLD,lowtierdoctor.com,Twin Needle
+2016-04-29,DUSK,ECONOMY,GOLD,lowtierdoctor.com,Twin Needle
+2016-04-29,DAY,MILITARY,BLUE,Apaphobia,Full Snail University
+2016-04-29,DUSK,ECONOMY,GOLD,Apaphobia,Full Snail University
+2016-04-29,NIGHT,MILITARY,BLUE,Apaphobia,Full Snail University
+2016-04-29,DAY,ECONOMY,BLUE,Twin Needle,TAMN
+2016-04-29,DUSK,ECONOMY,BLUE,Twin Needle,TAMN
+2016-04-29,DAY,ECONOMY,BLUE,BeeBee Guns,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,BeeBee Guns,lowtierdoctor.com
+2016-04-29,DAY,SNAIL,GOLD,Full Snail University,Twin Needle
+2016-04-29,DUSK,MILITARY,GOLD,Full Snail University,Twin Needle
+2016-04-29,DAY,MILITARY,GOLD,TAMN,BeeBee Guns
+2016-04-29,DUSK,ECONOMY,BLUE,TAMN,BeeBee Guns
+2016-04-29,NIGHT,MILITARY,BLUE,TAMN,BeeBee Guns
+2016-04-29,DAY,MILITARY,BLUE,Beezus Christ Super Snail,lowtierdoctor.com
+2016-04-29,DUSK,MILITARY,BLUE,Beezus Christ Super Snail,lowtierdoctor.com
+2016-04-29,DAY,MILITARY,BLUE,lowtierdoctor.com,Full Snail University
+2016-04-29,DUSK,ECONOMY,GOLD,lowtierdoctor.com,Full Snail University
+2016-04-29,NIGHT,ECONOMY,BLUE,lowtierdoctor.com,Full Snail University
+2016-04-29,DAY,MILITARY,BLUE,lowtierdoctor.com,Full Snail University
+2016-04-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-04-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-04-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-04-29,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-04-29,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-04-29,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-04-29,DUSK,MILITARY,BLUE,Gold,Blue
+2016-04-29,DAY,ECONOMY,BLUE,Gold,Blue
+2016-04-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-04-29,DAY,MILITARY,GOLD,Gold,Blue
+2016-04-29,DUSK,ECONOMY,GOLD,Gold,Blue
+2016-04-29,NIGHT,MILITARY,GOLD,Gold,Blue

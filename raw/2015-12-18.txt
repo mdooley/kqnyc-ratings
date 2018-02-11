@@ -1,0 +1,105 @@
+2015-12-18,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DUSK,ECONOMY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,ECONOMY,BLUE,Full Snail University,Beediocre
+2015-12-18,DUSK,ECONOMY,BLUE,Full Snail University,Beediocre
+2015-12-18,DAY,ECONOMY,GOLD,billywitchdoctor.com,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,BLUE,billywitchdoctor.com,Queen for the Holidays
+2015-12-18,NIGHT,ECONOMY,GOLD,billywitchdoctor.com,Queen for the Holidays
+2015-12-18,DAY,ECONOMY,GOLD,Twin Needle,Pharm Team
+2015-12-18,DUSK,ECONOMY,GOLD,Twin Needle,Pharm Team
+2015-12-18,DAY,MILITARY,BLUE,Beediocre,Beauty and the Bees
+2015-12-18,DUSK,ECONOMY,BLUE,Beediocre,Beauty and the Bees
+2015-12-18,DAY,ECONOMY,GOLD,Pharm Team,Full Snail University
+2015-12-18,DUSK,ECONOMY,GOLD,Pharm Team,Full Snail University
+2015-12-18,DAY,MILITARY,GOLD,Twin Needle,billywitchdoctor.com
+2015-12-18,DUSK,ECONOMY,GOLD,Twin Needle,billywitchdoctor.com
+2015-12-18,DAY,MILITARY,GOLD,Beauty and the Bees,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,BLUE,Beauty and the Bees,Queen for the Holidays
+2015-12-18,NIGHT,MILITARY,BLUE,Beauty and the Bees,Queen for the Holidays
+2015-12-18,DAY,MILITARY,GOLD,Beediocre,Pharm Team
+2015-12-18,DUSK,MILITARY,GOLD,Beediocre,Pharm Team
+2015-12-18,DAY,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2015-12-18,DUSK,MILITARY,GOLD,Full Snail University,billywitchdoctor.com
+2015-12-18,NIGHT,MILITARY,BLUE,Full Snail University,billywitchdoctor.com
+2015-12-18,DAY,MILITARY,BLUE,Pharm Team,Beauty and the Bees
+2015-12-18,DUSK,MILITARY,BLUE,Pharm Team,Beauty and the Bees
+2015-12-18,DAY,MILITARY,BLUE,Twin Needle,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,GOLD,Twin Needle,Queen for the Holidays
+2015-12-18,NIGHT,MILITARY,BLUE,Twin Needle,Queen for the Holidays
+2015-12-18,DAY,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2015-12-18,DUSK,MILITARY,GOLD,billywitchdoctor.com,Beediocre
+2015-12-18,DAY,MILITARY,GOLD,Beauty and the Bees,Twin Needle
+2015-12-18,DUSK,ECONOMY,BLUE,Beauty and the Bees,Twin Needle
+2015-12-18,NIGHT,ECONOMY,GOLD,Beauty and the Bees,Twin Needle
+2015-12-18,DAY,MILITARY,BLUE,Pharm Team,billywitchdoctor.com
+2015-12-18,DUSK,MILITARY,BLUE,Pharm Team,billywitchdoctor.com
+2015-12-18,DAY,MILITARY,BLUE,Queen for the Holidays,Full Snail University
+2015-12-18,DUSK,MILITARY,GOLD,Queen for the Holidays,Full Snail University
+2015-12-18,NIGHT,MILITARY,GOLD,Queen for the Holidays,Full Snail University
+2015-12-18,DAY,ECONOMY,GOLD,billywitchdoctor.com,Beauty and the Bees
+2015-12-18,DUSK,MILITARY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2015-12-18,NIGHT,ECONOMY,BLUE,billywitchdoctor.com,Beauty and the Bees
+2015-12-18,DAY,ECONOMY,BLUE,Full Snail University,Twin Needle
+2015-12-18,DUSK,MILITARY,BLUE,Full Snail University,Twin Needle
+2015-12-18,DAY,ECONOMY,BLUE,Beediocre,Queen for the Holidays
+2015-12-18,DUSK,MILITARY,BLUE,Beediocre,Queen for the Holidays
+2015-12-18,DAY,MILITARY,BLUE,Beauty and the Bees,Full Snail University
+2015-12-18,DUSK,ECONOMY,GOLD,Beauty and the Bees,Full Snail University
+2015-12-18,NIGHT,MILITARY,GOLD,Beauty and the Bees,Full Snail University
+2015-12-18,DAY,ECONOMY,GOLD,Twin Needle,Beediocre
+2015-12-18,DUSK,ECONOMY,GOLD,Twin Needle,Beediocre
+2015-12-18,DAY,MILITARY,BLUE,Pharm Team,Queen for the Holidays
+2015-12-18,DUSK,ECONOMY,BLUE,Pharm Team,Queen for the Holidays
+2015-12-18,DAY,MILITARY,GOLD,Queen for the Holidays,Beauty and the Bees
+2015-12-18,DUSK,MILITARY,GOLD,Queen for the Holidays,Beauty and the Bees
+2015-12-18,NIGHT,ECONOMY,GOLD,Queen for the Holidays,Beauty and the Bees
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-18,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,ECONOMY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,BLUE,Gold,Blue
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,SNAIL,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,BLUE,Gold,Blue
+2015-12-18,DUSK,MILITARY,BLUE,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,ECONOMY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,GOLD,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DUSK,SNAIL,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,NIGHT,ECONOMY,BLUE,Gold,Blue
+2015-12-18,DUSK,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,DAY,MILITARY,BLUE,Gold,Blue
+2015-12-18,DAY,SNAIL,BLUE,Gold,Blue
+2015-12-18,DAY,MILITARY,GOLD,Gold,Blue
+2015-12-18,NIGHT,MILITARY,BLUE,Gold,Blue

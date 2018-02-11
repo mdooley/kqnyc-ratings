@@ -1,0 +1,79 @@
+2016-05-06,DAY,MILITARY,GOLD,Gold,Blue
+2016-05-06,DAY,MILITARY,GOLD,Full Snail University,Yes Queens
+2016-05-06,DUSK,MILITARY,GOLD,Full Snail University,Yes Queens
+2016-05-06,DAY,MILITARY,GOLD,Snail Bait,Wanna-Bee Athletes
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Wanna-Bee Athletes
+2016-05-06,DAY,MILITARY,BLUE,You Only Live Thrice,Garbage Snail Kidz
+2016-05-06,DUSK,MILITARY,GOLD,You Only Live Thrice,Garbage Snail Kidz
+2016-05-06,NIGHT,ECONOMY,BLUE,You Only Live Thrice,Garbage Snail Kidz
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,GOLD,Bees by Dre,Sting Stang Stung
+2016-05-06,DAY,MILITARY,GOLD,Yes Queens,Blue on Gold on Blue
+2016-05-06,DUSK,MILITARY,GOLD,Yes Queens,Blue on Gold on Blue
+2016-05-06,DAY,MILITARY,BLUE,You Only Live Thrice,Wanna-Bee Athletes
+2016-05-06,DUSK,MILITARY,GOLD,You Only Live Thrice,Wanna-Bee Athletes
+2016-05-06,NIGHT,SNAIL,GOLD,You Only Live Thrice,Wanna-Bee Athletes
+2016-05-06,DAY,ECONOMY,GOLD,Snail Bait,Garbage Snail Kidz
+2016-05-06,DUSK,MILITARY,GOLD,Snail Bait,Garbage Snail Kidz
+2016-05-06,DAY,MILITARY,GOLD,Full Snail University,Bees by Dre
+2016-05-06,DUSK,ECONOMY,BLUE,Full Snail University,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,BLUE,Full Snail University,Bees by Dre
+2016-05-06,DAY,MILITARY,GOLD,Garbage Snail Kidz,Yes Queens
+2016-05-06,DUSK,ECONOMY,BLUE,Garbage Snail Kidz,Yes Queens
+2016-05-06,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Yes Queens
+2016-05-06,DAY,MILITARY,BLUE,Full Snail University,You Only Live Thrice
+2016-05-06,DUSK,MILITARY,GOLD,Full Snail University,You Only Live Thrice
+2016-05-06,NIGHT,MILITARY,GOLD,Full Snail University,You Only Live Thrice
+2016-05-06,DAY,ECONOMY,GOLD,Blue on Gold on Blue,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,BLUE,Blue on Gold on Blue,Sting Stang Stung
+2016-05-06,NIGHT,ECONOMY,BLUE,Blue on Gold on Blue,Sting Stang Stung
+2016-05-06,DAY,MILITARY,BLUE,Snail Bait,Bees by Dre
+2016-05-06,DUSK,MILITARY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,DAY,MILITARY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-06,DUSK,MILITARY,BLUE,Garbage Snail Kidz,Sting Stang Stung
+2016-05-06,DAY,MILITARY,GOLD,Blue on Gold on Blue,Wanna-Bee Athletes
+2016-05-06,DUSK,ECONOMY,BLUE,Blue on Gold on Blue,Wanna-Bee Athletes
+2016-05-06,NIGHT,MILITARY,GOLD,Blue on Gold on Blue,Wanna-Bee Athletes
+2016-05-06,DAY,MILITARY,BLUE,Snail Bait,Full Snail University
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Full Snail University
+2016-05-06,NIGHT,ECONOMY,GOLD,Snail Bait,Full Snail University
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,Yes Queens
+2016-05-06,DUSK,ECONOMY,GOLD,Bees by Dre,Yes Queens
+2016-05-06,DAY,ECONOMY,GOLD,Snail Bait,Yes Queens
+2016-05-06,DUSK,MILITARY,GOLD,Snail Bait,Yes Queens
+2016-05-06,DAY,MILITARY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,GOLD,Full Snail University,Sting Stang Stung
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,Wanna-Bee Athletes
+2016-05-06,DUSK,SNAIL,GOLD,Bees by Dre,Wanna-Bee Athletes
+2016-05-06,DAY,MILITARY,GOLD,You Only Live Thrice,Blue on Gold on Blue
+2016-05-06,DUSK,ECONOMY,BLUE,You Only Live Thrice,Blue on Gold on Blue
+2016-05-06,NIGHT,MILITARY,BLUE,You Only Live Thrice,Blue on Gold on Blue
+2016-05-06,DAY,MILITARY,GOLD,Snail Bait,Sting Stang Stung
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Sting Stang Stung
+2016-05-06,DAY,ECONOMY,GOLD,Bees by Dre,You Only Live Thrice
+2016-05-06,DUSK,ECONOMY,GOLD,Bees by Dre,You Only Live Thrice
+2016-05-06,DUSK,ECONOMY,GOLD,Full Snail University,Blue on Gold on Blue
+2016-05-06,DAY,ECONOMY,BLUE,Full Snail University,Blue on Gold on Blue
+2016-05-06,NIGHT,MILITARY,GOLD,Full Snail University,Blue on Gold on Blue
+2016-05-06,DAY,ECONOMY,BLUE,Wanna-Bee Athletes,Garbage Snail Kidz
+2016-05-06,DUSK,ECONOMY,BLUE,Wanna-Bee Athletes,Garbage Snail Kidz
+2016-05-06,DAY,MILITARY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,DUSK,ECONOMY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,BLUE,Snail Bait,Bees by Dre
+2016-05-06,DAY,ECONOMY,BLUE,Snail Bait,Bees by Dre
+2016-05-06,NIGHT,ECONOMY,GOLD,Snail Bait,Bees by Dre
+2016-05-06,DAY,MILITARY,GOLD,Gold,Blue
+2016-05-06,DAY,MILITARY,BLUE,Gold,Blue
+2016-05-06,DAY,MILITARY,GOLD,Gold,Blue
+2016-05-06,DAY,MILITARY,BLUE,Gold,Blue
+2016-05-06,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-05-06,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-05-06,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-05-06,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-05-06,DUSK,MILITARY,BLUE,Gold,Blue
+2016-05-06,DUSK,MILITARY,BLUE,Gold,Blue
+2016-05-06,DUSK,MILITARY,GOLD,Gold,Blue
+2016-05-06,DUSK,MILITARY,GOLD,Gold,Blue
+2016-05-06,DAY,MILITARY,GOLD,Gold,Blue
+2016-05-06,DAY,MILITARY,GOLD,Gold,Blue

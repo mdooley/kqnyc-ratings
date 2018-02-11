@@ -1,0 +1,58 @@
+2017-09-22,NIGHT,MILITARY,BLUE,Gold,Blue
+2017-09-22,NIGHT,SNAIL,BLUE,Gold,Blue
+2017-09-22,NIGHT,MILITARY,GOLD,Gold,Blue
+2017-09-22,DAY,ECONOMY,BLUE,Gold,Blue
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,Full Snail University
+2017-09-22,DUSK,ECONOMY,BLUE,Hayden's Team,Full Snail University
+2017-09-22,DAY,MILITARY,BLUE,Kangstingliere,Sam'd It!
+2017-09-22,NIGHT,MILITARY,BLUE,Kangstingliere,Sam'd It!
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-22,DUSK,MILITARY,BLUE,The Rent is Too Damn Hive,Pigeon Rats
+2017-09-22,DAY,MILITARY,BLUE,Kangstingliere,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,GOLD,Kangstingliere,Pigeon Rats
+2017-09-22,DUSK,MILITARY,GOLD,Kangstingliere,Pigeon Rats
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,Sam'd It!
+2017-09-22,DUSK,ECONOMY,BLUE,Hayden's Team,Sam'd It!
+2017-09-22,DAY,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-22,NIGHT,ECONOMY,BLUE,Team Werk,Full Snail University
+2017-09-22,DUSK,MILITARY,GOLD,Team Werk,Full Snail University
+2017-09-22,DAY,MILITARY,GOLD,Sam'd It!,Team Werk
+2017-09-22,NIGHT,MILITARY,GOLD,Sam'd It!,Team Werk
+2017-09-22,DAY,MILITARY,GOLD,Pigeon Rats,Hayden's Team
+2017-09-22,NIGHT,MILITARY,GOLD,Pigeon Rats,Hayden's Team
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Kangstingliere
+2017-09-22,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,Kangstingliere
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,The Rent is Too Damn Hive
+2017-09-22,DUSK,MILITARY,BLUE,Hayden's Team,The Rent is Too Damn Hive
+2017-09-22,DAY,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,BLUE,Team Werk,Pigeon Rats
+2017-09-22,DUSK,MILITARY,GOLD,Team Werk,Pigeon Rats
+2017-09-22,DAY,MILITARY,GOLD,Full Snail University,Sam'd It!
+2017-09-22,NIGHT,MILITARY,BLUE,Full Snail University,Sam'd It!
+2017-09-22,DUSK,MILITARY,BLUE,Full Snail University,Sam'd It!
+2017-09-22,DAY,MILITARY,BLUE,Pigeon Rats,Full Snail University
+2017-09-22,NIGHT,SNAIL,GOLD,Pigeon Rats,Full Snail University
+2017-09-22,DUSK,SNAIL,GOLD,Pigeon Rats,Full Snail University
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2017-09-22,DUSK,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2017-09-22,DAY,ECONOMY,GOLD,Kangstingliere,Hayden's Team
+2017-09-22,NIGHT,MILITARY,GOLD,Kangstingliere,Hayden's Team
+2017-09-22,DAY,MILITARY,GOLD,Team Werk,Kangstingliere
+2017-09-22,DUSK,MILITARY,GOLD,Team Werk,Kangstingliere
+2017-09-22,DAY,SNAIL,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-22,DUSK,SNAIL,GOLD,Full Snail University,The Rent is Too Damn Hive
+2017-09-22,DAY,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-22,NIGHT,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2017-09-22,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-22,NIGHT,SNAIL,BLUE,The Rent is Too Damn Hive,Sam'd It!
+2017-09-22,DAY,MILITARY,GOLD,Kangstingliere,Full Snail University
+2017-09-22,NIGHT,SNAIL,GOLD,Kangstingliere,Full Snail University
+2017-09-22,DAY,MILITARY,BLUE,Hayden's Team,Team Werk
+2017-09-22,DUSK,MILITARY,BLUE,Hayden's Team,Team Werk
+2017-09-22,DAY,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-22,NIGHT,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-22,DUSK,MILITARY,BLUE,Sam'd It!,Team Werk
+2017-09-22,DAY,MILITARY,GOLD,Gold,Blue
+2017-09-22,DAY,MILITARY,GOLD,Gold,Blue
+2017-09-22,DAY,MILITARY,BLUE,Gold,Blue

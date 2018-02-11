@@ -1,0 +1,102 @@
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Let's Bee Evil
+2016-09-16,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Let's Bee Evil
+2016-09-16,NIGHT,MILITARY,BLUE,Full Snail University,I'll Bee There
+2016-09-16,DAY,MILITARY,BLUE,Full Snail University,I'll Bee There
+2016-09-16,NIGHT,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,BLUE,I'll Bee There,Booty Please
+2016-09-16,DAY,MILITARY,BLUE,I'll Bee There,Booty Please
+2016-09-16,NIGHT,ECONOMY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-16,DAY,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-16,NIGHT,ECONOMY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Let's Bee Evil
+2016-09-16,DAY,MILITARY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Let's Bee Evil
+2016-09-16,NIGHT,ECONOMY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,I'll Bee There
+2016-09-16,DAY,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,I'll Bee There
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,The Rent is Too Damn Hive
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,The Rent is Too Damn Hive
+2016-09-16,NIGHT,MILITARY,BLUE,I'll Bee There,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,BLUE,I'll Bee There,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,MILITARY,GOLD,Full Snail University,Let's Bee Evil
+2016-09-16,DAY,ECONOMY,GOLD,Full Snail University,Let's Bee Evil
+2016-09-16,NIGHT,ECONOMY,GOLD,The Rent is Too Damn Hive,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,DAY,ECONOMY,GOLD,The Rent is Too Damn Hive,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,NIGHT,ECONOMY,BLUE,?Blue Soldier Spawns into Already in The Way Gold Soldier,Full Snail University
+2016-09-16,DAY,MILITARY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Full Snail University
+2016-09-16,NIGHT,ECONOMY,GOLD,?Blue Soldier Spawns into Already in The Way Gold Soldier,Full Snail University
+2016-09-16,NIGHT,SNAIL,BLUE,I'll Bee There,The Rent is Too Damn Hive
+2016-09-16,DAY,MILITARY,BLUE,I'll Bee There,The Rent is Too Damn Hive
+2016-09-16,NIGHT,MILITARY,BLUE,Let's Bee Evil,Booty Please
+2016-09-16,DAY,MILITARY,GOLD,Let's Bee Evil,Booty Please
+2016-09-16,NIGHT,MILITARY,BLUE,Let's Bee Evil,Booty Please
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,Full Snail University
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,Full Snail University
+2016-09-16,NIGHT,ECONOMY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,Let's Bee Evil
+2016-09-16,DAY,MILITARY,BLUE,Probably Benign Tumor in Steve's Adrenal Gland,Let's Bee Evil
+2016-09-16,NIGHT,MILITARY,BLUE,?Blue Soldier Spawns into Already in The Way Gold Soldier,Booty Please
+2016-09-16,DAY,MILITARY,BLUE,?Blue Soldier Spawns into Already in The Way Gold Soldier,Booty Please
+2016-09-16,NIGHT,MILITARY,GOLD,Full Snail University,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,DAY,SNAIL,GOLD,Full Snail University,Probably Benign Tumor in Steve's Adrenal Gland
+2016-09-16,NIGHT,ECONOMY,BLUE,Let's Bee Evil,I'll Bee There
+2016-09-16,DAY,MILITARY,GOLD,Let's Bee Evil,I'll Bee There
+2016-09-16,NIGHT,ECONOMY,BLUE,Let's Bee Evil,I'll Bee There
+2016-09-16,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,MILITARY,BLUE,The Rent is Too Damn Hive,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,GOLD,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,ECONOMY,BLUE,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,DAY,MILITARY,GOLD,Booty Please,?Blue Soldier Spawns into Already in The Way Gold Soldier
+2016-09-16,NIGHT,SNAIL,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,SNAIL,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,SNAIL,BLUE,Gold,Blue
+2016-09-16,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-16,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-16,NIGHT,MILITARY,GOLD,Gold,Blue

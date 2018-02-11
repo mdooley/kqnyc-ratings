@@ -1,0 +1,140 @@
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,ECONOMY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Team Werk,Phil Pollens
+2016-09-23,NIGHT,MILITARY,GOLD,Team Werk,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Bruce Stingsbee
+2016-09-23,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Bruce Stingsbee
+2016-09-23,NIGHT,MILITARY,BLUE,Full Snail University,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,Full Snail University,Ahmad on the Second Floor
+2016-09-23,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Team Werk
+2016-09-23,DAY,MILITARY,BLUE,Garbage Snail Kidz,Team Werk
+2016-09-23,DAY,SNAIL,GOLD,Bruce Stingsbee,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,GOLD,Bruce Stingsbee,Phil Pollens
+2016-09-23,NIGHT,MILITARY,BLUE,Ahmad on the Second Floor,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DUSK,MILITARY,BLUE,Ahmad on the Second Floor,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,NIGHT,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-23,DAY,MILITARY,GOLD,Full Snail University,The Rent is Too Damn Hive
+2016-09-23,NIGHT,MILITARY,GOLD,Team Werk,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Team Werk,Bruce Stingsbee
+2016-09-23,NIGHT,SNAIL,BLUE,Garbage Snail Kidz,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,Garbage Snail Kidz,Ahmad on the Second Floor
+2016-09-23,NIGHT,ECONOMY,BLUE,Phil Pollens,Full Snail University
+2016-09-23,DAY,MILITARY,BLUE,Phil Pollens,Full Snail University
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,The Rent is Too Damn Hive
+2016-09-23,DAY,MILITARY,BLUE,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,The Rent is Too Damn Hive
+2016-09-23,DUSK,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,The Rent is Too Damn Hive
+2016-09-23,NIGHT,MILITARY,BLUE,Ahmad on the Second Floor,Team Werk
+2016-09-23,DAY,MILITARY,BLUE,Ahmad on the Second Floor,Team Werk
+2016-09-23,NIGHT,MILITARY,GOLD,Full Snail University,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Full Snail University,Bruce Stingsbee
+2016-09-23,NIGHT,SNAIL,GOLD,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,The Rent is Too Damn Hive,Garbage Snail Kidz
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Phil Pollens
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Phil Pollens
+2016-09-23,NIGHT,SNAIL,BLUE,Team Werk,Full Snail University
+2016-09-23,DAY,SNAIL,GOLD,Team Werk,Full Snail University
+2016-09-23,DUSK,MILITARY,BLUE,Team Werk,Full Snail University
+2016-09-23,NIGHT,MILITARY,BLUE,Ahmad on the Second Floor,The Rent is Too Damn Hive
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,The Rent is Too Damn Hive
+2016-09-23,DUSK,SNAIL,GOLD,Ahmad on the Second Floor,The Rent is Too Damn Hive
+2016-09-23,NIGHT,MILITARY,BLUE,Bruce Stingsbee,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DAY,MILITARY,GOLD,Bruce Stingsbee,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DUSK,MILITARY,BLUE,Bruce Stingsbee,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,NIGHT,ECONOMY,BLUE,Garbage Snail Kidz,Phil Pollens
+2016-09-23,DAY,MILITARY,GOLD,Garbage Snail Kidz,Phil Pollens
+2016-09-23,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,BLUE,The Rent is Too Damn Hive,Team Werk
+2016-09-23,DAY,MILITARY,BLUE,The Rent is Too Damn Hive,Team Werk
+2016-09-23,NIGHT,ECONOMY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Full Snail University
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Full Snail University
+2016-09-23,NIGHT,ECONOMY,BLUE,Phil Pollens,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,Phil Pollens,Ahmad on the Second Floor
+2016-09-23,NIGHT,ECONOMY,GOLD,Garbage Snail Kidz,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,BLUE,Garbage Snail Kidz,Bruce Stingsbee
+2016-09-23,DUSK,MILITARY,GOLD,Garbage Snail Kidz,Bruce Stingsbee
+2016-09-23,NIGHT,ECONOMY,BLUE,Team Werk,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,DAY,MILITARY,BLUE,Team Werk,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam
+2016-09-23,NIGHT,MILITARY,GOLD,The Rent is Too Damn Hive,Phil Pollens
+2016-09-23,DAY,ECONOMY,GOLD,The Rent is Too Damn Hive,Phil Pollens
+2016-09-23,NIGHT,ECONOMY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-23,DAY,MILITARY,GOLD,Full Snail University,Garbage Snail Kidz
+2016-09-23,NIGHT,MILITARY,GOLD,Ahmad on the Second Floor,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,Bruce Stingsbee
+2016-09-23,DAY,MILITARY,GOLD,Ahmad on the Second Floor,Team Werk
+2016-09-23,NIGHT,SNAIL,BLUE,Team Werk,Full Snail University
+2016-09-23,DAY,MILITARY,BLUE,Full Snail University,Ahmad on the Second Floor
+2016-09-23,NIGHT,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,BLUE,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-23,NIGHT,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,GOLD,?Sometimes A Wrap Kill Will Kill The Queen Twice But Only If You're A Warrior On Night Map fam,Ahmad on the Second Floor
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DUSK,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,DUSK,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-23,NIGHT,ECONOMY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-09-23,DUSK,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,BLUE,Gold,Blue
+2016-09-23,DAY,MILITARY,BLUE,Gold,Blue
+2016-09-23,NIGHT,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,DAY,MILITARY,GOLD,Gold,Blue
+2016-09-23,NIGHT,ECONOMY,BLUE,Gold,Blue
+2016-09-23,DUSK,MILITARY,BLUE,Gold,Blue

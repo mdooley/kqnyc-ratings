@@ -1,0 +1,42 @@
+2018-02-02,DAY,MILITARY,GOLD,Gold,Blue
+2018-02-02,DAY,MILITARY,GOLD,Gold,Blue
+2018-02-02,DAY,MILITARY,GOLD,Gold,Blue
+2018-02-02,NIGHT,MILITARY,BLUE,Gold,Blue
+2018-02-02,DAY,MILITARY,BLUE,Gold,Blue
+2018-02-02,DAY,MILITARY,GOLD,Gold,Blue
+2018-02-02,DUSK,SNAIL,GOLD,Sam'd It!,Team Break
+2018-02-02,NIGHT,ECONOMY,BLUE,Sam'd It!,Team Break
+2018-02-02,DAY,MILITARY,GOLD,Sam'd It!,Team Break
+2018-02-02,DAY,MILITARY,GOLD,Full Snail University,Lizard Audible
+2018-02-02,DUSK,MILITARY,GOLD,Full Snail University,Lizard Audible
+2018-02-02,DUSK,MILITARY,GOLD,Pigeon Rats,Losing You
+2018-02-02,NIGHT,SNAIL,GOLD,Pigeon Rats,Losing You
+2018-02-02,DUSK,MILITARY,GOLD,Lizard Audible,Pigeon Rats
+2018-02-02,NIGHT,SNAIL,BLUE,Lizard Audible,Pigeon Rats
+2018-02-02,DAY,ECONOMY,GOLD,Lizard Audible,Pigeon Rats
+2018-02-02,DUSK,MILITARY,BLUE,Losing You,Sam'd It!
+2018-02-02,NIGHT,MILITARY,BLUE,Losing You,Sam'd It!
+2018-02-02,DUSK,MILITARY,BLUE,Team Break,Full Snail University
+2018-02-02,NIGHT,MILITARY,BLUE,Team Break,Full Snail University
+2018-02-02,DUSK,MILITARY,BLUE,Losing You,Lizard Audible
+2018-02-02,NIGHT,MILITARY,BLUE,Losing You,Lizard Audible
+2018-02-02,DUSK,MILITARY,BLUE,Pigeon Rats,Team Break
+2018-02-02,NIGHT,MILITARY,BLUE,Pigeon Rats,Team Break
+2018-02-02,DUSK,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-02-02,NIGHT,ECONOMY,BLUE,Sam'd It!,Full Snail University
+2018-02-02,DAY,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-02-02,DUSK,MILITARY,GOLD,Full Snail University,Pigeon Rats
+2018-02-02,DAY,ECONOMY,GOLD,Full Snail University,Pigeon Rats
+2018-02-02,DUSK,MILITARY,GOLD,Team Break,Losing You
+2018-02-02,NIGHT,MILITARY,GOLD,Team Break,Losing You
+2018-02-02,DUSK,MILITARY,BLUE,Lizard Audible,Sam'd It!
+2018-02-02,DAY,MILITARY,BLUE,Lizard Audible,Sam'd It!
+2018-02-02,DUSK,MILITARY,BLUE,Losing You,Full Snail University
+2018-02-02,NIGHT,ECONOMY,BLUE,Losing You,Full Snail University
+2018-02-02,DUSK,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2018-02-02,NIGHT,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2018-02-02,DUSK,MILITARY,BLUE,Lizard Audible,Team Break
+2018-02-02,NIGHT,MILITARY,BLUE,Lizard Audible,Team Break
+2018-02-02,DUSK,SNAIL,GOLD,Sam'd It!,Full Snail University
+2018-02-02,NIGHT,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-02-02,DAY,MILITARY,GOLD,Sam'd It!,Full Snail University
