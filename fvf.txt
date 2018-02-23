@@ -2974,3 +2974,29 @@
 2018-02-09,DUSK,ECONOMY,GOLD,Team Break,Getting Back Up
 2018-02-09,DAY,MILITARY,GOLD,Team Break,Getting Back Up
 2018-02-09,NIGHT,MILITARY,GOLD,Team Break,Getting Back Up
+2018-02-16,DUSK,MILITARY,GOLD,Pigeon Named Sam,Beet U
+2018-02-16,DAY,SNAIL,GOLD,Pigeon Named Sam,Beet U
+2018-02-16,DUSK,MILITARY,BLUE,Full Snail University,Something About Us
+2018-02-16,DAY,MILITARY,BLUE,Full Snail University,Something About Us
+2018-02-16,DUSK,SNAIL,BLUE,Beet U,Full Snail University
+2018-02-16,DAY,SNAIL,BLUE,Beet U,Full Snail University
+2018-02-16,DUSK,MILITARY,GOLD,Team Break,Pigeon Named Sam
+2018-02-16,DAY,MILITARY,GOLD,Team Break,Pigeon Named Sam
+2018-02-16,DUSK,MILITARY,GOLD,Full Snail University,Team Break
+2018-02-16,NIGHT,ECONOMY,BLUE,Full Snail University,Team Break
+2018-02-16,DAY,MILITARY,GOLD,Full Snail University,Team Break
+2018-02-16,DUSK,MILITARY,GOLD,Something About Us,Beet U
+2018-02-16,DAY,MILITARY,GOLD,Something About Us,Beet U
+2018-02-16,DUSK,MILITARY,GOLD,Team Break,Something About Us
+2018-02-16,DAY,MILITARY,BLUE,Team Break,Something About Us
+2018-02-16,NIGHT,ECONOMY,BLUE,Team Break,Something About Us
+2018-02-16,DUSK,MILITARY,BLUE,Pigeon Named Sam,Full Snail University
+2018-02-16,DAY,MILITARY,BLUE,Pigeon Named Sam,Full Snail University
+2018-02-16,DUSK,ECONOMY,GOLD,Something About Us,Pigeon Named Sam
+2018-02-16,DAY,MILITARY,GOLD,Something About Us,Pigeon Named Sam
+2018-02-16,DUSK,MILITARY,BLUE,Beet U,Team Break
+2018-02-16,DAY,MILITARY,BLUE,Beet U,Team Break
+2018-02-16,DUSK,MILITARY,BLUE,Something About Us,Full Snail University
+2018-02-16,DAY,MILITARY,BLUE,Something About Us,Full Snail University
+2018-02-16,NIGHT,ECONOMY,GOLD,Something About Us,Full Snail University
+2018-02-16,DAY,MILITARY,BLUE,Something About Us,Full Snail University

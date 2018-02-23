@@ -2,12 +2,11 @@
 
 |Rating|Team|
 |------|----|
-|32.99699 |Team Werk |
 |28.83200 |Sam'd It! |
-|27.18397 |Full Snail University |
-|26.51466 |Team Break |
-|25.43545 |The Rent is Too Damn Hive |
+|27.55521 |Full Snail University |
+|26.64933 |Team Break |
 |25.36700 |Pigeon Rats |
+|16.72470 |Beet U |
 
 **All Time**
 
@@ -17,8 +16,8 @@
 |28.83200 |Sam'd It! |
 |28.71824 |DeepHiveMind |
 |27.60884 |Combunists |
-|27.18397 |Full Snail University |
-|26.51466 |Team Break |
+|27.55521 |Full Snail University |
+|26.64933 |Team Break |
 |25.43545 |The Rent is Too Damn Hive |
 |25.36700 |Pigeon Rats |
 |25.05472 |billywitchdoctor.com |
@@ -37,6 +36,7 @@ Ratings were generated using [TrueSkill](https://github.com/sublee/trueskill)
 
 | Date     | Bracket                                                    | Archive                                            | Notes                               |
 |----------|-------------------------------------------------           |----------------------------------------------------|-------------------------------------|
+|2018-02-16|[Challonge](http://challonge.com/FvFF021618)                |[Video](https://www.youtube.com/watch?v=JQNaBGbXmYA)|:white_check_mark:                   |
 |2018-02-09|[Challonge](http://challonge.com/FvFF020918)                |[Video](https://www.youtube.com/watch?v=bn_v3OWLHfY)|:white_check_mark:                   |
 |2018-02-02|[Challonge](http://challonge.com/FvFF020218)                |[Video](https://www.youtube.com/watch?v=HMXqFlIZ_w4)|:white_check_mark:                   |
 |2018-01-19|[Challonge](http://challonge.com/FvFF011918)                |[Video](https://www.youtube.com/watch?v=VznpyfMz5Pc)|:x: Incomplete Stream                |
