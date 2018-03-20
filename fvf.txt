@@ -3000,3 +3000,86 @@
 2018-02-16,DAY,MILITARY,BLUE,Something About Us,Full Snail University
 2018-02-16,NIGHT,ECONOMY,GOLD,Something About Us,Full Snail University
 2018-02-16,DAY,MILITARY,BLUE,Something About Us,Full Snail University
+2018-03-09,DAY,ECONOMY,GOLD,2 Many Alexes,Chinatown
+2018-03-09,NIGHT,ECONOMY,GOLD,2 Many Alexes,Chinatown
+2018-03-09,DUSK,MILITARY,GOLD,2 Many Alexes,Chinatown
+2018-03-09,DAY,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2018-03-09,NIGHT,MILITARY,GOLD,Sam'd It!,Pigeon Rats
+2018-03-09,DUSK,ECONOMY,GOLD,Sam'd It!,Pigeon Rats
+2018-03-09,DAY,MILITARY,BLUE,Chinatown,Sam'd It!
+2018-03-09,NIGHT,ECONOMY,BLUE,Chinatown,Sam'd It!
+2018-03-09,DUSK,ECONOMY,BLUE,Chinatown,Sam'd It!
+2018-03-09,DUSK,ECONOMY,GOLD,Full Snail University,2 Many Alexes
+2018-03-09,NIGHT,ECONOMY,GOLD,Full Snail University,2 Many Alexes
+2018-03-09,DAY,MILITARY,BLUE,Full Snail University,2 Many Alexes
+2018-03-09,DAY,MILITARY,GOLD,Full Snail University,2 Many Alexes
+2018-03-09,DUSK,ECONOMY,GOLD,Sam'd It!,Full Snail University
+2018-03-09,NIGHT,MILITARY,BLUE,Sam'd It!,Full Snail University
+2018-03-09,DAY,ECONOMY,BLUE,Sam'd It!,Full Snail University
+2018-03-09,DAY,MILITARY,GOLD,Sam'd It!,Full Snail University
+2018-03-09,NIGHT,ECONOMY,GOLD,Sam'd It!,Full Snail University
+2018-03-09,DAY,MILITARY,BLUE,Pigeon Rats,Chinatown
+2018-03-09,NIGHT,MILITARY,BLUE,Pigeon Rats,Chinatown
+2018-03-09,DUSK,MILITARY,BLUE,Pigeon Rats,Chinatown
+2018-03-09,DUSK,MILITARY,BLUE,Full Snail University,Pigeon Rats
+2018-03-09,NIGHT,ECONOMY,BLUE,Full Snail University,Pigeon Rats
+2018-03-09,DAY,SNAIL,BLUE,Full Snail University,Pigeon Rats
+2018-03-09,DAY,MILITARY,BLUE,2 Many Alexes,Sam'd It!
+2018-03-09,DUSK,MILITARY,GOLD,2 Many Alexes,Sam'd It!
+2018-03-09,NIGHT,ECONOMY,BLUE,2 Many Alexes,Sam'd It!
+2018-03-09,DUSK,MILITARY,GOLD,2 Many Alexes,Sam'd It!
+2018-03-09,DAY,MILITARY,BLUE,2 Many Alexes,Sam'd It!
+2018-03-09,DUSK,ECONOMY,BLUE,Pigeon Rats,2 Many Alexes
+2018-03-09,NIGHT,ECONOMY,GOLD,Pigeon Rats,2 Many Alexes
+2018-03-09,DAY,ECONOMY,BLUE,Pigeon Rats,2 Many Alexes
+2018-03-09,NIGHT,MILITARY,GOLD,Pigeon Rats,2 Many Alexes
+2018-03-09,DAY,MILITARY,BLUE,Pigeon Rats,2 Many Alexes
+2018-03-09,DAY,ECONOMY,BLUE,Chinatown,Full Snail University
+2018-03-09,NIGHT,ECONOMY,BLUE,Chinatown,Full Snail University
+2018-03-09,DUSK,SNAIL,GOLD,Chinatown,Full Snail University
+2018-03-09,NIGHT,ECONOMY,BLUE,Chinatown,Full Snail University
+2018-03-09,DAY,SNAIL,BLUE,Full Snail University,2 Many Alexes
+2018-03-09,NIGHT,MILITARY,BLUE,Full Snail University,2 Many Alexes
+2018-03-09,DUSK,MILITARY,BLUE,Sam'd It!,2 Many Alexes
+2018-03-09,DAY,MILITARY,GOLD,Sam'd It!,2 Many Alexes
+2018-03-09,NIGHT,ECONOMY,GOLD,Sam'd It!,2 Many Alexes
+2018-03-09,DUSK,MILITARY,GOLD,Sam'd It!,2 Many Alexes
+2018-03-09,DAY,MILITARY,GOLD,Sam'd It!,2 Many Alexes
+2018-03-16,DAY,MILITARY,BLUE,Beeards and Baybee,Crab Meat
+2018-03-16,NIGHT,ECONOMY,BLUE,Beeards and Baybee,Crab Meat
+2018-03-16,DAY,MILITARY,GOLD,Mucho Tasto,Bees
+2018-03-16,NIGHT,ECONOMY,GOLD,Mucho Tasto,Bees
+2018-03-16,NIGHT,ECONOMY,BLUE,The Royal We,Pagan Rats
+2018-03-16,DAY,SNAIL,GOLD,The Royal We,Pagan Rats
+2018-03-16,DUSK,SNAIL,GOLD,The Royal We,Pagan Rats
+2018-03-16,DAY,MILITARY,BLUE,Bees,The Royal We
+2018-03-16,NIGHT,MILITARY,BLUE,Bees,The Royal We
+2018-03-16,DAY,MILITARY,BLUE,Beeards and Baybee,Pagan Rats
+2018-03-16,DUSK,ECONOMY,BLUE,Beeards and Baybee,Pagan Rats
+2018-03-16,DAY,MILITARY,GOLD,Crab Meat,Mucho Tasto
+2018-03-16,DUSK,MILITARY,BLUE,Crab Meat,Mucho Tasto
+2018-03-16,NIGHT,ECONOMY,BLUE,Crab Meat,Mucho Tasto
+2018-03-16,NIGHT,MILITARY,GOLD,Pagan Rats,Bees
+2018-03-16,DAY,MILITARY,GOLD,Pagan Rats,Bees
+2018-03-16,DAY,MILITARY,BLUE,The Royal We,Crab Meat
+2018-03-16,DUSK,SNAIL,BLUE,The Royal We,Crab Meat
+2018-03-16,DAY,ECONOMY,BLUE,Beeards and Baybee,Mucho Tasto
+2018-03-16,DUSK,ECONOMY,BLUE,Beeards and Baybee,Mucho Tasto
+2018-03-16,DAY,MILITARY,GOLD,Mucho Tasto,The Royal We
+2018-03-16,NIGHT,MILITARY,GOLD,Mucho Tasto,The Royal We
+2018-03-16,NIGHT,MILITARY,GOLD,Crab Meat,Pagan Rats
+2018-03-16,DAY,SNAIL,GOLD,Crab Meat,Pagan Rats
+2018-03-16,DAY,MILITARY,BLUE,Bees,Beeards and Baybee
+2018-03-16,NIGHT,SNAIL,BLUE,Bees,Beeards and Baybee
+2018-03-16,DAY,MILITARY,BLUE,Pagan Rats,Mucho Tasto
+2018-03-16,NIGHT,MILITARY,BLUE,Pagan Rats,Mucho Tasto
+2018-03-16,DAY,MILITARY,GOLD,Beeards and Baybee,The Royal We
+2018-03-16,NIGHT,MILITARY,BLUE,Beeards and Baybee,The Royal We
+2018-03-16,DUSK,MILITARY,GOLD,Beeards and Baybee,The Royal We
+2018-03-16,DAY,MILITARY,BLUE,Bees,Crab Meat
+2018-03-16,DUSK,ECONOMY,BLUE,Bees,Crab Meat
+2018-03-16,DAY,MILITARY,BLUE,Mucho Tasto,Crab Meat
+2018-03-16,NIGHT,MILITARY,GOLD,Mucho Tasto,Crab Meat
+2018-03-16,DUSK,MILITARY,GOLD,Mucho Tasto,Crab Meat
+2018-03-16,DAY,MILITARY,BLUE,Mucho Tasto,Crab Meat
+2018-03-16,NIGHT,ECONOMY,BLUE,Mucho Tasto,Crab Meat
