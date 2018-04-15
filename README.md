@@ -2,11 +2,10 @@
 
 |Rating|Team|
 |------|----|
-|29.29439 |Sam'd It! |
-|27.17153 |Full Snail University |
-|26.64933 |Team Break |
-|25.17920 |Pigeon Rats |
-|16.72470 |Beet U |
+|27.85431 |Full Snail University |
+|27.45745 |Team Break |
+|25.21045 |Pigeon Rats |
+|21.61753 |It's Lit Famine |
 
 **All Time**
 
@@ -15,17 +14,17 @@
 |32.99699 |Team Werk |
 |29.29439 |Sam'd It! |
 |28.71824 |DeepHiveMind |
+|27.85431 |Full Snail University |
 |27.60884 |Combunists |
-|27.17153 |Full Snail University |
-|26.64933 |Team Break |
+|27.45745 |Team Break |
 |25.43545 |The Rent is Too Damn Hive |
-|25.17920 |Pigeon Rats |
+|25.21045 |Pigeon Rats |
 |25.05472 |billywitchdoctor.com |
 |23.27059 |Beediocre |
 |22.98937 |Beauty and the Bees |
-|22.81601 |It's Lit Famine |
 |22.75521 |Twin Needle |
 |21.62799 |Berry Your Dead |
+|21.61753 |It's Lit Famine |
 |18.56033 |Garbage Snail Kidz |
 
 Results were obtained by using [kq-scraper](https://github.com/mdooley/kq-scraper)
@@ -36,6 +35,9 @@ Ratings were generated using [TrueSkill](https://github.com/sublee/trueskill)
 
 | Date     | Bracket                                                     | Archive                                            | Notes                               |
 |----------|-------------------------------------------------            |----------------------------------------------------|-------------------------------------|
+|2018-04-13|[Challonge](https://challonge.com/FvFF041318)                |[Video](https://www.youtube.com/watch?v=rJf1AZ8oi3w)|:white_check_mark:                   |
+|2018-04-06|[Challonge](https://challonge.com/FvFF040618)                |[Video](https://www.youtube.com/watch?v=bqp_mBd-yAo)|:white_check_mark:                   |
+|2018-03-30|[Challonge](https://challonge.com/FvFF033018)                |[Video](https://www.youtube.com/watch?v=AshTq50rU9o)|:white_check_mark:                   |
 |2018-03-16|[Challonge](https://challonge.com/FvFF031918)                |[Video](https://www.youtube.com/watch?v=VUyj4X74-nw)|:white_check_mark:                   |
 |2018-03-09|[Challonge](https://challonge.com/FvFF030918)                |[Video](https://www.youtube.com/watch?v=zh8t4RHkYrs)|:white_check_mark:                   |
 |2018-02-16|[Challonge](https://challonge.com/FvFF021618)                |[Video](https://www.youtube.com/watch?v=JQNaBGbXmYA)|:white_check_mark:                   |

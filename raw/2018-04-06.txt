@@ -1,0 +1,71 @@
+2018-04-06,DAY,MILITARY,GOLD,Gold,Blue
+2018-04-06,NIGHT,MILITARY,GOLD,Gold,Blue
+2018-04-06,DUSK,MILITARY,GOLD,Gold,Blue
+2018-04-06,DAY,MILITARY,BLUE,Gold,Blue
+2018-04-06,DUSK,MILITARY,BLUE,Gold,Blue
+2018-04-06,NIGHT,MILITARY,BLUE,Gold,Blue
+2018-04-06,DUSK,MILITARY,BLUE,Gold,Blue
+2018-04-06,DAY,MILITARY,BLUE,Gold,Blue
+2018-04-06,NIGHT,MILITARY,BLUE,Gold,Blue
+2018-04-06,DAY,MILITARY,GOLD,Up and Coming,Too Many Bees on the Dance Floor
+2018-04-06,DUSK,MILITARY,GOLD,Up and Coming,Too Many Bees on the Dance Floor
+2018-04-06,DAY,MILITARY,BLUE,It's Lit Famine,Swallowed Laughter
+2018-04-06,NIGHT,ECONOMY,BLUE,It's Lit Famine,Swallowed Laughter
+2018-04-06,DAY,MILITARY,GOLD,Luke Warm,Oh The Bliss
+2018-04-06,NIGHT,ECONOMY,GOLD,Luke Warm,Oh The Bliss
+2018-04-06,DAY,MILITARY,BLUE,Swallowed Laughter,Luke Warm
+2018-04-06,NIGHT,MILITARY,BLUE,Swallowed Laughter,Luke Warm
+2018-04-06,DAY,MILITARY,BLUE,Too Many Bees on the Dance Floor,It's Lit Famine
+2018-04-06,DUSK,ECONOMY,GOLD,Too Many Bees on the Dance Floor,It's Lit Famine
+2018-04-06,NIGHT,MILITARY,BLUE,Too Many Bees on the Dance Floor,It's Lit Famine
+2018-04-06,DAY,MILITARY,GOLD,Team Break,Up and Coming
+2018-04-06,NIGHT,MILITARY,BLUE,Team Break,Up and Coming
+2018-04-06,DUSK,MILITARY,BLUE,Team Break,Up and Coming
+2018-04-06,DAY,MILITARY,BLUE,It's Lit Famine,Team Break
+2018-04-06,NIGHT,MILITARY,BLUE,It's Lit Famine,Team Break
+2018-04-06,DAY,MILITARY,GOLD,Luke Warm,Too Many Bees on the Dance Floor
+2018-04-06,DUSK,ECONOMY,GOLD,Luke Warm,Too Many Bees on the Dance Floor
+2018-04-06,DAY,MILITARY,BLUE,Oh The Bliss,Swallowed Laughter
+2018-04-06,NIGHT,ECONOMY,BLUE,Oh The Bliss,Swallowed Laughter
+2018-04-06,DAY,MILITARY,GOLD,Too Many Bees on the Dance Floor,Oh The Bliss
+2018-04-06,NIGHT,ECONOMY,BLUE,Too Many Bees on the Dance Floor,Oh The Bliss
+2018-04-06,DUSK,MILITARY,BLUE,Too Many Bees on the Dance Floor,Oh The Bliss
+2018-04-06,DAY,MILITARY,GOLD,Team Break,Luke Warm
+2018-04-06,NIGHT,ECONOMY,GOLD,Team Break,Luke Warm
+2018-04-06,DAY,MILITARY,GOLD,Up and Coming,It's Lit Famine
+2018-04-06,NIGHT,SNAIL,GOLD,Up and Coming,It's Lit Famine
+2018-04-06,DAY,MILITARY,GOLD,Luke Warm,Up and Coming
+2018-04-06,NIGHT,MILITARY,BLUE,Luke Warm,Up and Coming
+2018-04-06,DUSK,SNAIL,BLUE,Luke Warm,Up and Coming
+2018-04-06,DAY,SNAIL,BLUE,Oh The Bliss,Team Break
+2018-04-06,NIGHT,ECONOMY,BLUE,Oh The Bliss,Team Break
+2018-04-06,DAY,MILITARY,GOLD,Swallowed Laughter,Too Many Bees on the Dance Floor
+2018-04-06,NIGHT,MILITARY,GOLD,Swallowed Laughter,Too Many Bees on the Dance Floor
+2018-04-06,DAY,MILITARY,GOLD,Team Break,Swallowed Laughter
+2018-04-06,DUSK,MILITARY,GOLD,Team Break,Swallowed Laughter
+2018-04-06,DAY,MILITARY,GOLD,Up and Coming,Oh The Bliss
+2018-04-06,NIGHT,MILITARY,GOLD,Up and Coming,Oh The Bliss
+2018-04-06,DAY,MILITARY,GOLD,It's Lit Famine,Luke Warm
+2018-04-06,NIGHT,MILITARY,BLUE,It's Lit Famine,Luke Warm
+2018-04-06,DUSK,ECONOMY,BLUE,It's Lit Famine,Luke Warm
+2018-04-06,DAY,MILITARY,GOLD,Oh The Bliss,It's Lit Famine
+2018-04-06,NIGHT,MILITARY,GOLD,Oh The Bliss,It's Lit Famine
+2018-04-06,DAY,MILITARY,BLUE,Swallowed Laughter,Up and Coming
+2018-04-06,NIGHT,ECONOMY,GOLD,Swallowed Laughter,Up and Coming
+2018-04-06,DUSK,SNAIL,BLUE,Swallowed Laughter,Up and Coming
+2018-04-06,DAY,MILITARY,BLUE,Too Many Bees on the Dance Floor,Team Break
+2018-04-06,DUSK,MILITARY,BLUE,Too Many Bees on the Dance Floor,Team Break
+2018-04-06,DAY,MILITARY,GOLD,Up and Coming,Team Break
+2018-04-06,NIGHT,ECONOMY,BLUE,Up and Coming,Team Break
+2018-04-06,DUSK,MILITARY,GOLD,Up and Coming,Team Break
+2018-04-06,DUSK,MILITARY,GOLD,Up and Coming,Team Break
+2018-04-06,NIGHT,MILITARY,BLUE,Up and Coming,Team Break
+2018-04-06,DAY,SNAIL,BLUE,Up and Coming,Team Break
+2018-04-06,DUSK,ECONOMY,GOLD,Up and Coming,Team Break
+2018-04-06,DUSK,MILITARY,BLUE,Gold,Blue
+2018-04-06,NIGHT,MILITARY,GOLD,Gold,Blue
+2018-04-06,DAY,MILITARY,GOLD,Gold,Blue
+2018-04-06,DAY,MILITARY,GOLD,Gold,Blue
+2018-04-06,DAY,SNAIL,BLUE,Gold,Blue
+2018-04-06,DAY,MILITARY,GOLD,Gold,Blue
+2018-04-06,NIGHT,MILITARY,BLUE,Gold,Blue
